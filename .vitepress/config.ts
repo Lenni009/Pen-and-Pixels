@@ -6,7 +6,6 @@ export default defineConfig({
   description: "Wiki für das Studioprojekt der ME21b",
   base: '/Studioprojekt2024/',
   srcDir: 'pages',
-  cleanUrls: true,
   head: [
     ['link', {rel: 'icon', href: '/Studioprojekt2024/favicon.ico'}]
   ],
