@@ -8,7 +8,8 @@ export default defineConfig({
   srcDir: 'pages',
   cleanUrls: true,
   head: [
-    ['link', {rel: 'icon', href: '/Studioprojekt2024/favicon.ico'}]
+    ['link', {rel: 'icon', href: '/Studioprojekt2024/favicon.ico'}],
+    ['link', {rel: 'stylesheet', href: '/Studioprojekt2024/globalStyle.css'}],
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
