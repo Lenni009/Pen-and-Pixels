@@ -46,6 +46,7 @@ export default defineConfig({
           { text: 'NPC', link: '/npc' },
           { text: 'Klassen', link: '/klassen' },
           { text: 'Waffen', link: '/waffen' },
+          { text: 'Items', link: '/items' },
           { text: 'Gegner', link: '/gegner' },
         ]
       }
