@@ -8,7 +8,7 @@ Der graue Eremit verschwand ins Unbekannte und bis heute weiß niemand wer er wa
 ## Der Krieg um Fellheim (Riesen-Zwergen-Krieg)
 Nach dem Vorfall in den Minen von Gimlé gab es Krieg zwischen den Riesen und Zwergen. Dieser Konflikt war so gravierend, dass Fellheim nur noch ein unwirkliches Ödland ist. Nur noch in den Minen der Zwerge und den Städten der Riesen kann man Überleben. Außerhalb hat man kaum eine Chance.
 
-## Der Größkönig von Midgard
+## Der Grokönig von Midgard
 Einer der legendären Helden war der erste und einzige Großkönig von Midgard, später bekannt als Siegfried der Drachentöter. Er einte die zahlreichen menschlichen Stämme und schaffte es so, den ersten Angriff der Drachen abzuwehren. Jedoch merkte Siegfried schnell, dass die unsterblichen Drachen nur aufgehalten werden können, wenn sich alle Völker rund um den Weltenbaum vereinen. Im ersten Konzil von Hermannsburg, der Hauptstadt der Großkönigreiches der Menschen, wurde die Allianz gegen die Drachen geschmiedet. Aus Rache für den geleisteten Widerstand brannte Akatosh der Weltenvernichter Hermannsburg und die umgebenden Länderein bis auf die Grundmauern nieder. Bis auf Siegfried überlebte niemand. Knieend in der Asche seines Reiches kam ein unbekannter grauer Erimit auf ihn zu und teilte sein wissen mit ihm. Mit diesem Wissen konnte er und andere Helden aus anderen Völkern die Drachen besiegen und sicherte so die Existenz aller Lebewesen. Er bezahlte jedoch den höchsten Preis - Er bezahlte mit seinem Leben. Heutzutage wird er von vielen Menschen als Gottheit verehrt. Dem Glauben nach ruht er nun in Sovengarde, auf der Krone des Weltenbaums.
 
 ## Midgard nach dem Drachenkrieg
