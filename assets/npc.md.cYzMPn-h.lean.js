@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as r,V as n}from"./chunks/framework.mleWmeBo.js";const y=JSON.parse('{"title":"NPC Liste","description":"","frontmatter":{},"headers":[],"relativePath":"npc.md","filePath":"npc.md"}'),a={name:"npc.md"},d=n("",2),l=[d];function i(c,s,o,h,g,_){return r(),e("div",null,l)}const f=t(a,[["render",i]]);export{y as __pageData,f as default};
