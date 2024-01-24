@@ -4,7 +4,7 @@
 Yggdrasil, der Weltenbaum, ist die Verkörperung der Schöpfung als Gesamtes: räumlich, zeitlich und inhaltlich. Er steht im Zentrum der Welt und verbindet alle Welten miteinander. Als Weltachse verbindet er die drei Ebenen Himmel, Mittelwelt und Unterwelt. Die bekannte Welt reicht nur so weit, wie seine Zweige und Wurzeln reichen, und die Schöpfung besteht nur so lange, wie er besteht. Jedoch bleibt der Baum immer noch ein Mysterium. Ein Leben reicht aber nicht aus für die zahlreichen Gelehrter um das Geheimnis des Baumes zu erschlüsseln.
 
 ## Midgard, *der Mittelgarten*, Reich der Menschen
-Der Wohnort der Menschen in der Mitte der Welt. 
+Der Wohnort der Menschen in der Mitte der Welt.
 
 ## Drakengard, Heimat der Götter 
 Der letzte Ruheort des Götter. Drakengard liegt in der Krone des Weltenbaum Yggdrasil. Nachdem die legendären Helden der verschiedenen Völker vor vielen Äonen ihre weltlichen Körper für den Erhalt des Baumes opferten und die Drachenbedrohung durch das Aufnehmen derer Seelen beendete, fanden sie in den rumreichen Hallen in der Krone nun ihre letzte Ruhe und leben jetzt dort mit ihrem Drachenblut.

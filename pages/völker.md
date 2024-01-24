@@ -6,7 +6,7 @@
 Die Menschen leben auf Midgard. Einst unter dem Großkönig vereint, leben sie und in einzelne Klans zerstritten und im ständigen Konflikt.
 
 ### Walküre
-Die Walküren sind von den Göttern erschaffen und dienen ihnen ohne Wiederworte. Als Schlacht- und Schildjungferfügen fügen sie sich dem Willen der legendären Helden aus längst vergessener Zeit. 
+Die Walküren sind von den Göttern erschaffen und dienen ihnen ohne Wiederworte. Als Schlacht- und Schildjungferfügen fügen sie sich dem Willen der legendären Helden aus längst vergessener Zeit.
 
 ### Elben
 Die Elben sehen sich als die Beschützer von Yggdrasil. Sie leben in den weiten und auch dunkelnen Wäldern in Albenheim rund um dem Stam des Weltenbaumes. Sie sind auch die einzigen, die in dem unbarmherzigen und gefährlichen Wald auskennen. Jeder versuch ohne ne die Elben ist zum Scheitern verurteilt.
