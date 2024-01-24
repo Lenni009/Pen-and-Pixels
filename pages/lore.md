@@ -13,8 +13,6 @@ Einer der legendären Helden war der erste und einzige Großkönig von Midgard, 
 
 ## Midgard nach dem Drachenkrieg
 Nachdem Drachenkrieg war Midgard, sowie die anderen Regionen, komplett zerstört. Kaum eine Stadt hat den Krieg überlebt, so auch die Dynastie von Siegfried. Mit der Vernichtung von Hermannsburg starb auch jedes Mitglied seiner Familie. Somit hat am Ende Midgard weder einen Großkönig noch einen Erben. Das Großkönigreich zerfiel wieder in die einzelnen Klans. Mit der Zeit stellte sich die Vorherrschaft einzelner Dynastien hervor, welche um den leeren Thron von Midgard kämpften. 
-## Midgard nach dem Drachenkrieg
-Nachdem Drachenkrieg war Mitgard, sowie die anderen Regionen, komplett zerstört. Kaum eine Stadt hat den Krieg überlebt, so auch die Dynastie von Siegfried. Mit der Vernichtung von Hermannsburg, starb auch jedes Mitglied seiner Familie. Somit hat am Ende Mitgard weder einen Großkönig noch einen Erben. Und das Großkönigreich zerfiel wieder in die einzelnen Klans. Mit der Zeit stellte sich die Vorherrschaft einzelner Dynastien hervor welche um den leeren Thron von Midgard kämpften. 
 
 ### Das Haus der Odonen
 Das Haus der Odonen wurde von dem Fürsten Widukind gegründet. Widukind, ein loyaler Krieger Siegfrieds, nahm an jeder Schlacht seines Großkönigs teil und galt als engster Vertrauter des Großkönigs. Nach dessen Tot, nahm Widukind es sich zu Aufgabe, Midgard wieder aufzubauen. Für viele sind das Haus der Odonen die rechtmäßigen Nachvollger Siegfrieds, obwohl niemand von ihnen das Wissen über die magischen Runen besitzt. Ihr Hauptsitz ist das neue Zentrum Midgards, Talstadt.
