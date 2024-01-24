@@ -4,10 +4,10 @@
 Yggdrasil, der Weltenbaum, ist die Verkörperung der Schöpfung als Gesamtes: räumlich, zeitlich und inhaltlich. Er steht im Zentrum der Welt und verbindet alle Welten miteinander. Als Weltachse verbindet er die drei Ebenen Himmel, Mittelwelt und Unterwelt. Die bekannte Welt reicht nur so weit, wie seine Zweige und Wurzeln reichen, und die Schöpfung besteht nur so lange, wie er besteht. Jedoch bleibt der Baum immer noch ein Mysterium. Ein Leben reicht aber nicht aus für die zahlreichen Gelehrter um das Geheimnis des Baumes zu erschlüsseln.
 
 ## Midgard, Reich der Menschen
-
+Der Wohnort der Menschen in der Mitte der Welt. 
 
 ## Asenheim, Reich der Götter 
-
+Der letzte Ruheort des Götter. Asgard liegt in der Krone des Weltenbaum Yggdrasil. Nachdem sich die legendären Helden der Völker ihre weltliche Körper für den erhalt des Baumes 
 
 ## Albenheim, Reich der Elfen 
 
