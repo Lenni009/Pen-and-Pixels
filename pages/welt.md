@@ -1,6 +1,11 @@
 # Welt
 
-Inhaltsverzeichnis
-1. Der Weltenbaum
-2. Die Ebenen
-3. ect
+## Midgard, Reich der Menschen
+
+## Asenheim = Reich der Götter 
+
+## Albenheim = Reich der Elfen 
+
+## Jötunheim  = Reich der Riesen und Zwerge
+
+## Helheim/Nilfheim = Reich der Toten/Dunkelheit
