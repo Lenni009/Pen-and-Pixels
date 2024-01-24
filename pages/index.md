@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: Wiki
-      link: /Welt
+      link: /welt
   image:
     src: /android-chrome-512x512.png
     alt: Logo
