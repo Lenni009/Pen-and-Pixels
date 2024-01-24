@@ -1,1 +1,0 @@
-import{_ as e,c as r,o as i,V as t}from"./chunks/framework.mleWmeBo.js";const g=JSON.parse('{"title":"Welt","description":"","frontmatter":{},"headers":[],"relativePath":"welt.md","filePath":"welt.md"}'),a={name:"welt.md"},n=t("",10),h=[n];function d(l,s,c,o,m,u){return i(),r("div",null,h)}const f=e(a,[["render",d]]);export{g as __pageData,f as default};
