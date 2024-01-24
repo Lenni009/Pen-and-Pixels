@@ -1,6 +1,8 @@
 import type { DefaultTheme } from 'vitepress';
 
 export function sidebar(): DefaultTheme.SidebarItem[] {
+  // text: der Text, der in der Seitenleiste erscheint
+  // link: URL, unter der die Seite erreichbar ist. Muss mit dem Dateinamen der entsprechenden .md Datei übereinstimmen
   return [
     {
       text: 'Welt',
