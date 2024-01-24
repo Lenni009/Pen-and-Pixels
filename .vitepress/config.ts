@@ -21,6 +21,9 @@ export default defineConfig({
       {
         text: 'Examples',
         items: [
+          { text: 'Welt', link: '/welt' },
+          { text: 'Völker', link: '/völker' },
+          { text: 'NPC', link: '/npc' },
           { text: 'Klassen', link: '/klassen' },
           { text: 'Waffen', link: '/waffen' },
           { text: 'Gegner', link: '/gegner' },
