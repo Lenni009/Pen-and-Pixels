@@ -22,6 +22,8 @@ export default defineConfig({
         text: 'Examples',
         items: [
           { text: 'Klassen', link: '/klassen' },
+          { text: 'Waffen', link: '/waffen' },
+          { text: 'Gegner', link: '/gegner' },
         ]
       }
     ],
