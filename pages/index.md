@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Studioprojekt ME21b"
   text: "Wiki für das Studioprojekt der ME21b"
-  tagline: My great project tagline
+  tagline: Ein Pen'n'Paper Abenteuer der ME21b
   actions:
     - theme: brand
       text: Klassen
