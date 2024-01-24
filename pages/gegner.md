@@ -1,21 +1,21 @@
 # Gegner
 
-## Riesen
+### Riesen
 
 
 
-## Geister (Waldnymphe, [Skogsrå])
+### Geister (Waldnymphe, [Skogsrå])
 
 
 
-## Trolle/Orks
+### Trolle/Orks
 
 
 
-## Spielerrassen
+### Spielerrassen
 
 
 
-## Seemonster
+### Seemonster
 
 Kraken/Meerjungfrau/Sirene
