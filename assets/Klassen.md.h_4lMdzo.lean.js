@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as s,V as r}from"./chunks/framework.YDHY4Ypz.js";const f=JSON.parse('{"title":"Klassen","description":"","frontmatter":{},"headers":[],"relativePath":"Klassen.md","filePath":"Klassen.md"}'),l={name:"Klassen.md"},n=r("",3),t=[n];function o(i,c,_,d,m,p){return s(),a("div",null,t)}const u=e(l,[["render",o]]);export{f as __pageData,u as default};
