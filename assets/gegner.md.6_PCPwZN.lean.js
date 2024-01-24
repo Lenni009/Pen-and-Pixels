@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as r,V as s}from"./chunks/framework.mleWmeBo.js";const p=JSON.parse('{"title":"Gegner","description":"","frontmatter":{},"headers":[],"relativePath":"gegner.md","filePath":"gegner.md"}'),t={name:"gegner.md"},n=s("",7),o=[n];function i(l,h,d,c,_,g){return r(),a("div",null,o)}const u=e(t,[["render",i]]);export{p as __pageData,u as default};
