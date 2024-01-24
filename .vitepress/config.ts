@@ -13,33 +13,6 @@ export default defineConfig({
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    locales: {
-      root: {
-        label: 'Deutsch',
-        lang: 'de'
-      },
-    },
-      
-    search: {
-      provider: 'local',
-      options: {
-        locales: {
-          de: {
-            translations: {
-              button: {
-                buttonText: 'Suche',
-                buttonAriaLabel: 'Suche'
-              },
-              modal: {
-                noResultsText: 'Keine Ergebnisse gefunden',
-                resetButtonTitle: 'Suchtext löschen'
-              }
-            }
-          }
-        }
-      }
-    },
-
     nav: [
       { text: 'Startseite', link: '/' },
     ],
