@@ -9,7 +9,7 @@ Yggdrasil, der Weltenbaum, ist die Verkörperung der Schöpfung als Gesamtes: r�
 Der Wohnort der Menschen in der Mitte der Welt.
 
 ## Drakengard, Heimat der Götter
-Der letzte Ruheort des Götter. Drakengard liegt in der Krone des Weltenbaum Yggdrasil. Nachdem die legendären Helden der verschiedenen Völker vor vielen Äonen ihre weltlichen Körper für den Erhalt des Baumes opferten und die Drachenbedrohung durch das Aufnehmen derer Seelen beendete, fanden sie in den rumreichen Hallen in der Krone nun ihre letzte Ruhe und leben jetzt dort mit ihrem Drachenblut.
+Der letzte Ruheort des Götter. Drakengard liegt in der Krone des Weltenbaum Yggdrasil. Nachdem die legendären Helden der verschiedenen Völker vor vielen Äonen ihre weltlichen Körper für den Erhalt des Baumes opferten und die Drachenbedrohung durch das Aufnehmen derer Seelen beendete, fanden sie in den rumreichen Hallen von Sovngarde in der Krone des Baumes ihre letzte Ruhe und leben jetzt dort mit ihrem Drachenblut.
 
 ## Skogenheim, *die Waldwelt*, Reich der Elfen
 Ein endloser und mystischer Wald rund um den Stamm des Weltenbaums. Nur die Elben kennen sich hier aus.
