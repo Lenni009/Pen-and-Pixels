@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as s}from"./chunks/framework.mleWmeBo.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"spezies.md","filePath":"spezies.md"}'),a={name:"spezies.md"};function r(o,c,n,p,i,_){return s(),t("div")}const f=e(a,[["render",r]]);export{m as __pageData,f as default};
