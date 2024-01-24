@@ -1,1 +1,0 @@
-import{_ as e,c as n,o as r,V as i,a2 as a}from"./chunks/framework.KHOSnk99.js";const k=JSON.parse('{"title":"Lore","description":"","frontmatter":{},"headers":[],"relativePath":"lore.md","filePath":"lore.md"}'),d={name:"lore.md"},s=i("",22),t=[s];function h(l,u,o,c,g,m){return r(),n("div",null,t)}const f=e(d,[["render",h]]);export{k as __pageData,f as default};
