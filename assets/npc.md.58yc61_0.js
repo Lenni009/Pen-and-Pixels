@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.tPOqNZBE.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"npc.md","filePath":"npc.md"}'),c={name:"npc.md"};function n(r,o,s,p,_,d){return a(),t("div")}const f=e(c,[["render",n]]);export{m as __pageData,f as default};

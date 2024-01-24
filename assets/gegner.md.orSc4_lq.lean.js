@@ -1,1 +1,0 @@
-import{_ as e,c as r,o as a,V as t,a2 as n}from"./chunks/framework.tPOqNZBE.js";const f=JSON.parse('{"title":"Gegner","description":"","frontmatter":{},"headers":[],"relativePath":"gegner.md","filePath":"gegner.md"}'),i={name:"gegner.md"},l=t("",4),s=[l];function o(_,g,c,d,p,m){return a(),r("div",null,s)}const u=e(i,[["render",o]]);export{f as __pageData,u as default};
