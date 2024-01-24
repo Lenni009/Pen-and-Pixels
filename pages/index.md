@@ -13,6 +13,10 @@ hero:
     - theme: alt
       text: Gegner
       link: /gegner
+   -  theme: alt
+      text: NPC
+      link: /NPC
+
 
 features:
   - title: Feature A
