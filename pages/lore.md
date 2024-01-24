@@ -25,3 +25,6 @@ Die Askanier sind das älteste Herrschergeschlecht in Midgard. Schon bevor die D
 
 ## Skogenheim und die Elben
 Nach dem Großen Drachenkrieg zogen sich die Elben wieder in ihr Reich zurück und beschützten weiter den Weltenbaum selbst sowie den Wald um den Stamm rund herum. Nur noch wenige Elben haben Kontakt zur Außenwelt, somit ist immer ein besonderes Ereignis, wenn sich ein Elb außerhalb seines Heiligentums zeigt.
+
+## Erscheinen der Walküren
+Nach dem Ende des Großen Drachenkrieges erschienen vor auf dem Aschehaufen der Herrmannsburg eine Gruppe von geflügelten Schlacht- und Schildjungferfügen und errichteten dort nicht nur einen Schrein der an die Helden erinnert, sondern auch ein von ihnen bewohnte Burg. Der erste Kontakt zwischen den Walküren und den anderen Völkern lief alles andere als gut, aber über die Jahr wurden die Beziehungen immer besser. Heutzutage sind die Walküren für zwei Sachen bekannt - sie dienen den Göttern in Sovengarde und sie sind von allen Völker die gewandtesten und geschicksten Krieger.
