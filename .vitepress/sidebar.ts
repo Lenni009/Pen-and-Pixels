@@ -11,6 +11,7 @@ export function sidebar(): DefaultTheme.SidebarItem[] {
         { text: 'Völker', link: '/völker' },
         { text: 'NPC', link: '/npc' },
         { text: 'Klassen', link: '/klassen' },
+        { text: 'Gruppe', link: '/gruppe' }, 
       ]
     },
     {
