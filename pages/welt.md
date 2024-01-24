@@ -1,7 +1,7 @@
 # Regionen des Weltenbaums
 
 ## Yggdrasil, der Weltenbaum
-Yggdrasil, der Weltenbaum, ist die Verkörperung der Schöpfung als Gesamtes: räumlich, zeitlich und inhaltlich. Als Weltachse verbindet er die drei Ebenen Himmel, Mittelwelt und Unterwelt. Die bekannte Welt reicht nur so weit, wie seine Zweige und Wurzeln reichen, und die Schöpfung besteht nur so lange, wie er besteht. Jedoch bleibt der Baum immernoch ein Mysterium. Ein Leben reicht aber nicht aus für die zahlreichen Gelehrten um das Geheimnis des Baumes zu erschlüsseln.
+Yggdrasil, der Weltenbaum, ist die Verkörperung der Schöpfung als Gesamtes: räumlich, zeitlich und inhaltlich. Als Weltachse verbindet er die drei Ebenen Himmel, Mittelwelt und Unterwelt. Die bekannte Welt reicht nur bis zum Gebirg in Fellheim, und die Schöpfung besteht nur so lange, wie er besteht. Jedoch bleibt der Baum immernoch ein Mysterium. Ein Leben reicht aber nicht aus für die zahlreichen Gelehrten um das Geheimnis des Baumes zu erschlüsseln.
 
 ![Visualisierung des Weltenbaumes](/MAPIdee.png "Visualisierung des Weltenbaumes")
 
@@ -18,6 +18,8 @@ Ein endloser und mystischer Wald rund um den Stamm des Weltenbaums. Nur die Elbe
 Die Welt der Riesen und Zwerge. Ein hohes Gebirge, das fast bis zur Krone des Weltenbaumes reicht. Durch die Kriege zwischen den streitenden Parteien bis zur Unkenntlichkeit verwüstet. Nur die Minen ermöglichen das Überleben.
 
 ## Helheim/Nilfheim, Reich der Toten/Dunkelheit
-Helheim, auch Hel genannt, ist das Reich der Toten.
+Helheim, auch Hel genannt, ist ein sandiges und vulkanisches Gebiet hinter Fellheim im Süden. 
 
-Nilfheim ist ein eisiges Gebiet voller dunkler Energie und Gefahren. Vor allem die im Volksmund sogenannten Polarlichter/Aurora Borealis lassen nur schlimmes erahnen.
+Nilfheim ist ein eisiges Gebiet hinter Fellheim im Norden voller dunkler Energie und Gefahren. Vor allem die im Volksmund sogenannten Polarlichter/Aurora Borealis lassen nur schlimmes erahnen.
+
+Kein Abenteurer, welches dorthin aufbrach, kam je wieder zurück.
