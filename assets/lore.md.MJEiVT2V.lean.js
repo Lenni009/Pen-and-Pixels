@@ -1,1 +1,0 @@
-import{_ as e,c as n,o as r,V as a}from"./chunks/framework.LWc08Arh.js";const b=JSON.parse('{"title":"Lore","description":"","frontmatter":{},"headers":[],"relativePath":"lore.md","filePath":"lore.md"}'),i={name:"lore.md"},d=a("",12),s=[d];function t(h,l,u,o,c,m){return r(),n("div",null,s)}const k=e(i,[["render",t]]);export{b as __pageData,k as default};
