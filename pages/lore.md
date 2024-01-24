@@ -28,3 +28,6 @@ Nach dem Großen Drachenkrieg zogen sich die Elben wieder in ihr Reich zurück u
 
 ## Erscheinen der Walküren
 Nach dem Ende des Großen Drachenkrieges erschienen vor auf dem Aschehaufen der Herrmannsburg eine Gruppe von geflügelten Schlacht- und Schildjungferfügen und errichteten dort nicht nur einen Schrein der an die Helden erinnert, sondern auch ein von ihnen bewohnte Burg. Der erste Kontakt zwischen den Walküren und den anderen Völkern lief alles andere als gut, aber über die Jahr wurden die Beziehungen immer besser. Heutzutage sind die Walküren für zwei Sachen bekannt - sie dienen den Göttern in Sovengarde und sie sind von allen Völker die gewandtesten und geschicksten Krieger.
+
+## Das Wiedergänger-Problem
+Das Wiedergänger-Problem beschäftigt die Völker, vor allem die Menschen, schon seit Äonen. Stirbt ein Wesen mit großen Ambitionen, so kann es passieren, dass seine Seele in der Nachwelt keine Ruhe findet und ist somit ihn seinen verwesenden Körper bis zur Erfüllung seiner Bestimmung gefangen. Ist ihr Wille aber zu schwach oder der Geist vorher gebroch, so wandern sie ziellos durch die Lande. Ist ihr Wille sowie Geist aber ungebrochen, so erlangen sie ihr Bewusstsein zurück und können ihren Zielen, Träumen oder Bestimmungen nachgehen. 
