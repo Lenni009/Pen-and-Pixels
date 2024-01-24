@@ -1,6 +1,6 @@
 import type { DefaultTheme } from 'vitepress';
 
-export function sidebar(): DefaultTheme.SidebarItem[] {
+function sidebar(): DefaultTheme.SidebarItem[] {
   return [
     {
       text: 'Welt',
@@ -23,3 +23,5 @@ export function sidebar(): DefaultTheme.SidebarItem[] {
     }
   ]
 }
+
+export { sidebar };
