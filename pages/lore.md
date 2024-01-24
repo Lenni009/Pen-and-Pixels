@@ -32,5 +32,5 @@ Nach dem Ende des Großen Drachenkrieges erschienen vor auf dem Aschehaufen der 
 ## Das Wiedergänger-Problem
 Das Wiedergänger-Problem beschäftigt die Völker, vor allem die Menschen, schon seit Äonen. Stirbt ein Wesen mit großen Ambitionen, so kann es passieren, dass seine Seele in der Nachwelt keine Ruhe findet und ist somit ihn seinen verwesenden Körper bis zur Erfüllung seiner Bestimmung gefangen. Ist ihr Wille aber zu schwach oder der Geist vorher gebroch, so wandern sie ziellos durch die Lande. Ist ihr Wille sowie Geist aber ungebrochen, so erlangen sie ihr Bewusstsein zurück und können ihren Zielen, Träumen oder Bestimmungen nachgehen. 
 
-![](/pages/public/WiedergängerProblem.PNG)
+![Wiedergänger Problem](/WiedergängerProblem.PNG)
 
