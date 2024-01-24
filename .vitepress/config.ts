@@ -18,8 +18,9 @@ export default defineConfig({
         label: 'Deutsch',
         lang: 'de'
       },
+    },
       
-      search: {
+    search: {
       provider: 'local',
       options: {
         locales: {
