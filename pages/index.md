@@ -11,7 +11,7 @@ hero:
       text: Wiki
       link: /welt
   image:
-    src: /studioprojekt-logo.png
+    src: /images/studioprojekt-logo.png
     alt: Logo
 ---
 
