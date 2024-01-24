@@ -1,6 +1,6 @@
 # NPC Liste
 
-| Lehrer        | NPC Name      | Eigendschaften  | ect |
+| Lehrer        | NPC Name      | Eigenschaften  | ect |
 | ------------- |:-------------:|:---------------:|:-------------:|
 | Frau Bogner   | Frau Bogi     | ...       | ...    |
 | Herr Hellwig  | Der Fährmann  | Wiedergänger    | ...     |
