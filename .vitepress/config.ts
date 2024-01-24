@@ -13,7 +13,13 @@ export default defineConfig({
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    search: {
+    locales: {
+      root: {
+        label: 'Deutsch',
+        lang: 'de'
+      },
+      
+      search: {
       provider: 'local',
       options: {
         locales: {
