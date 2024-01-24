@@ -2,9 +2,9 @@
 
 | Lehrer        | NPC Name      | Eigendschaften  | ect |
 | ------------- |:-------------:|:---------------:|:-------------:|
-| Frau Bogner   | Frau Bogi     | left foo        | right foo     |
-| Herr Hellwig  | Der Fährmann  | Wiedergänger    | right foo     |
-| Herr Herrmann | right baz     | left foo        | right foo     |
+| Frau Bogner   | Frau Bogi     | ...       | ...    |
+| Herr Hellwig  | Der Fährmann  | Wiedergänger    | ...     |
+| Herr Herrmann | Der Händler   | ...       | ...    |
 | Herr Meyer    |
 | Herr Gottlieb |
 | Melina        |
