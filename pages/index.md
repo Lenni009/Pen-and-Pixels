@@ -8,22 +8,7 @@ hero:
   tagline: Studioprojekt der ME21b
   actions:
     - theme: brand
-      text: Klassen
+      text: Wiki
       link: /klassen
-    - theme: alt
-      text: Gegner
-      link: /gegner
-    - theme: alt
-      text: NPC
-      link: /npc
-
-
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 

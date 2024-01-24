@@ -1,3 +1,4 @@
+import { sidebar } from './config.ts';
 import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
@@ -17,20 +18,7 @@ export default defineConfig({
       { text: 'Startseite', link: '/' },
     ],
 
-    sidebar: [
-      {
-        text: 'Examples',
-        items: [
-          { text: 'Welt', link: '/welt' },
-          { text: 'Völker', link: '/völker' },
-          { text: 'NPC', link: '/npc' },
-          { text: 'Klassen', link: '/klassen' },
-          { text: 'Waffen', link: '/waffen' },
-          { text: 'Items', link: '/items' },
-          { text: 'Gegner', link: '/gegner' },
-        ]
-      }
-    ],
+    sidebar: sidebar(),
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/Lenni009/Studioprojekt2024' }
