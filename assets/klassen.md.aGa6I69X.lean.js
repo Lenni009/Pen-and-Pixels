@@ -1,1 +1,0 @@
-import{_ as e,c as r,o as n,V as a}from"./chunks/framework.mleWmeBo.js";const b=JSON.parse('{"title":"Klassen","description":"","frontmatter":{},"headers":[],"relativePath":"klassen.md","filePath":"klassen.md"}'),i={name:"klassen.md"},s=a("",10),t=[s];function d(l,u,h,o,c,m){return n(),r("div",null,t)}const g=e(i,[["render",d]]);export{b as __pageData,g as default};
