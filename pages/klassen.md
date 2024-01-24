@@ -9,5 +9,5 @@
 ## Zauberer/Magier
 Spezialisierung: Pyromancer, Cryomancer, Nekromancer, Hydromancer, Aeromancer, Geomancer, Polymorph
 
-# Barde
+## Barde
 
