@@ -1,7 +1,7 @@
 # Studioprojekt ME21B
 
-## Spielname
-Ein Pen'n'Paper Abenteur der ME21B
+## Spielname: Ein Pen'n'Paper Abenteur der ME21B
+
 ### Inhaltsverzeichnis
 1. Welt
 2. Was bisher geschah?
