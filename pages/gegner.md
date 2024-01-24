@@ -5,7 +5,7 @@
 
 
 ### Geister 
-Waldnymphe [Skogsrå](https://en.wikipedia.org/wiki/Skogsr%C3%A5)
+Waldnymphe ([Skogsrå](https://en.wikipedia.org/wiki/Skogsr%C3%A5))
 
 
 ### Trolle/Orks
