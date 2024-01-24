@@ -3,7 +3,7 @@
 ## Yggdrasil, der Weltenbaum
 Yggdrasil, der Weltenbaum, ist die Verkörperung der Schöpfung als Gesamtes: räumlich, zeitlich und inhaltlich. Als Weltachse verbindet er die drei Ebenen Himmel, Mittelwelt und Unterwelt. Die bekannte Welt reicht nur bis zum Gebirg in Fellheim, und die Schöpfung besteht nur so lange, wie er besteht. Jedoch bleibt der Baum immernoch ein Mysterium. Ein Leben reicht aber nicht aus für die zahlreichen Gelehrten um das Geheimnis des Baumes zu erschlüsseln.
 
-![Visualisierung des Weltenbaumes](/images/yggdrasil.jpg "Visualisierung des Weltenbaumes")
+![Visualisierung des Weltenbaumes](/pages/public/images/yggdrasil.jpg "Visualisierung des Weltenbaumes")
 
 ## Midgard, *der Mittelgarten*, Reich der Menschen
 Der Wohnort der Menschen in der Mitte der Welt.
