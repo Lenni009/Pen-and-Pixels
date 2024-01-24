@@ -10,5 +10,8 @@ hero:
     - theme: brand
       text: Wiki
       link: /klassen
+  image:
+    src: /android-chrome-512x512.png,
+    alt: Logo
 ---
 

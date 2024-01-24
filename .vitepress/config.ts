@@ -21,7 +21,8 @@ export default defineConfig({
     sidebar: sidebar(),
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/Lenni009/Studioprojekt2024' }
+      { icon: 'github', link: 'https://github.com/Lenni009/Studioprojekt2024' },
+      logo: { src: '/vitepress-logo-mini.svg', width: 24, height: 24 },
     ]
   }
 })
