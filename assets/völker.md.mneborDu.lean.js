@@ -1,1 +1,0 @@
-import{_ as e,c as a,o as r,V as t}from"./chunks/framework.mleWmeBo.js";const k=JSON.parse('{"title":"Völker des Weltenbaumes","description":"","frontmatter":{},"headers":[],"relativePath":"völker.md","filePath":"völker.md"}'),l={name:"völker.md"},n=t("",6),o=[n];function s(h,d,i,c,u,_){return r(),a("div",null,o)}const f=e(l,[["render",s]]);export{k as __pageData,f as default};
