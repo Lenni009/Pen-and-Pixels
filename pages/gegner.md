@@ -4,8 +4,8 @@
 
 
 
-### Geister (Waldnymphe, [Skogsrå])
-
+### Geister 
+Waldnymphe [Skogsrå]
 
 
 ### Trolle/Orks
