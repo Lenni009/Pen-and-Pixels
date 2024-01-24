@@ -2,20 +2,18 @@
 
 ### Riesen
 
-
-
-### Geister 
+### Monster 
 Waldnymphe ([Skogsrå](https://en.wikipedia.org/wiki/Skogsr%C3%A5))
-
-
-### Trolle/Orks
-
-
-
-### Spielerrassen
-
-
-
-### Seemonster
-
-Kraken/Meerjungfrau/Sirene
+Banshee
+Vampir (Bathorys Fluch)
+Werewolf (Lykantropie)
+Wendigo (Fellheims FLuch)
+Geister
+Trolle
+Orks
+Kobolt
+Grendel
+Sirene
+Kraken
+Meerjungfrau
+Baba Jaga (Hexe)
