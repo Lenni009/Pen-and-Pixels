@@ -22,3 +22,6 @@ Das Haus Drachenberg wurde durch den Krieger Werner gegründet. Laut der Sage ha
 
 ### Das Haus der Askanier
 Die Askanier sind das älteste Herrschergeschlecht in Midgard. Schon bevor die Drachen den Weltenbaum angriffen, sagt man ihnen nach, dass sie im über das Gebiet in der Nähe des Flusses Weißlauf herrschten. Wer die Dynastie gegründet hat ist heute nicht mehr übermittelt. Das erste Familienoberhaupt, nach der Zerstörung des Archives in Hermannsburg, war jedoch Esico der Starke. 
+
+## Skogenheim und die Elben
+Nach dem Großen Drachenkrieg zogen sich die Elben wieder in ihr Reich zurück und beschützten weiter den Weltenbaum selbst sowie den Wald um den Stamm rund herum. Nur noch wenige Elben haben Kontakt zur Außenwelt, somit ist immer ein besonderes Ereignis, wenn sich ein Elb außerhalb seines Heiligentums zeigt.
