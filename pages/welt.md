@@ -7,13 +7,15 @@ Yggdrasil, der Weltenbaum, ist die Verkörperung der Schöpfung als Gesamtes: r�
 Der Wohnort der Menschen in der Mitte der Welt. 
 
 ## Asenheim, Reich der Götter 
-Der letzte Ruheort des Götter. Asgard liegt in der Krone des Weltenbaum Yggdrasil. Nachdem sich die legendären Helden der Völker ihre weltliche Körper für den erhalt des Baumes opferten, finden sie in den rumreichen Hallen in der Krone nun ihre letzte Ruhe
+Der letzte Ruheort des Götter. Asgard liegt in der Krone des Weltenbaum Yggdrasil. Nachdem die legendären Helden der verschiedenen Völker vor vielen Äonen ihre weltlichen Körper für den Erhalt des Baumes opferten, fanden sie in den rumreichen Hallen in der Krone nun ihre letzte Ruhe. 
 
 ## Albenheim, Reich der Elfen 
-Ein endloser und mystischer Wald runtherum des Stammes des Weltenbaum. Nur die Elben kennen den Weg bis zum Weltenbaum. 
+Ein endloser und mystischer Wald runt um dem Stammes des Weltenbaum. Nur die Elben kennen sich hier aus.
 
 ## Jötunheim, Reich der Riesen und Zwerge
 Die Welt der Riesen und Zwerge. Ein hohes Gebirge was fast bis zur Krone des Weltenbaumes reicht. Durch die Kriege zwischen den streitenden Parteien bis zur unkenntlichkeit Verwüstet. Nur die Minen ermöglichen das Überleben.
 
 ## Helheim/Nilfheim, Reich der Toten/Dunkelheit
-???
+Helheim, auch Hel genannt, ist das Reich der Toten.
+
+Niflheim ist ein eisiges Gebiet voller dunkeler Energie und Gefahren. Vor allem die im Volksmund genannten Polarlicht bedeuten können nur schlimmes erahnen.
