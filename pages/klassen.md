@@ -9,7 +9,7 @@ Waldläufer sind wachsame Krieger, die hinter dem Horizont wandern, um eine Regi
 ## Zauberer/Magier
 Ein Magier ist ein spezialisierter Zauberer, ein Zauberkundiger, der sich auf die Grundsätze von bestimmten Schulen der Magie konzentriert. Diese Spezialisierung ist für jeden Magier charakterisierend.
 
-Spezialisierung: Pyromancer, Cryomancer, Nekromancer, Hydromancer, Aeromancer, Geomancer, Polymorph
+*Spezialisierung: Pyromancer, Cryomancer, Nekromancer, Hydromancer, Aeromancer, Geomancer, Polymorph*
 
 ## Barde
 Der Barde lernt durch die Erforschung von Geschichten, Legenden, Ritualen, Festen und der Kunst eben solche durchzuführen, zu präsentieren und schlussendlich durch überlieferte Techniken, diese mit arkaner Energie zu manifestieren. Er ist Geschichtenerzähler, Motivator und der Ansporner in der Gruppe und weiß sein geheimes Wissen der Artefakte oftmals gut einzusetzen.
