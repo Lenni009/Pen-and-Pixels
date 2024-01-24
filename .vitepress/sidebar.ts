@@ -6,7 +6,7 @@ export function sidebar(): DefaultTheme.SidebarItem[] {
       text: 'Welt',
       collapsed: false,
       items: [
-        { text: 'Welt', link: '/welt' },
+        { text: 'Regionen', link: '/welt' },
         { text: 'Völker', link: '/völker' },
         { text: 'NPC', link: '/npc' },
         { text: 'Klassen', link: '/klassen' },
