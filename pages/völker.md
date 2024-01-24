@@ -4,7 +4,7 @@
 Die Menschen leben auf Midgard. 
 
 ## Walküre
-Die Walküren sind ein Volk von Kriegern und dienen den Göttern. Als Kriegerorden fügen sie sich dem Willen aus Asenheim. 
+Die Walküren sind von den Göttern erschaffen und dienen ihnen ohne Wiederworte. Als Kriegerorden fügen sie sich dem Willen aus Asenheim. 
 
 ## Elfen
 Sie sehen sich als die Beschützer von Yggdrasil. Sie leben in den weiten und auch dunkelnen Wäldern in Albenheim
