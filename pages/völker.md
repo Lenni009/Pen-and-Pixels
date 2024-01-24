@@ -15,7 +15,7 @@ Die Elben sehen sich als die Beschützer von Yggdrasil. Sie leben in den weiten 
 Als die kleinsten Wesen auf dem Weltenbaum sind sie als die größten Baumeister bekannt. Jedoch leben sie im ewigen Streit mit den Riesen. Unzählige Kriege prägten ihre Heimat, Jötunheim.
 
 ### Wiedergänger
-Die Wiedergänger sind Wesen, welche nach ihrem Tot keine Ruhe gefunden haben. Ihre unruhigen Seelen befehlen immer noch ihre untoten Körper auf der Suche ihre Bestimmung zu erfüllen.
+Die Wiedergänger sind Wesen, welche nach ihrem Tod keine Ruhe gefunden haben. Ihre unruhigen Seelen befehlen immer noch ihre untoten Körper auf der Suche ihre Bestimmung zu erfüllen.
 
 ## Nicht-Spielbar
 
