@@ -1,9 +1,13 @@
 # Klassen
 
-Es gibt die folgenden Klassen:
+## Barbar
 
-- Barbar
-- Waldläufer
-- Zauberer/Magier
-- Barde
-- (*Pyromancer, Cryomancer, Nekromancer, Hydromancer, Aeromancer, Geomancer, Polymorph?*)
+
+## Waldläufer
+ 
+
+## Zauberer/Magier
+Spezialisierung: Pyromancer, Cryomancer, Nekromancer, Hydromancer, Aeromancer, Geomancer, Polymorph
+
+# Barde
+
