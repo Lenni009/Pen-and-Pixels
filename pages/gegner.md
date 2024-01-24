@@ -8,3 +8,5 @@ Es gibt die folgenden Gegner:
 - Spielerrassen
 - Kraken/Meerjungfrau/Sirene
 - ...
+
+![imge](/android-chrome-192x192.png)
