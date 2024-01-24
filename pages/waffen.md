@@ -1,11 +1,22 @@
 # Waffen
 
-Es gibt die folgenden Waffen:
+## Nahkampf
 
-- Schwert
-- Axt
-- Speer
-- Zauberstab
-- Bogen
-- Dolch
-- Instrumente
+### Schwert
+
+### Axt
+
+### Speer
+
+### Dolch
+
+
+## Fernkampf
+
+### Zauberstab
+
+### Bogen
+
+## Andere Waffen
+
+### Instrumente
