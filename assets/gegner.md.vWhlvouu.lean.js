@@ -1,1 +1,0 @@
-import{_ as e,c as r,o as a,V as t}from"./chunks/framework.G_ktJaeW.js";const m=JSON.parse('{"title":"Gegner","description":"","frontmatter":{},"headers":[],"relativePath":"gegner.md","filePath":"gegner.md"}'),n={name:"gegner.md"},s=t("",8),o=[s];function i(l,h,d,c,_,g){return a(),r("div",null,o)}const u=e(n,[["render",i]]);export{m as __pageData,u as default};
