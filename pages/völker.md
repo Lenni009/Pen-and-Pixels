@@ -13,4 +13,4 @@ Sie sehen sich als die Beschützer von Yggdrasil. Sie leben in den weiten und au
 Als die kleinsten Wesen auf dem Weltenbaum sind sie als die größten Baumeister bekannt. Jedoch leben sie im ewigen Streit mit den Riesen. Unzählige Kriege prägten ihre Heimat, Jötunheim.
 
 ## Draugr
-Die Draugr sind Wiedergänger welche in einem Leben keine Ruhe gefunden haben. 
+Die Draugr sind Wiedergänger welche in einem Leben keine Ruhe gefunden haben. Ihre unruhigen Seelen befehlen immer noch ihre untoten Körper.
