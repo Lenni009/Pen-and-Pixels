@@ -10,7 +10,7 @@ Nach dem Vorfall in den Minen von Gimlé gab es Krieg zwischen den Riesen und Zw
 
 ## Der Grokönig von Midgard
 Einer der legendären Helden war der erste und einzige Großkönig von Midgard, später bekannt als *Siegfried der Drachentöter*. Er einte die zahlreichen menschlichen Stämme und schaffte es so, den ersten Angriff der Drachen abzuwehren. Jedoch merkte Siegfried schnell, dass die unsterblichen Drachen nur aufgehalten werden können, wenn sich alle Völker rund um den Weltenbaum vereinen. Im ersten **Konzil von Hermannsburg**, der Hauptstadt der Großkönigreiches der Menschen, wurde die Allianz gegen die Drachen geschmiedet. Aus Rache für den geleisteten Widerstand brannte *Akatosh der Weltenvernichter* Hermannsburg und die umgebenden Länderein bis auf die Grundmauern nieder. Bis auf *Siegfried* überlebte niemand. Knieend in der Asche seines Reiches kam ein unbekannter grauer Erimit auf ihn zu und teilte sein wissen mit ihm. Mit diesem Wissen konnte er und andere Helden aus anderen Völkern die Drachen besiegen und sicherte so die Existenz aller Lebewesen. Er bezahlte jedoch den höchsten Preis - Er bezahlte mit seinem Leben. Heutzutage wird er von vielen Menschen als Gottheit verehrt. Dem Glauben nach ruht er nun in Sovengarde, auf der Krone des Weltenbaums.
-![image](https://github.com/Lenni009/Studioprojekt2024/assets/157585726/29549e06-e326-4f80-a46e-d9daf1af9c00)
+![image](/images/wotan.jpg)
 
 
 ## Midgard nach dem Drachenkrieg
