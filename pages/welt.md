@@ -10,7 +10,7 @@ Der Wohnort der Menschen in der Mitte der Welt.
 Der letzte Ruheort des Götter. Drakengard liegt in der Krone des Weltenbaum Yggdrasil. Nachdem die legendären Helden der verschiedenen Völker vor vielen Äonen ihre weltlichen Körper für den Erhalt des Baumes opferten, fanden sie in den rumreichen Hallen in der Krone nun ihre letzte Ruhe. 
 
 ## Skogenheim, *die Waldwelt*, Reich der Elfen 
-Ein endloser und mystischer Wald runt um dem Stammes des Weltenbaum. Nur die Elben kennen sich hier aus.
+Ein endloser und mystischer Wald rund um dem Stammes des Weltenbaum. Nur die Elben kennen sich hier aus.
 
 ## Fellheim, *die Bergwelt*, Reich der Riesen und Zwerge
 Die Welt der Riesen und Zwerge. Ein hohes Gebirge was fast bis zur Krone des Weltenbaumes reicht. Durch die Kriege zwischen den streitenden Parteien bis zur unkenntlichkeit Verwüstet. Nur die Minen ermöglichen das Überleben.
