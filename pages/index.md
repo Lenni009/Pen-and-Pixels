@@ -15,7 +15,7 @@ hero:
       link: /gegner
    -  theme: alt
       text: NPC
-      link: /NPC
+      link: /npc
 
 
 features:
