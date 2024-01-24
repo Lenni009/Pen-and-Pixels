@@ -13,7 +13,7 @@ hero:
     - theme: alt
       text: Gegner
       link: /gegner
-   -  theme: alt
+    - theme: alt
       text: NPC
       link: /npc
 
