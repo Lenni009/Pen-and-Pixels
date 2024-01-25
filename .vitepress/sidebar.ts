@@ -26,6 +26,7 @@ export function sidebar(): DefaultTheme.SidebarItem[] {
       items: [
         { text: 'Regionen', link: '/welt' },
         { text: 'Völker', link: '/völker' },
+        { text: 'Orte', link: '/orte' },
         { text: 'NPC', link: '/npc' },
         { text: 'Klassen', link: '/klassen' },
       ]
