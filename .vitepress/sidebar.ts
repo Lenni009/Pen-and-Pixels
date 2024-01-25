@@ -41,4 +41,3 @@ export function sidebar(): DefaultTheme.SidebarItem[] {
       ]
     }
   ]
-
