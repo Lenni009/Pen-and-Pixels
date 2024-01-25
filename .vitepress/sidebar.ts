@@ -16,7 +16,7 @@ export function sidebar(): DefaultTheme.SidebarItem[] {
       collapsed: false,
       items: [
         { text: 'Geschichte', link: '/geschichte' },
-        { text: 'Abenteurer', link: '/gruppe' },
+        { text: 'Abenteurer', link: '/abenteurer' },
         { text: 'Lore', link: '/lore' },
       ]
     },
@@ -24,7 +24,7 @@ export function sidebar(): DefaultTheme.SidebarItem[] {
       text: 'Welt',
       collapsed: false,
       items: [
-        { text: 'Regionen', link: '/welt' },
+        { text: 'Regionen', link: '/regionen' },
         { text: 'Völker', link: '/völker' },
         { text: 'Orte', link: '/orte' },
         { text: 'NPC', link: '/npc' },
