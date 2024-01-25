@@ -10,12 +10,12 @@ Treffen sich, erste Erfolge, Verlust Barde, Tot Magier, Quests erledigt, Geheimn
 ## Die Abenteurer
 
 ### Der Barbar
--**Name:** 
--**Volk:** 
--**Alter:** 
--**Klasse:** 
--**Geschlecht:** 
--**Geschlecht:** 
+- **Name:** 
+- **Volk:** 
+- **Alter:** 
+- **Klasse:** 
+- **Geschlecht:** 
+- **Geschlecht:** 
 
 
 
