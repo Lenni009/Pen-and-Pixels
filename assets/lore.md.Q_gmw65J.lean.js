@@ -1,1 +1,0 @@
-import{_ as e,c as n,o as r,V as i,a2 as a,a3 as d}from"./chunks/framework.czbvbLeD.js";const f=JSON.parse('{"title":"Lore","description":"","frontmatter":{},"headers":[],"relativePath":"lore.md","filePath":"lore.md"}'),s={name:"lore.md"},t=i("",23),h=[t];function l(u,o,c,g,m,b){return r(),n("div",null,h)}const w=e(s,[["render",l]]);export{f as __pageData,w as default};
