@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a,V as r}from"./chunks/framework.s-7iMyok.js";const g=JSON.parse('{"title":"Items","description":"","frontmatter":{},"headers":[],"relativePath":"items.md","filePath":"items.md"}'),n={name:"items.md"},s=r("",2),d=[s];function i(l,c,o,_,m,h){return a(),e("div",null,d)}const p=t(n,[["render",i]]);export{g as __pageData,p as default};

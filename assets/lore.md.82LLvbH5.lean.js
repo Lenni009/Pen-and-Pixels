@@ -1,0 +1,1 @@
+import{_ as e,c as n,o as r,V as i}from"./chunks/framework.s-7iMyok.js";const b=JSON.parse('{"title":"Lore","description":"","frontmatter":{},"headers":[],"relativePath":"lore.md","filePath":"lore.md"}'),a={name:"lore.md"},d=i("",21),s=[d];function t(h,l,u,o,c,g){return r(),n("div",null,s)}const k=e(a,[["render",t]]);export{b as __pageData,k as default};
