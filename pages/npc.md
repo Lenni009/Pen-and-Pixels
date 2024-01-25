@@ -1,12 +1,12 @@
 # NPC Liste
 
 | Lehrer        |   NPC Name   | Eigenschaften | etc |
-| ------------- | :----------: | :-----------: | :-: |
+| ------------- | ------------ | ------------- | --- |
 | Frau Bogner   |  Frau Bogi   |      ...      | ... |
 | Herr Hellwig  | Der Fährmann | Wiedergänger  | ... |
 | Herr Herrmann | Der Händler  |      ...      | ... |
 | Herr Meyer    |              |               |     |
-| Herr Gottlieb |              |               |     |
+| Herr Gottlieb | Wutbauer     | Zwerg         |     |
 | Melina        |              |               |     |
 | Moritz        |              |               |     |
 | Pascal K.     |              |               |     |
