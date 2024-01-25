@@ -20,6 +20,7 @@ Ein endloser und mystischer Wald rund um den Stamm des Weltenbaums. Nur die Elbe
 
 ## Fellheim, *die Bergwelt*, Reich der Riesen und Zwerge
 Die Welt der Riesen und Zwerge. Ein hohes Gebirge, das fast bis zur Krone des Weltenbaumes reicht. Durch die Kriege zwischen den streitenden Parteien bis zur Unkenntlichkeit verwüstet. Nur die Minen ermöglichen das Überleben.
+![image](/images/fellheim.jpg)
 
 ## Helheim/Nilfheim, Reich der Toten/Dunkelheit
 Helheim, auch Hel genannt, ist ein sandiges und vulkanisches Gebiet hinter Fellheim im Süden.
