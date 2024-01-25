@@ -1,0 +1,1 @@
+import{_ as e,c as n,o as r,V as i}from"./chunks/framework.rbO1AwNq.js";const g=JSON.parse('{"title":"Klassen","description":"","frontmatter":{},"headers":[],"relativePath":"klassen.md","filePath":"klassen.md"}'),a={name:"klassen.md"},s=i("",12),t=[s];function d(h,l,u,c,o,m){return r(),n("div",null,t)}const b=e(a,[["render",d]]);export{g as __pageData,b as default};
