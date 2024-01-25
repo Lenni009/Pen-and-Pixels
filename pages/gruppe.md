@@ -14,7 +14,7 @@ Treffen sich, erste Erfolge, Verlust Barde, Tot Magier, Quests erledigt, Geheimn
 - **Volk:** Zwerg
 - **Alter:** 262
 - **Klasse:** Barbar
-- **Geschlecht:** 
+- **Geschlecht:** Männlich
 - **Geschichte:** 
 
 ### Der Schurke
