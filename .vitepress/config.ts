@@ -9,10 +9,6 @@ export default defineConfig({
   srcDir: 'pages',
   cleanUrls: true,
   lang: 'de-DE',
-  darkModeSwitchLabel: 'Aussehen',
-  lightModeSwitchTitle: 'Zum hellen Modus wechseln',
-  darkModeSwitchTitle: 'Zum dunklen Modus wechseln',
-  sidebarMenuLabel: 'Menü',
   markdown: {
     image: {
       lazyLoading: true
@@ -37,31 +33,17 @@ export default defineConfig({
       next: 'Nächste Seite'
     },
     outline: {
+      level: [2, 3],
       label: 'Auf dieser Seite'
     },
+    darkModeSwitchLabel: 'Aussehen',
+    lightModeSwitchTitle: 'Zum hellen Modus wechseln',
+    darkModeSwitchTitle: 'Zum dunklen Modus wechseln',
+    sidebarMenuLabel: 'Menü',
 
     search: {
 	  	provider: 'local',
-      options: {
-        locales: {
-          de: {
-            translations: {
-              button: {
-                buttonText: '搜索文档',
-                buttonAriaLabel: '搜索文档'
-              },
-              modal: {
-                noResultsText: '无法找到相关结果',
-                resetButtonTitle: '清除查询条件',
-                footer: {
-                  selectText: '选择',
-                  navigateText: '切换'
-                }
-              }
-            }
-          }
-        }
-      }	  },
+    },
     nav: [
       { text: 'Startseite', link: '/' },
     ],
