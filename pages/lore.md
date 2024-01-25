@@ -18,12 +18,15 @@ Nachdem Drachenkrieg war Midgard, sowie die anderen Regionen, komplett zerstört
 
 ### Das Haus der Odonen
 Das Haus der Odonen wurde von dem Fürsten *Widukind der Begründer* gegründet. *Widukind*, ein loyaler Krieger Siegfrieds, nahm an jeder Schlacht seines Großkönigs teil und galt als engster Vertrauter des Großkönigs. Nach dessen Tot, nahm Widukind es sich zu Aufgabe, Midgard wieder aufzubauen. Für viele sind das Haus der Odonen die rechtmäßigen Nachvollger Siegfrieds, obwohl niemand von ihnen das Wissen über die magischen Runen besitzt. Ihr Hauptsitz ist das neue Zentrum Midgards, Talstadt.
+![image](/images/Widukind.jpg)
 
 ### Das Haus der Drachenberg
 Das *Haus Drachenberg* wurde durch den Krieger *Werner* gegründet. Laut der Sage hat er den letzen Drachen am Rande der heutigen Drachenburg, den Hauptsitz des Hauses, geschlagen und dort die Drachenseele aufgesammelt. Auch wenn sie eine relativ kleine Dynastie sind, sagt man ihnen nach, dass sie bis heute das Wissen über die Runen besitzen.
+![image](/images/Werner.jpg)
 
 ### Das Haus der Askanier
 Die Askanier sind das älteste Herrschergeschlecht in Midgard. Schon bevor die Drachen den Weltenbaum angriffen, sagt man ihnen nach, dass sie im über das Gebiet in der Nähe des Flusses Weißlauf herrschten. Wer die Dynastie gegründet hat ist heute nicht mehr übermittelt. Das erste Familienoberhaupt, nach der Zerstörung des Archives in Hermannsburg, war jedoch *Esico der Starke*.
+![image](/images/Esico.jpg)
 
 ## Skogenheim und die Elben
 Nach dem Großen Drachenkrieg zogen sich die Elben wieder in ihr Reich zurück und beschützten weiter den Weltenbaum selbst sowie den Wald um den Stamm rund herum. Nur noch wenige Elben haben Kontakt zur Außenwelt, somit ist immer ein besonderes Ereignis, wenn sich ein Elb außerhalb seines Heiligentums zeigt.
