@@ -7,7 +7,7 @@
 | Herr Herrmann | Händler Hermann  | Homo Oeconomicus | Eine strubbelig aussehende, langsam in die Jahre kommende Gestalt mit einem überdimensionalen Rucksack – ein wandernder Händler. Manchmal ein wenig verwirrt, aber voll überzeugt von den eigenen wirtschaftlichen Fähigkeiten und Kenntnissen |
 | Herr Meyer    | Der Alchemist |               |     |
 | Herr Gottlieb | Wutbauer     | Zwerg         |     |
-| Melina        | Mellis Beauty Schloss | Elb  | Bodenständig, setzt auf bewussten Einsatz von Produkten, Ökologische Produkte, dezent > übertrieben  |
+| Melina        | Mellis Beauty Schloss | Elb  | Bodenständig, setzt auf bewussten Einsatz von Produkten, Ökologische Produkte, dezent > übertrieben, Werbung für Hautcreme   |
 | Moritz        |              |               |     |
 | Pascal K.     |              |               |     |
 | Alexander S.  |              |               |     |
