@@ -11,7 +11,7 @@ Die Walküren sind von den Göttern erschaffen und dienen ihnen ohne Wiederworte
 ![image](/images/Walküren.jpg)
 
 ### Elben
-Die Elben sehen sich als die Beschützer von Gaia. Sie leben in den weiten und auch dunklen Wäldern in Albenheim rund um den Stamm des Weltenbaumes. Sie sind auch die einzigen, die sich im unbarmherzigen und gefährlichen Wald auskennen. Jeder Versuch, den Wald ohne die Elben zu erkunden, ist zum Scheitern verurteilt. Kultur ähnlich wie Wikingerzeit (Skaninavien und Anglo-Sächsisch)
+Die Elben sehen sich als die Beschützer von Gaia. Sie leben in den weiten und auch dunklen Wäldern in Albenheim rund um den Stamm des Weltenbaumes. Sie sind auch die einzigen, die sich im unbarmherzigen und gefährlichen Wald auskennen. Jeder Versuch, den Wald ohne die Elben zu erkunden, ist zum Scheitern verurteilt. Kultur ähnlich wie Wikingerzeit (Skandinavien und Anglo-Sächsisch)
 ![image](/images/Elben.jpg)
 
 ### Zwerg
