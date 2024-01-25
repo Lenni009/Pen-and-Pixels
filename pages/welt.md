@@ -24,7 +24,9 @@ Die Welt der Riesen und Zwerge. Ein hohes Gebirge, das fast bis zur Krone des We
 
 ## Helheim/Nilfheim, Reich der Toten/Dunkelheit
 Helheim, auch Hel genannt, ist ein sandiges und vulkanisches Gebiet hinter Fellheim im Süden.
+![image](/images/Hel.jpg)
 
 Nilfheim ist ein eisiges Gebiet hinter Fellheim im Norden voller dunkler Energie und Gefahren. Vor allem die im Volksmund sogenannten Polarlichter/Aurora Borealis lassen nur schlimmes erahnen.
+![image](/images/Nilfheim.jpg)
 
 Kein Abenteurer, welcher dorthin aufbrach, kam je wieder zurück.
