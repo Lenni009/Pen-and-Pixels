@@ -5,4 +5,5 @@ Bevor ihr hier schon weiter guckt was ich euch da zusammengewurstelt habe eine k
 Einige Informationen die hier stehen dienen nur zur Veranschaulichung und zur besseren Vorstellung wie die Welt funktioniert und wieso Sachen passieren wie sie passieren.
 
 Liebe Grüße 
+
 Euer Gamemaster
