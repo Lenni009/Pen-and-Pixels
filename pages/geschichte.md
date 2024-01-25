@@ -37,7 +37,17 @@ Die Spieler (am Tisch) beraten sich, wie sie jetzt vorgehen. Sie müssen über d
 
 ### See Fährmann 
 
+Der GM steht vor dem Bluescreen, im Hintergrund ist ein dunkler Wald, davor ein See.  
 
+Die Spieler sind nach dem Erlebnis mit dem Händler weiter dem Weg gefolgt und auf einen gigantischen See getroffen. Kein Ufer ist in Sicht und langsam wird es dunkel. Einziger Hoffnungsschimmer ist ein einsamer, kleiner Steg. Eine große, dunkle und unheimliche Gestalt, eingehüllt in einen Mantel, steht davor, ein Paddel in der Hand. Die Spieler gehen auf ihn zu. 
+
+(Szenisch) Die Spieler gehen auf den Fährmann zu, der den Steg blockiert. Dieser streckt seine Hand aus. “Zoll.” Die Spieler schauen sich an und zeigen ihren leeren Geldsack. “Schlecht.”, entgegnet der Fährmann, steckt seine Hand zurück in den Mantel, schaut in die ferne und wartet. 
+
+Die Spieler (am Tisch) beraten sich, wie sie jetzt vorgehen. Sie müssen über den See, können aber beide nicht schwimmen und um den See herumzulaufen könnte sie Stunden, wenn nicht Tage kosten.  
+
+(Szenisch) Noch während die Spieler sich beraten, taucht aus dem Nichts ein Barde auf, quatscht mit dem Fährmann, bezahlt seinen Zoll und will auf den Steg, als er die beiden Spieler sieht. 
+
+(Dialog) Der Barde lädt die Spieler ein, sich der Seeüberfahrt anzuschließen. Die Spieler erzählen, dass sie auf der Suche nach einem Artefakt sind, um die Welt zu retten und der Barde schließt sich begeistert der Gruppe an.  Er holt sein Instrument raus und fängt an zu singen.  
 
 ### Wald  
 
