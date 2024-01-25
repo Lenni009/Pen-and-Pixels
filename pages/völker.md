@@ -19,6 +19,7 @@ Als die kleinsten Wesen auf dem Weltenbaum sind sie als die größten Baumeister
 
 ### Wiedergänger
 Die Wiedergänger sind Wesen, welche nach ihrem Tod keine Ruhe gefunden haben. Ihre unruhigen Seelen befehlen immer noch ihre untoten Körper auf der Suche ihre Bestimmung zu erfüllen.
+![Wiedergänger Problem](/images/WiedergaengerProblem.webp)
 
 ## Nicht-Spielbar
 
