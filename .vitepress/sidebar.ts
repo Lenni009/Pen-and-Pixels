@@ -4,7 +4,15 @@ export function sidebar(): DefaultTheme.SidebarItem[] {
   // text: der Text, der in der Seitenleiste erscheint
   // link: URL, unter der die Seite erreichbar ist. Muss mit dem Dateinamen der entsprechenden .md Datei übereinstimmen
   return [
-   {
+    {
+      text: 'Disclaimer',
+      collapsed: false,
+      items: [
+        { text: 'Disclaimer', link: '/intro' },
+      ]
+    }
+    
+    {
       text: 'Story',
       collapsed: false,
       items: [
