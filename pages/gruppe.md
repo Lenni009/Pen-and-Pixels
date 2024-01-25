@@ -1,4 +1,4 @@
-# Geschichte der Abenteuere bisher
+# Geschichte der Abenteuerer bisher
 
 ## Was bisher geschah?
 Unser tapferen Abenteurer trafen sich einst in einem kleinen Dorf am Rande zwischen Midgard und Fellheim aufeinander. Sie alle wurden dorthin gesand, um für ihren jeweiligen Vorgesetzten Nachforschungen durchzuführen um komische und merkwürdige Ereignise zur ergründen. Schnell wurde ihnen klar das irgendjemand schwarze Magie einsezten würde, warum jene Person oder Gruppe dies tut ist ihnen aber noch nicht bekannt. So schlugen sich die tapferen Abenteurer durch harte Quests, schwere Kämpfen und mussten das eine oder andere mal mit dem Schicksal um ihr Glück würfeln. Ein Mitglied musste die Gruppe leider schon verlassen. Der Barde ____, überfordert mit dem ganzen Welt retten, entschied sein Glück anderswo zu suchen und brach ins Ungewisse auf.
