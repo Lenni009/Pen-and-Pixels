@@ -9,8 +9,8 @@ export function sidebar(): DefaultTheme.SidebarItem[] {
       collapsed: false,
       items: [
         { text: 'Geschichte', link: '/geschichte' },
-        { text: 'Lore', link: '/lore' },
         { text: 'Gruppe', link: '/gruppe' }, 
+        { text: 'Lore', link: '/lore' },
       ]
     },
     {
