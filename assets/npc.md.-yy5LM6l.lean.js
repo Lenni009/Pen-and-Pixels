@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as d,V as r}from"./chunks/framework.j3YL89V9.js";const p=JSON.parse('{"title":"NPC Liste","description":"","frontmatter":{},"headers":[],"relativePath":"npc.md","filePath":"npc.md"}'),n={name:"npc.md"},a=r("",2),i=[a];function o(s,c,l,h,_,u){return d(),e("div",null,i)}const g=t(n,[["render",o]]);export{p as __pageData,g as default};
