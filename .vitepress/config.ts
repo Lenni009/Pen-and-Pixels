@@ -9,6 +9,17 @@ export default defineConfig({
   srcDir: 'pages',
   cleanUrls: true,
   lang: 'de-DE',
+  docFooter: {
+    prev: 'Vorherige Seite',
+    next: 'Nächste Seite'
+  },
+  darkModeSwitchLabel: 'Appearance',
+  lightModeSwitchTitle: 'Switch to light theme',
+  darkModeSwitchTitle: 'Switch to dark theme',
+  sidebarMenuLabel: 'Menu',
+  outline: {
+    label: 'Auf dieser Seite'
+  },
   markdown: {
     image: {
       lazyLoading: true
