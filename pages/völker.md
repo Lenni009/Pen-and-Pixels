@@ -8,6 +8,7 @@ Die Menschen leben auf Midgard. Einst unter dem Großkönig vereint, leben sie n
 
 ### Walküre
 Die Walküren sind von den Göttern erschaffen und dienen ihnen ohne Wiederworte. Als Schlacht- und Schildjungferfügen fügen sie sich dem Willen der legendären Helden aus längst vergessener Zeit. 
+![image](/images/Walküren.jpg)
 
 ### Elben
 Die Elben sehen sich als die Beschützer von Gaia. Sie leben in den weiten und auch dunklen Wäldern in Albenheim rund um den Stamm des Weltenbaumes. Sie sind auch die einzigen, die sich im unbarmherzigen und gefährlichen Wald auskennen. Jeder Versuch, den Wald ohne die Elben zu erkunden, ist zum Scheitern verurteilt. Kultur ähnlich wie Wikingerzeit (Skaninavien und Anglo-Sächsisch)
