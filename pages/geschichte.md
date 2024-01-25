@@ -1,8 +1,9 @@
 # Geschichte
 
 ## Was passieren wird!
+Es folgt die grobe Story im Fließtext
 
-### Taverne 
+## Taverne 
 Die Gruppe, die mittlerweile nur noch aus zwei Charakteren besteht, erwacht nach ihrer bisherigen, langen Reise in der Taverne (Stadtname). Sie wachen erholt und ausgeschlafen aus, sind jedoch immer noch niedergeschlagen von den bisherigen Fehlschlägen und Verlusten. Zum Frühstück trotten beide runter in den Wirtsraum, der trotz der frühen Uhrzeit schon gut gefüllt ist. Auf dem Speiseplan steht Suppe. Einer der Charaktere geht rüber zu der Theke und spricht die temperamentvolle Tavernenwirtin an. 
 
 (Dialog, Studioset Taverne) 
@@ -19,7 +20,7 @@ Der graue Unbekannte, durch den GM verkörpert, erzählt ihnen, dass er von ihre
 
 Spieler 1 und Spieler 2 folgen dankbar den Anweisungen und machen sich auf den Weg zu der Burgruine. 
 
-### Feldweg 
+## Feldweg 
 
 Das Duo, nun um alle restlichen Goldstücke erleichtert, dafür aber mit einer Information reicher, macht sich auf den Weg aus der Stadt raus, in die Richtung, die der graue Unbekannte ihnen beschrieben hat.  
 
@@ -33,7 +34,7 @@ Als die Stadt hinter ihnen immer kleiner wird und langsam den Horizont erreicht,
 
 **Werbung (Komm in die Gilde, Bäcker, Hofnarr)**
 
-### See Fährmann 
+## See Fährmann 
 
 Der GM steht vor dem Bluescreen, im Hintergrund ist ein dunkler Wald, davor ein See.  
 
@@ -47,7 +48,7 @@ Die Spieler (am Tisch) beraten sich, wie sie jetzt vorgehen. Sie müssen über d
 
 (Dialog) Der Barde lädt die Spieler ein, sich der Seeüberfahrt anzuschließen. Die Spieler erzählen, dass sie auf der Suche nach einem Artefakt sind, um die Welt zu retten und der Barde schließt sich begeistert der Gruppe an.  Er holt sein Instrument raus und fängt an zu singen.  
 
-### Wald  
+## Wald  
 
 Der GM leitet vor dem Bluescreen in den neuen Storyabschnitt über. Die Spieler, nun zu dritt am Tisch, sind von dem ständigen Singen des Barden genervt, wissen aber, dass sie ihn als sozialen Charakter brauchen. Die Sonne ist schon vor einer Weile untergegangen und der Barde besteht darauf, dass sie eine Rast einlegen und ein Lager einschlagen. Auf die Bedenken des Kriegers und Schurken wegen möglichen Überfällen reagiert er mit einem Charisma-Wurf, der erfolgreich ist. So überzeugt der Barde die Spieler zu einer Pause.  
 
@@ -63,6 +64,6 @@ Als sie auf die Burg zugehen, läuft ihnen bereits ein kalter Schauer über den 
 
 **Werbung (Zaubertrank, Hautcreme, Musikvideo Barde)**
 
-### Burgruine 
+## Burgruine 
 
 Kommt noch....
