@@ -9,7 +9,7 @@ export function sidebar(): DefaultTheme.SidebarItem[] {
       collapsed: false,
       items: [
         { text: 'Geschichte', link: '/geschichte' },
-        { text: 'Gruppe', link: '/gruppe' }, 
+        { text: 'Abenteurer', link: '/gruppe' }, 
         { text: 'Lore', link: '/lore' },
       ]
     },
