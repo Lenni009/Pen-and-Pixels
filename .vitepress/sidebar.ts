@@ -5,7 +5,6 @@ export function sidebar(): DefaultTheme.SidebarItem[] {
   // link: URL, unter der die Seite erreichbar ist. Muss mit dem Dateinamen der entsprechenden .md Datei übereinstimmen
   return [
     {
-      text: 'Disclaimer',
       collapsed: false,
       items: [
         { text: 'Disclaimer', link: '/intro' },
