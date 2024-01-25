@@ -31,7 +31,7 @@ Als die Stadt hinter ihnen immer kleiner wird und langsam den Horizont erreicht,
 
 (Szenisch) Der Händler fragt sich, was die Spieler brauchen – er hätte es sicher dabei, wenn nicht sogar etwas Besseres. Die Spieler gucken sich an. Der Schurke deutet an wieder verhandeln zu wollen, doch der Krieger schüttelt nur seinen Kopf und hebt die Axt. Schwarzbild. Der Händler liegt ohnmächtig am Boden und die Spieler durchsuchen die Sachen und den Rucksack. Sie werfen viele nutzlose Sachen hinter sich und entscheiden sich für einen Trank, den sie mitnehmen und einen Zettel. Auf dem Zettel ist eine Gildeneinladung. 
 
-**Werbung**
+**Werbung (Komm in die Gilde, Bäcker, Hofnarr)**
 
 ### See Fährmann 
 
@@ -61,18 +61,8 @@ Die Spieler werden besiegt, verletzt, jedoch nicht getötet. Die Gruppe wird aus
 
 Als sie auf die Burg zugehen, läuft ihnen bereits ein kalter Schauer über den Rücken.  
 
-**Werbung**
+**Werbung (Zaubertrank, Hautcreme, Musikvideo Barde)**
 
 ### Burgruine 
 
-Der GM leitet vor dem Bluescreen in den finalen Showdown ein; im Hintergrund ist die Burgruine zu sehen. 
-
-Die Burgruine ist verlassen, weit und breit ist kein Lebewesen zu sehen und die Zeit scheint stillzustehen. In den Spielern breitet sich ein ungutes Gefühl aus.  
-
-Im Schatten des Turms, in einer entfernten Ecke der Ruine steht eine alte Truhe. Dort, so scheint es, liegt das Artefakt, das die Gruppe sucht.  
-
-Die Gruppe macht sich auf den Weg, der Krieger voran, die Truhe zu öffnen, doch bevor die Gruppe sich nähern kann, hält sie etwas zurück; es wirkt wie ein Kraftfeld, dass sie nicht weitergehen lässt. Aus dem Nebel der Ruine erscheint eine Gestalt, erst unscheinbar und verschwommen, dann klar und deutlich. Die Spieler erkennen die Gestalt ihres totgeglaubten Verbündeten - dem Magier XY!  
-
-Die Gestalt steht zwischen der Gruppe und der Truhe, versperrt ihnen den Weg.  
-
-(Dialog & epischer Monolog vom Zauberer) 
+Kommt noch....
