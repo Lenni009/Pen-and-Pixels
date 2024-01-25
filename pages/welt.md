@@ -27,4 +27,4 @@ Helheim, auch Hel genannt, ist ein sandiges und vulkanisches Gebiet hinter Fellh
 
 Nilfheim ist ein eisiges Gebiet hinter Fellheim im Norden voller dunkler Energie und Gefahren. Vor allem die im Volksmund sogenannten Polarlichter/Aurora Borealis lassen nur schlimmes erahnen.
 
-Kein Abenteurer, welches dorthin aufbrach, kam je wieder zurück.
+Kein Abenteurer, welcher dorthin aufbrach, kam je wieder zurück.
