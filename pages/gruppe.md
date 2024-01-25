@@ -16,4 +16,4 @@ Zwerg
 
 ### Der Barde
 
-### DerMagier
+### Der Magier
