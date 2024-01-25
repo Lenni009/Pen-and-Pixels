@@ -11,7 +11,7 @@ export function sidebar(): DefaultTheme.SidebarItem[] {
         { text: 'Disclaimer', link: '/intro' },
              ]
     }
-    
+    ]
     {
       text: 'Story',
       collapsed: false,
@@ -40,4 +40,4 @@ export function sidebar(): DefaultTheme.SidebarItem[] {
         { text: 'Gegner', link: '/gegner' },
       ]
     }
-  ]
+
