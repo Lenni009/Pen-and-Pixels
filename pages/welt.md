@@ -1,7 +1,7 @@
 # Regionen des Weltenbaums
 
 ## Gaia, der Weltenbaum
-Gaia, der Weltenbaum, ist die Verkörperung der Schöpfung als Gesamtes: räumlich, zeitlich und inhaltlich. Als Weltachse verbindet er die drei Ebenen Himmel, Mittelwelt und Unterwelt. Die bekannte Welt reicht nur bis zum Gebirg in Fellheim, und die Schöpfung besteht nur so lange, wie er besteht. Jedoch bleibt der Baum immernoch ein Mysterium. Ein Leben reicht aber nicht aus für die zahlreichen Gelehrten um das Geheimnis des Baumes zu erschlüsseln.
+Gaia, der Weltenbaum, ist die Verkörperung der Schöpfung als Gesamtes: räumlich, zeitlich und inhaltlich. Als Weltachse verbindet er die drei Ebenen Himmel, Mittelwelt und Unterwelt. Die bekannte Welt reicht nur bis zum Gebirg in Fellheim, und die Schöpfung besteht nur so lange, wie er besteht. Jedoch bleibt der Baum immernoch ein Mysterium. Ein ganzes Leben reicht für die zahlreichen Gelehrten aber nicht aus, um das Geheimnis des Baumes zu erschlüsseln.
 
 ![Visualisierung des Weltenbaumes](/images/yggdrasil.jpg "Visualisierung des Weltenbaumes")
 
