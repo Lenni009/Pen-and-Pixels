@@ -8,6 +8,11 @@ export default defineConfig({
   base: '/Studioprojekt2024/',
   srcDir: 'pages',
   cleanUrls: true,
+  markdown: {
+    image: {
+      lazyLoading: true
+    }
+  },
   head: [
     ['link', { rel: 'icon', sizes: '180x180', href: '/Studioprojekt2024/icons/apple-touch-icon.png' }],
     ['link', { rel: 'icon', sizes: '32x32', href: '/Studioprojekt2024/icons/favicon-32x32.png' }],
