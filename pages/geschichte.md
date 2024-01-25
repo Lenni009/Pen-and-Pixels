@@ -21,17 +21,15 @@ Spieler 1 und Spieler 2 folgen dankbar den Anweisungen und machen sich auf den W
 
 ### Feldweg 
 
-Der GM steht vor dem Bluescreen, im Hintergrund ist ein dunkler Wald, davor ein See.  
+Das Duo, nun um alle restlichen Goldstücke erleichtert, dafür aber mit einer Information reicher, macht sich auf den Weg aus der Stadt raus, in die Richtung, die der graue Unbekannte ihnen beschrieben hat.  
 
-Die Spieler sind nach dem Erlebnis mit dem Händler weiter dem Weg gefolgt und auf einen gigantischen See getroffen. Kein Ufer ist in Sicht und langsam wird es dunkel. Einziger Hoffnungsschimmer ist ein einsamer, kleiner Steg. Eine große, dunkle und unheimliche Gestalt, eingehüllt in einen Mantel, steht davor, ein Paddel in der Hand. Die Spieler gehen auf ihn zu. 
+(Dialog zwischen Spieler 1 und Spieler 2, u.a. Verlust von Spieler 4, sonst hätten sie jetzt noch Gold) 
 
-(Szenisch) Die Spieler gehen auf den Fährmann zu, der den Steg blockiert. Dieser streckt seine Hand aus. “Zoll.” Die Spieler schauen sich an und zeigen ihren leeren Geldsack. “Schlecht.”, entgegnet der Fährmann, steckt seine Hand zurück in den Mantel, schaut in die ferne und wartet. 
+Als die Stadt hinter ihnen immer kleiner wird und langsam den Horizont erreicht, kommt den Spielern ein Mann entgegen. Eine strubbelig aussehende, langsam in die Jahre kommende Gestalt mit einem überdimensionalen Rucksack – ein wandernder Händler. 
 
-Die Spieler (am Tisch) beraten sich, wie sie jetzt vorgehen. Sie müssen über den See, können aber beide nicht schwimmen und um den See herumzulaufen könnte sie Stunden, wenn nicht Tage kosten.  
+(Dialog) Der Händler stellt sich ihnen als Händler Hermann vor [Missverständnis: “Händler Hermann”, “Herr Mann?”, “Frank Hermann, Händler”, “Herr Hermann!”, “Genau, Händler. Homo Oeconomicus, um genau zu sein”] – der beste Händler, dem man begegnen kann, mit den neusten und praktischsten Waren. Jedoch haben die auch ihren Preis. Konjunktur, Inflation und Angebot-Nachfrage eben.  
 
-(Szenisch) Noch während die Spieler sich beraten, taucht aus dem Nichts ein Barde auf, quatscht mit dem Fährmann, bezahlt seinen Zoll und will auf den Steg, als er die beiden Spieler sieht. 
-
-(Dialog) Der Barde lädt die Spieler ein, sich der Seeüberfahrt anzuschließen. Die Spieler erzählen, dass sie auf der Suche nach einem Artefakt sind, um die Welt zu retten und der Barde schließt sich begeistert der Gruppe an.  Er holt sein Instrument raus und fängt an zu singen.  
+(Szenisch) Der Händler fragt sich, was die Spieler brauchen – er hätte es sicher dabei, wenn nicht sogar etwas Besseres. Die Spieler gucken sich an. Der Schurke deutet an wieder verhandeln zu wollen, doch der Krieger schüttelt nur seinen Kopf und hebt die Axt. Schwarzbild. Der Händler liegt ohnmächtig am Boden und die Spieler durchsuchen die Sachen und den Rucksack. Sie werfen viele nutzlose Sachen hinter sich und entscheiden sich für einen Trank, den sie mitnehmen und einen Zettel. Auf dem Zettel ist eine Gildeneinladung. 
 
 **Werbung**
 
