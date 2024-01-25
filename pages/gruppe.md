@@ -10,7 +10,7 @@ Treffen sich, erste Erfolge, Verlust Barde, Tot Magier, Quests erledigt, Geheimn
 ## Die Abenteurer
 
 ### Der Barbar
-- **Name:** Fridericus Goldbart
+- **Name:** Fridericus Rotbart
 - **Volk:** Zwerg
 - **Alter:** 262
 - **Klasse:** Barbar
