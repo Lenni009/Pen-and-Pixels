@@ -10,6 +10,7 @@ Treffen sich, erste Erfolge, Verlust Barde, Tot Magier, Quests erledigt, Geheimn
 ## Die Abenteurer
 
 ### Der Barbar
+Zwerg
 
 ### Der Schurke
 
