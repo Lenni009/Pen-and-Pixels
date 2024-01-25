@@ -9,7 +9,7 @@ export function sidebar(): DefaultTheme.SidebarItem[] {
       collapsed: false,
       items: [
         { text: 'Disclaimer', link: '/intro' },
-      ]
+             ]
     }
     
     {
@@ -41,5 +41,4 @@ export function sidebar(): DefaultTheme.SidebarItem[] {
       ]
     }
   ]
-}
 
