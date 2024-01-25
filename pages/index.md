@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: Wiki
-      link: /welt
+      link: /intro
   image:
     src: /images/studioprojekt-logo.png
     alt: Logo
