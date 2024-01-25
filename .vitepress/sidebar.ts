@@ -12,6 +12,7 @@ export function sidebar(): DefaultTheme.SidebarItem[] {
              ]
     }
     ]
+    [
     {
       text: 'Story',
       collapsed: false,
@@ -20,7 +21,9 @@ export function sidebar(): DefaultTheme.SidebarItem[] {
         { text: 'Abenteurer', link: '/gruppe' }, 
         { text: 'Lore', link: '/lore' },
       ]
-    },
+    }
+    ],
+    [
     {
       text: 'Welt',
       collapsed: false,
@@ -31,6 +34,8 @@ export function sidebar(): DefaultTheme.SidebarItem[] {
         { text: 'Klassen', link: '/klassen' },
       ]
     },
+    ]
+    [
     {
       text: 'Kampf',
       collapsed: false,
@@ -40,4 +45,4 @@ export function sidebar(): DefaultTheme.SidebarItem[] {
         { text: 'Gegner', link: '/gegner' },
       ]
     }
-
+   ]
