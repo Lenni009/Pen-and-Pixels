@@ -1,0 +1,1 @@
+import{_ as e,c as n,o as i,V as r}from"./chunks/framework.Ro6v-KoB.js";const m=JSON.parse('{"title":"Geschichte","description":"","frontmatter":{},"headers":[],"relativePath":"geschichte.md","filePath":"geschichte.md"}'),t={name:"geschichte.md"},a=r("",41),s=[a];function d(h,l,u,c,g,o){return i(),n("div",null,s)}const f=e(t,[["render",d]]);export{m as __pageData,f as default};
