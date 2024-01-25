@@ -8,6 +8,7 @@ export default defineConfig({
   base: '/Studioprojekt2024/',
   srcDir: 'pages',
   cleanUrls: true,
+  lang: 'de-DE',
   markdown: {
     image: {
       lazyLoading: true
