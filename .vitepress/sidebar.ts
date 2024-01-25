@@ -9,10 +9,8 @@ export function sidebar(): DefaultTheme.SidebarItem[] {
       collapsed: false,
       items: [
         { text: 'Disclaimer', link: '/intro' },
-             ]
-    }
-    ]
-    [
+      ]
+    },
     {
       text: 'Story',
       collapsed: false,
@@ -21,9 +19,7 @@ export function sidebar(): DefaultTheme.SidebarItem[] {
         { text: 'Abenteurer', link: '/gruppe' }, 
         { text: 'Lore', link: '/lore' },
       ]
-    }
-    ],
-    [
+    },
     {
       text: 'Welt',
       collapsed: false,
@@ -34,8 +30,6 @@ export function sidebar(): DefaultTheme.SidebarItem[] {
         { text: 'Klassen', link: '/klassen' },
       ]
     },
-    ]
-    [
     {
       text: 'Kampf',
       collapsed: false,
