@@ -1,1 +1,13 @@
-# Orte auf Gaia
+# Orte in Gaia
+
+## Dörfer
+
+## Städte
+
+## Burgen
+
+## Ruinen
+
+## Tempel
+
+## Gräber
