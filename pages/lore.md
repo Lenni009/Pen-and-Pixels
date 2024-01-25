@@ -48,5 +48,5 @@ Nachdem der graue Eremit die magische Sprache der Runen nach Gaia brachte, befas
 7. Polymorphie (Macht der Verwandlung)
 
 ## Die Bedrohung aus dem Süden
-
+In ganz Gaia geht das Gerücht rum ....
 ![image](/images/nomaden.jpg)
