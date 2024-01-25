@@ -6,4 +6,4 @@ Einige Informationen die hier stehen dienen nur zur Veranschaulichung und zur be
 
 Liebe Grüße 
 
-Euer Gamemaster
+Euer Game Master
