@@ -10,10 +10,26 @@ Treffen sich, erste Erfolge, Verlust Barde, Tot Magier, Quests erledigt, Geheimn
 ## Die Abenteurer
 
 ### Der Barbar
-Zwerg
+-**Name:** 
+-**Volk:** 
+-**Alter:** 
+-**Klasse:** 
+-**Geschlecht:** 
+-**Geschlecht:** 
+
+
+
+
+
 
 ### Der Schurke
+-**Name:** 
+-**Volk:** 
 
 ### Der Barde
+-**Name:** 
+-**Volk:** 
 
 ### Der Magier
+-**Name:** 
+-**Volk:** 
