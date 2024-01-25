@@ -46,3 +46,7 @@ Nachdem der graue Eremit die magische Sprache der Runen nach Gaia brachte, befas
 5. Aeromantie (Macht der Luft und des Donners)
 6. Geomantie (Macht der Erde)
 7. Polymorphie (Macht der Verwandlung)
+
+## Die Bedrohung aus dem Süden
+
+![image](/images/nomaden.jpg)
