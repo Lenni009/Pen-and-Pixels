@@ -4,7 +4,7 @@
 Es folgt die grobe Story im Fließtext. PS: Die Story kann noch überarbeitet werden!!!!
 
 ## Taverne 
-Die Gruppe, die mittlerweile nur noch aus zwei Charakteren besteht, erwacht nach ihrer bisherigen, langen Reise in der Taverne (Stadtname). Sie wachen erholt und ausgeschlafen aus, sind jedoch immer noch niedergeschlagen von den bisherigen Fehlschlägen und Verlusten. Zum Frühstück trotten beide runter in den Wirtsraum, der trotz der frühen Uhrzeit schon gut gefüllt ist. Auf dem Speiseplan steht Suppe. Einer der Charaktere geht rüber zu der Theke und spricht die temperamentvolle Tavernenwirtin an. 
+Die Gruppe, die mittlerweile nur noch aus zwei Charakteren besteht, erwacht nach ihrer bisherigen, langen Reise in der Taverne (Stadtname). Sie wachen erholt und ausgeschlafen auf, sind jedoch immer noch niedergeschlagen von den bisherigen Fehlschlägen und Verlusten. Zum Frühstück trotten beide runter in den Wirtsraum, der trotz der frühen Uhrzeit schon gut gefüllt ist. Auf dem Speiseplan steht Suppe. Einer der Charaktere geht rüber zu der Theke und spricht die temperamentvolle Tavernenwirtin an. 
 
 (Dialog, Studioset Taverne) 
 
