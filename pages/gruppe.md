@@ -7,3 +7,13 @@ Besiegen konnten sie ihn jedoch nicht. Der Niederlage nah entschieden sich die A
 
 
 Treffen sich, erste Erfolge, Verlust Barde, Tot Magier, Quests erledigt, Geheimnisse gelüftet
+
+## Die Abenteurer
+
+### Barbar
+
+### Waldläufer
+
+### Barde
+
+### Magier
