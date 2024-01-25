@@ -15,21 +15,28 @@ Treffen sich, erste Erfolge, Verlust Barde, Tot Magier, Quests erledigt, Geheimn
 - **Alter:** 
 - **Klasse:** 
 - **Geschlecht:** 
-- **Geschlecht:** 
-
-
-
-
-
+- **Geschichte:** 
 
 ### Der Schurke
--**Name:** 
--**Volk:** 
+- **Name:** 
+- **Volk:** 
+- **Alter:** 
+- **Klasse:** 
+- **Geschlecht:** 
+- **Geschichte:** 
 
 ### Der Barde
--**Name:** 
--**Volk:** 
+- **Name:** 
+- **Volk:** 
+- **Alter:** 
+- **Klasse:** 
+- **Geschlecht:** 
+- **Geschichte:** 
 
 ### Der Magier
--**Name:** 
--**Volk:** 
+- **Name:** 
+- **Volk:** 
+- **Alter:** 
+- **Klasse:** 
+- **Geschlecht:** 
+- **Geschichte:** 
