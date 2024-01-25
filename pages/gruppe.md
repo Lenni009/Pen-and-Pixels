@@ -9,10 +9,10 @@ Treffen sich, erste Erfolge, Verlust Barde, Tot Magier, Quests erledigt, Geheimn
 
 ## Die Abenteurer
 
-### Barbar
+### Der Barbar
 
-### Waldläufer
+### Der Waldläufer
 
-### Barde
+### Der Barde
 
-### Magier
+### DerMagier
