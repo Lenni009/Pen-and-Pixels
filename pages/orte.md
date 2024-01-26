@@ -1,5 +1,5 @@
 # Orte in Gaia
-Ein kurzer Überblick über dich wichtigstern Orte im Abenteuer und in der Lore.
+Ein kurzer Überblick über dich wichtigsten Orte im Abenteuer und in der Lore.
 
 ## Dörfer
 
