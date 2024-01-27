@@ -13,9 +13,3 @@ hero:
     src: /images/studioprojekt-logo.png
     alt: Logo
 ---
-
-<style>
-html {
-  scrollbar-gutter: stable;
-}
-</style>
