@@ -43,7 +43,7 @@ export default defineConfig({
     returnToTopLabel: 'Zurück zum Anfang',
 
     search: {
-	  	provider: 'local',
+      provider: 'local',
     },
     nav: [
       { text: 'Startseite', link: '/' },
