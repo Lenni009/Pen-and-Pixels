@@ -40,7 +40,7 @@ export default defineConfig({
     lightModeSwitchTitle: 'Zum hellen Modus wechseln',
     darkModeSwitchTitle: 'Zum dunklen Modus wechseln',
     sidebarMenuLabel: 'Menü',
-	returnToTopLabel: 'Zurück zum Anfang',
+    returnToTopLabel: 'Zurück zum Anfang',
 
     search: {
 	  	provider: 'local',
