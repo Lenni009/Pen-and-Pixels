@@ -24,7 +24,6 @@ export default defineConfig({
     ['link', { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/Studioprojekt2024/icons/favicon-32x32.png' }],
     ['link', { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/Studioprojekt2024/icons/favicon-16x16.png' }],
     ['link', { rel: 'shortcut icon', href: '/Studioprojekt2024/icons/favicon.ico' }],
-    ['link', { rel: 'stylesheet', href: '/Studioprojekt2024/globalStyle.css' }],
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config

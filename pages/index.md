@@ -14,3 +14,8 @@ hero:
     alt: Logo
 ---
 
+<style>
+html {
+  scrollbar-gutter: stable;
+}
+</style>
