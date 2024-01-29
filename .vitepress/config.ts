@@ -44,9 +44,6 @@ export default defineConfig({
     search: {
       provider: 'local',
     },
-    nav: [
-      { text: 'Startseite', link: '/' },
-    ],
 
     sidebar: sidebar(),
 
