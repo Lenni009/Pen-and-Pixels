@@ -4,7 +4,7 @@ import { MdEditor } from 'md-editor-v3';
 import 'md-editor-v3/lib/style.css';
 import { useData } from 'vitepress';
 
-const pageContent = ref('');
+const pageContent = ref('# Hello World\n\nThis is content');
 
 const { isDark } = useData();
 
