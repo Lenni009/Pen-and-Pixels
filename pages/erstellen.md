@@ -75,5 +75,7 @@ Ein paar KI Tools, falls man die Kreativität zu Hause vergessen hat. Alle sind 
 [Adobe Firefly](https://firefly.adobe.com/)
 : Bildgenerator von Adobe (Account benötigt, Schulaccount funktioniert, unendlich Prompts)
 
+## Editor
+
 <MarkdownEditor />
 
