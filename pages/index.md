@@ -9,6 +9,9 @@ hero:
     - theme: brand
       text: Wiki
       link: /intro
+    - theme: alt
+      text: Seite erstellen
+      link: /erstellen
   image:
     src: /images/studioprojekt-logo.png
     alt: Logo

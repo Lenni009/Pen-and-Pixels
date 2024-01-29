@@ -1,4 +1,5 @@
 # Studioprojekt2024
+
 Wiki für das Studioprojekt der ME21b.
 
 This website uses the Vitepress package.

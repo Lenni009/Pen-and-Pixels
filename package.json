@@ -1,11 +1,16 @@
 {
-	"type": "module",
-	"scripts": {
-		"dev": "vitepress dev",
-		"build": "vitepress build",
-		"preview": "vitepress preview"
-	},
-	"dependencies": {
-		"vitepress": "^1.0.0-rc.40"
-	}
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview",
+    "format": "prettier --write ."
+  },
+  "dependencies": {
+    "md-editor-v3": "^4.11.0",
+    "vitepress": "^1.0.0-rc.40"
+  },
+  "devDependencies": {
+    "prettier": "^3.2.4"
+  }
 }

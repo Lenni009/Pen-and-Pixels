@@ -1,4 +1,5 @@
 import type { DefaultTheme } from 'vitepress';
+import { createPageSidebar } from './createPage';
 
 export function sidebar(): DefaultTheme.SidebarItem[] {
   // text: der Text, der in der Seitenleiste erscheint
@@ -6,9 +7,7 @@ export function sidebar(): DefaultTheme.SidebarItem[] {
   return [
     {
       collapsed: false,
-      items: [
-        { text: 'Disclaimer', link: '/intro' },
-      ]
+      items: [{ text: 'Disclaimer', link: '/intro' }, createPageSidebar()],
     },
     {
       text: 'Story',
@@ -17,7 +16,7 @@ export function sidebar(): DefaultTheme.SidebarItem[] {
         { text: 'Geschichte', link: '/geschichte' },
         { text: 'Abenteurer', link: '/abenteurer' },
         { text: 'Lore', link: '/lore' },
-      ]
+      ],
     },
     {
       text: 'Welt',
@@ -28,7 +27,7 @@ export function sidebar(): DefaultTheme.SidebarItem[] {
         { text: 'Orte', link: '/orte' },
         { text: 'NPC', link: '/npc' },
         { text: 'Klassen', link: '/klassen' },
-      ]
+      ],
     },
     {
       text: 'Kampf',
@@ -37,7 +36,7 @@ export function sidebar(): DefaultTheme.SidebarItem[] {
         { text: 'Waffen', link: '/waffen' },
         { text: 'Items', link: '/items' },
         { text: 'Gegner', link: '/gegner' },
-      ]
+      ],
     },
-  ]
+  ];
 }

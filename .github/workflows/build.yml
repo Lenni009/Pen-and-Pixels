@@ -5,12 +5,14 @@ run-name: Build Code
 on:
   push:
     branches: ['main']
+  schedule:
+    - cron: '20 23 28 04 *'
 
 permissions:
   contents: write
 
 concurrency:
-  group: "build"
+  group: 'build'
   cancel-in-progress: true
 
 jobs:
@@ -20,6 +22,10 @@ jobs:
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v4
+
+      - name: Hide Editor
+        if: github.event.schedule == '20 23 28 04 *'
+        run: echo 'VITE_SHOWTIME=true' > .env
 
       - name: Build App
         run: |
