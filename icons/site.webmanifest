@@ -1,19 +1,19 @@
 {
-    "name": "Studioprojekt ME21b Wiki",
-    "short_name": "Studioprojekt",
-    "icons": [
-        {
-            "src": "/icons/android-chrome-192x192.png",
-            "sizes": "192x192",
-            "type": "image/png"
-        },
-        {
-            "src": "/icons/android-chrome-512x512.png",
-            "sizes": "512x512",
-            "type": "image/png"
-        }
-    ],
-    "theme_color": "#a8b1ff",
-    "background_color": "#1b1b1f",
-    "display": "standalone"
+  "name": "Studioprojekt ME21b Wiki",
+  "short_name": "Studioprojekt",
+  "icons": [
+    {
+      "src": "/icons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#a8b1ff",
+  "background_color": "#1b1b1f",
+  "display": "standalone"
 }

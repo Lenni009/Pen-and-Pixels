@@ -1,1 +1,0 @@
-import{_ as e,c as n,o as r,V as i}from"./chunks/framework.dDTfqq5o.js";const p=JSON.parse('{"title":"Geschichte","description":"","frontmatter":{},"headers":[],"relativePath":"geschichte.md","filePath":"geschichte.md"}'),a={name:"geschichte.md"},t=i("",36),d=[t];function s(h,l,u,c,o,g){return r(),n("div",null,d)}const f=e(a,[["render",s]]);export{p as __pageData,f as default};
