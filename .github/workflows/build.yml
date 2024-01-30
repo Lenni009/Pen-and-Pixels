@@ -23,9 +23,15 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v4
 
-      - name: Hide Editor
-        if: github.event.schedule == '20 23 28 04 *'
-        run: echo 'VITE_SHOWTIME=true' > .env
+      - name: Determine Showtime
+        run: |
+          current=$(date -d "$(date)" +%s)
+          dead=$(date -d 2024-04-29 +%s)
+
+          if [ $current -ge $dead ]
+            then
+            echo 'VITE_SHOWTIME=true' > .env
+          fi
 
       - name: Build App
         run: |
