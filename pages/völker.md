@@ -26,7 +26,7 @@ Die Wiedergänger sind Wesen, welche nach ihrem Tod keine Ruhe gefunden haben. I
 
 ### Homo Oeconomicus
 Der Homo Oeconomicus ist ein ganz besonderes Wesen. Mit den Aussehen eines Menschen, der Intiligenz eines Elben, der Stärke einer Walküre und der Fleißheit eines Zwergen, bildet er die Synthese aller zivilisierten Völker auf Gaia. Dank des Blutgedächtnis, kann er auf das esoterisches Wissen seiner vielen bereits verstorbenen Verwanten zurückgreifen und ist immer bestrebt danach jenes wissen zu erweitern. Dabei haben sie das Handwerk des Händlertums für sich entdeckt und reisen so durch ganz Gaia um ihre großtes Bedürfniss zu erfüllen - Die Nutzenmaximirung. Besonders auffällig ist dabei ihre ausgeprägtes rationalles Denken und kaltes und gefühlloses Auftreten. 
-![Wiedergänger Problem](/images/WiedergaengerProblem.webp)
+![Wiedergänger Problem](/images/HomoOeconomicus1.jpg)
 
 ### Riesen
 
