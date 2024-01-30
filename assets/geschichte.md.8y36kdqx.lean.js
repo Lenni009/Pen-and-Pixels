@@ -1,0 +1,1 @@
+import{_ as e,c as n,o as r,V as i}from"./chunks/framework.LMZ_lQsD.js";const p=JSON.parse('{"title":"Geschichte","description":"","frontmatter":{},"headers":[],"relativePath":"geschichte.md","filePath":"geschichte.md"}'),t={name:"geschichte.md"},a=i("",53),s=[a];function d(h,u,l,c,o,g){return r(),n("div",null,s)}const b=e(t,[["render",d]]);export{p as __pageData,b as default};
