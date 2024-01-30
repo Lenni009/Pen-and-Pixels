@@ -30,6 +30,10 @@ Der Homo Oeconomicus ist ein ganz besonderes Wesen. Mit den Aussehen eines Mensc
 
 ### Riesen
 
+![Wiedergänger Problem](/images/riesen.jpg)
 ### Geister
 
+![Wiedergänger Problem](/images/geister.jpg)
 ### Monster
+
+![Wiedergänger Problem](/images/waldnymphe.jpg)
