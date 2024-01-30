@@ -9,7 +9,7 @@ import MarkdownEditor from '/components/MarkdownEditor.vue';
 
 Hier kannst du eine neue Seite erstellen. Aufgrund der Architektur dieser Webseite können diese allerdings nicht automatisch hinzugefügt werden. Hier eine kleine Anleitung. Bei Fragen, fragen :)
 
-Euer Wiki Master Lenni
+Euer Wiki Meister Lenni
 
 ---
 
