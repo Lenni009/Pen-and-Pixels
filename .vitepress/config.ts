@@ -1,7 +1,8 @@
-import { showTime } from '../pages/variables/env';
-import { nav } from './createPage';
-import { headLinks } from './head';
-import { sidebar } from './sidebar';
+import { showTime } from '../pages/code/variables/env';
+import { nav } from './configs/nav';
+import { head } from './configs/head';
+import { sidebar } from './configs/transformSidebar';
+import { sidebar as rawSidebar } from './sidebar';
 import { defineConfig } from 'vitepress';
 
 // https://vitepress.dev/reference/site-config
@@ -17,7 +18,7 @@ export default defineConfig({
       lazyLoading: true,
     },
   },
-  head: headLinks(),
+  head,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     docFooter: {
@@ -38,14 +39,18 @@ export default defineConfig({
       provider: 'local',
     },
 
-    nav: nav(),
-
-    sidebar: sidebar(),
+    nav,
+    sidebar,
 
     socialLinks: [{ icon: 'github', link: 'https://github.com/Lenni009/Studioprojekt2024' }],
   },
 
   transformPageData(pageData) {
-    if (showTime && pageData?.frontmatter?.hero?.actions?.[1]) pageData?.frontmatter?.hero?.actions?.pop();
+    if (!showTime || !pageData?.frontmatter?.hero?.actions?.[1]) return;
+    pageData.frontmatter.hero.actions.pop();
+    const wikiLinkSectionIndex = rawSidebar.findIndex((item) => item.items?.some((subItem) => subItem.isPublicEntry));
+    if (wikiLinkSectionIndex === -1) return;
+    const wikiLink = rawSidebar[wikiLinkSectionIndex].items?.find((item) => item.isPublicEntry)?.link;
+    if (wikiLink) pageData.frontmatter.hero.actions[0].link = wikiLink;
   },
 });

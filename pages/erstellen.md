@@ -2,7 +2,7 @@
 aside: false
 ---
 <script setup lang="ts">
-import MarkdownEditor from '/components/MarkdownEditor.vue';
+import MarkdownEditor from '/code/components/MarkdownEditor.vue';
 </script>
 
 # Neue Seite erstellen
