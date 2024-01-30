@@ -9,8 +9,7 @@ Nach weiten Wegen und vielen großen und kleinen Ablenkungen konnten die drei re
 Leider war der Magier ihrer Gruppe zu sehr verletzt und der Barbar und Schurke entschieden sich dazu, ihn zurückzulassen, um ihre eigene Haut zu retten. Der Horror in seinen Augen, dass seine Kameraden ihn in Stich lassen, hatte einen bleibenden negativen Effekt auf die Überlebenden. Vor allem seine letzten Worte hallten in ihren Köpfen: **“Lasst mich nicht in Stich, ihr Narren.”** 
 
 Zurzeit befinden sich die gerade so am Leben erhaltenen Abenteuer in der Schenke der “Frau Bogi”. Nur noch zu zweit versuchen der Barbar “Fridericus Rotbart“ und der Schurke ____ neuen Mut zu sammeln, um die Welt ein weiteres Mal vor den Drachen zu beschützen. 
-______
-Treffen sich, erste Erfolge, Verlust Barde, Tot Magier, Quests erledigt, Geheimnisse gelüftet
+
 
 ## Die Abenteurer
 
@@ -18,23 +17,20 @@ Treffen sich, erste Erfolge, Verlust Barde, Tot Magier, Quests erledigt, Geheimn
 - **Name:** Fridericus Rotbart
 - **Volk:** Zwerg
 - **Alter:** 262
-- **Klasse:** Barbar
 - **Geschlecht:** Männlich
 - **Geschichte:** 
 
 ### Der Schurke
-- **Name:** 
-- **Volk:** 
-- **Alter:** 
-- **Klasse:** 
-- **Geschlecht:** 
+- **Name:** Morzan Schattenläufer
+- **Volk:** Wiedergänger (Mensch)
+- **Alter:** 69
+- **Geschlecht:** Männlich
 - **Geschichte:** 
 
 ### Der Barde
-- **Name:** 
-- **Volk:** 
+- **Name:** Harald Scheißgesang
+- **Volk:** Elbe
 - **Alter:** 
-- **Klasse:** 
 - **Geschlecht:** 
 - **Geschichte:** 
 
@@ -42,6 +38,5 @@ Treffen sich, erste Erfolge, Verlust Barde, Tot Magier, Quests erledigt, Geheimn
 - **Name:** 
 - **Volk:** 
 - **Alter:** 
-- **Klasse:** 
 - **Geschlecht:** 
 - **Geschichte:** 
