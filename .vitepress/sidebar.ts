@@ -15,8 +15,8 @@ export const sidebar: CustomSidebarItem[] = [
   {
     text: 'Story',
     items: [
-      { text: 'Geschichte', link: '/geschichte', isPublicEntry: true },
-      { text: 'Abenteurer', link: '/abenteurer' },
+      { text: 'Geschichte', link: '/geschichte', isInternal: true },
+      { text: 'Abenteurer', link: '/abenteurer', isPublicEntry: true },
       { text: 'Lore', link: '/lore' },
     ],
   },
