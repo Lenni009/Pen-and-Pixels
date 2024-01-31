@@ -1,7 +1,7 @@
 import { DefaultTheme } from "vitepress";
 
 export interface CustomSidebarItem extends DefaultTheme.SidebarItem {
-  isPublic?: boolean;
+  isInternal?: boolean;
   items?: CustomSidebarItemChildren[];
 }
 

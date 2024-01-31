@@ -48,5 +48,10 @@ Nachdem der graue Eremit die magische Sprache der Runen nach Gaia brachte, befas
 7. Polymorphie (Macht der Verwandlung)
 
 ## Die Bedrohung aus dem Süden
-In ganz Gaia geht das Gerücht rum ....
+In ganz Gaia geht ein Gerücht rum. Sichtungen eines noch unbekannten Volkes lässt die Randgebiete vor Angst zittern. In den fernen und unwirklichen Wüsten von Helheim soll ein Nomadenvolk leben. Mit ihre furchteinflößenden Rüstung und ihren eigenartigen Klingen, reiten sie die Dünen und den Lavaflüssen entlang und spähen den Weltenbaum aus. Bisher haben sie sich nur bis zum Rand von Helheim getraut - Aber wer weiß wann sie auch diese Grenze überschreiten.....
 ![image](/images/nomaden.jpg)
+
+## Apokalyptiker
+...
+![image](/images/kult1.jpg)
+![image](/images/kult2.jpg)

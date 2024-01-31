@@ -1,4 +1,5 @@
 {
+  "name": "legende-von-gutenberg",
   "type": "module",
   "scripts": {
     "dev": "vitepress dev",

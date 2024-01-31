@@ -2,11 +2,11 @@ import { CustomSidebarItem } from '../pages/code/types/customSidebar';
 
 // text: der Text, der in der Seitenleiste erscheint
 // link: URL, unter der die Seite erreichbar ist. Muss mit dem Dateinamen der entsprechenden .md Datei übereinstimmen
-// isPublic: wenn "false", wird der Link/Abschnitt nicht während der Aufführungszeit (ab 29.04.2024) angezeigt werden. Kann auf ganzen Abschnitten und auf einzelnen Links verwendet werden
+// isInternal: wenn "true", wird der Link/Abschnitt nicht während der Aufführungszeit (ab 29.04.2024) angezeigt werden. Kann auf ganzen Abschnitten und auf einzelnen Links verwendet werden
 // isPublicEntry: wenn "true", wird dieser Link das Ziel des "Wiki" Links auf der Startseite. Falls es öfter verwendet wird, wird der erste für den Link verwendet
 export const sidebar: CustomSidebarItem[] = [
   {
-    isPublic: false,
+    isInternal: true,
     items: [
       { text: 'Disclaimer', link: '/intro' },
       { text: 'Seite erstellen', link: '/erstellen' },
@@ -15,8 +15,8 @@ export const sidebar: CustomSidebarItem[] = [
   {
     text: 'Story',
     items: [
-      { text: 'Geschichte', link: '/geschichte', isPublicEntry: true },
-      { text: 'Abenteurer', link: '/abenteurer' },
+      { text: 'Geschichte', link: '/geschichte', isInternal: true },
+      { text: 'Abenteurer', link: '/abenteurer', isPublicEntry: true },
       { text: 'Lore', link: '/lore' },
     ],
   },
