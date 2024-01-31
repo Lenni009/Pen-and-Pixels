@@ -8,9 +8,11 @@
   },
   "dependencies": {
     "md-editor-v3": "^4.11.0",
+    "typescript": "^5.3.3",
     "vitepress": "^1.0.0-rc.40"
   },
   "devDependencies": {
-    "prettier": "^3.2.4"
+    "prettier": "^3.2.4",
+    "sass": "^1.70.0"
   }
 }

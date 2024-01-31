@@ -15,28 +15,23 @@ Treffen sich, erste Erfolge, Verlust Barde, Tot Magier, Quests erledigt, Geheimn
 - **Alter:** 262
 - **Klasse:** Barbar
 - **Geschlecht:** Männlich
-- **Geschichte:** 
+- **Geschichte:**
 
 ### Der Schurke
-- **Name:** 
-- **Volk:** 
-- **Alter:** 
-- **Klasse:** 
-- **Geschlecht:** 
-- **Geschichte:** 
+ <!--@include: ./characterSheets/schurke.md-->
 
 ### Der Barde
-- **Name:** 
-- **Volk:** 
-- **Alter:** 
-- **Klasse:** 
-- **Geschlecht:** 
-- **Geschichte:** 
+- **Name:**
+- **Volk:**
+- **Alter:**
+- **Klasse:**
+- **Geschlecht:**
+- **Geschichte:**
 
 ### Der Magier
-- **Name:** 
-- **Volk:** 
-- **Alter:** 
-- **Klasse:** 
-- **Geschlecht:** 
-- **Geschichte:** 
+- **Name:**
+- **Volk:**
+- **Alter:**
+- **Klasse:**
+- **Geschlecht:**
+- **Geschichte:**
