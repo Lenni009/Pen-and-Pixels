@@ -50,3 +50,7 @@ Nachdem der graue Eremit die magische Sprache der Runen nach Gaia brachte, befas
 ## Die Bedrohung aus dem Süden
 In ganz Gaia geht das Gerücht rum ....
 ![image](/images/nomaden.jpg)
+
+## Apokalyptiker
+...
+![image](/images/kult2.jpg)
