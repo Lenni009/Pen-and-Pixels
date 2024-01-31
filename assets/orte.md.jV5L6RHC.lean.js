@@ -1,1 +1,0 @@
-import{_ as e,c as a,o as r,V as t}from"./chunks/framework.2jt-mhXg.js";const m=JSON.parse('{"title":"Orte in Gaia","description":"","frontmatter":{},"headers":[],"relativePath":"orte.md","filePath":"orte.md"}'),i={name:"orte.md"},n=t("",8),o=[n];function d(h,l,s,c,u,_){return r(),a("div",null,o)}const f=e(i,[["render",d]]);export{m as __pageData,f as default};
