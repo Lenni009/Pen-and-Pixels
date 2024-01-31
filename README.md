@@ -1,4 +1,4 @@
-# Studioprojekt2024
+# Legende von Gutenberg
 
 Wiki für das Studioprojekt der ME21b.
 

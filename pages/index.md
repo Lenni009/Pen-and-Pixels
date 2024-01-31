@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "____: Ein Pen'n'Paper Abenteuer der ME21b"
+  name: "Legende von Gutenberg: Ein Pen'n'Paper Abenteuer der ME21b"
   tagline: Wiki für das Studioprojekt der ME21b
   actions:
     - theme: brand
