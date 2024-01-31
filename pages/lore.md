@@ -40,8 +40,8 @@ Das Wiedergänger-Problem beschäftigt die Völker, vor allem die Menschen, scho
 ## Runen, die magische Sprache auf Gaia
 Nachdem der graue Eremit die magische Sprache der Runen nach Gaia brachte, befassten sich viele Gelehrte mit der neugewonnenen Macht. Über die Jahrhunderte hin wurden viele Zaubersprüche ergründet und das Wissen über Generationen weiter gegeben.                                                                             Es ergaben sie sieben Magiespezialisierung:
 1. Pyromantie (die Macht des Feuers)
-2. Cryomantie (Macht des Eises) 
-3. Nekromantie (Totenbeschwörung) 
+2. Cryomantie (Macht des Eises)
+3. Nekromantie (Totenbeschwörung)
 4. Hydromantie (Macht des Wassers)
 5. Aeromantie (Macht der Luft und des Donners)
 6. Geomantie (Macht der Erde)
