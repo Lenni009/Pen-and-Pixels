@@ -7,7 +7,6 @@ function processItems(items: CustomSidebarItem[]): DefaultTheme.SidebarItem[] {
   const result: DefaultTheme.SidebarItem[] = [];
 
   for (const item of items) {
-    // This needs to be an explicit false check, since the value can also be undefined, and undefined should be equal to true.
     if (showTime && item.isInternal) continue;
     delete item.isInternal;
 
