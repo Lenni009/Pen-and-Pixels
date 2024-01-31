@@ -53,4 +53,5 @@ In ganz Gaia geht ein Gerücht rum. Sichtungen eines noch unbekannten Volkes lä
 
 ## Apokalyptiker
 ...
+![image](/images/kult1.jpg)
 ![image](/images/kult2.jpg)
