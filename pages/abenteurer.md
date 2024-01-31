@@ -1,3 +1,8 @@
+<script setup lang="ts">
+  import CharacterSheet from './code/components/CharacterSheet.vue';
+  import { schurke } from './characterSheetData/schurke';
+</script>
+
 # Geschichte der Abenteuerer bisher
 
 ## Was bisher geschah?
@@ -18,7 +23,7 @@ Treffen sich, erste Erfolge, Verlust Barde, Tot Magier, Quests erledigt, Geheimn
 - **Geschichte:**
 
 ### Der Schurke
- <!--@include: ./characterSheets/schurke.md-->
+<CharacterSheet :data="schurke" />
 
 ### Der Barde
 - **Name:**

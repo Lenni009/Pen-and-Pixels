@@ -5,27 +5,31 @@ import CharacterBasicStats from './CharacterBasicStats.vue';
 import CharacterInventory from './CharacterInventory.vue';
 import { withBase } from 'vitepress';
 import { VPTeamMembers } from 'vitepress/theme';
-import { computed } from 'vue';
+import { computed, toRefs } from 'vue';
 import { addStats } from '../logic/math';
+import { maxPoints } from '../variables/constants';
 
-const props = defineProps<CharacterSheet>();
+const props = defineProps<{
+  data: CharacterSheet;
+}>();
 
-const maxPoints = 80;
+const { name, volk, alter, lebensPunkte, statur, beruf, handeln, wissen, soziales, inventar, anmerkungen, image } =
+  toRefs(props.data);
 
 const characterData = {
-  avatar: withBase(props.image),
-  name: props.name,
-  title: props.beruf,
+  avatar: withBase(image.value),
+  name: name.value,
+  title: beruf.value,
 };
 
 const totalPoints = computed(() => {
-  const { handeln, wissen, soziales } = props;
-  const traits = [...handeln, ...wissen, ...soziales];
+  const traits = [...handeln.value, ...wissen.value, ...soziales.value];
   const traitValues = traits.map((trait) => trait.amount);
   return addStats(traitValues);
 });
 
 const hasTooManyPoints = computed(() => totalPoints.value > maxPoints);
+const hasTooLittlePoints = computed(() => totalPoints.value < maxPoints);
 </script>
 
 <template>
@@ -35,6 +39,12 @@ const hasTooManyPoints = computed(() => totalPoints.value > maxPoints);
       class="error"
     >
       Charakter hat zu viele Skillpunkte verbraucht (maximum: {{ maxPoints }}, verbraucht: {{ totalPoints }})
+    </p>
+    <p
+      v-if="hasTooLittlePoints"
+      class="error"
+    >
+      Charakter hat noch Skillpunkte übrig (maximum: {{ maxPoints }}, verbraucht: {{ totalPoints }})
     </p>
     <VPTeamMembers
       :members="[characterData]"

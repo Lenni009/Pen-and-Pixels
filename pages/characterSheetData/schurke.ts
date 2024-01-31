@@ -42,12 +42,27 @@ const wissen: CharacterTrait[] = [
   },
 ];
 
-const soziales: CharacterTrait[] = [];
+const soziales: CharacterTrait[] = [
+  {
+    property: 'Betören',
+    amount: 1,
+  },
+  {
+    property: 'Lügen',
+    amount: 11,
+  },
+];
 
-const inventar: CharacterTrait[] = [];
+const inventar: CharacterTrait[] = [
+  {
+    property: 'Kurzschwert',
+    amount: 2
+  }
+];
 
-export const schurkeStats: CharacterSheet = {
+export const schurke: CharacterSheet = {
   name: 'Morzan Schattenläufer',
+  image: '/images/schurke.jpg',
   volk: 'Wiedergänger (Mensch)',
   alter: 69,
   lebensPunkte: 100,
@@ -58,5 +73,4 @@ export const schurkeStats: CharacterSheet = {
   wissen,
   soziales,
   inventar,
-  image: '/images/schurke.jpg',
 };
