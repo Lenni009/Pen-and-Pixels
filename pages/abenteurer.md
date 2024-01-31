@@ -1,6 +1,6 @@
 <script setup lang="ts">
   import CharacterSheet from './code/components/CharacterSheet.vue';
-  import { schurke } from './characterSheetData/schurke';
+  import { schurke, barde } from './characterSheetData';
 </script>
 
 # Geschichte der Abenteuerer bisher
@@ -26,12 +26,7 @@ Treffen sich, erste Erfolge, Verlust Barde, Tot Magier, Quests erledigt, Geheimn
 <CharacterSheet :data="schurke" />
 
 ### Der Barde
-- **Name:**
-- **Volk:**
-- **Alter:**
-- **Klasse:**
-- **Geschlecht:**
-- **Geschichte:**
+<CharacterSheet :data="barde" />
 
 ### Der Magier
 - **Name:**

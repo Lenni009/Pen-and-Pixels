@@ -83,7 +83,7 @@ const hasTooLittlePoints = computed(() => totalPoints.value < maxPoints);
     <CharacterInventory :data="inventar" />
     <div>
       <h4>Zusätzliche Informationen</h4>
-      <h4>{{ anmerkungen }}</h4>
+      <p>{{ anmerkungen }}</p>
     </div>
   </div>
 </template>
