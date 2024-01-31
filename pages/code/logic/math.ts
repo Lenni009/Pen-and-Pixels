@@ -7,6 +7,6 @@ export function getBonusPoints(data: CharacterTrait[]) {
   const stats = data.map((item) => item.amount);
   const total = addStats(stats);
   const part = total / 10;
-  const result = Math.ceil(part);
+  const result = Math.round(part);
   return result;
 }
