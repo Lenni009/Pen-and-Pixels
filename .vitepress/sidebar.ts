@@ -18,6 +18,7 @@ export const sidebar: CustomSidebarItem[] = [
       { text: 'Geschichte', link: '/geschichte', isInternal: true },
       { text: 'Abenteurer', link: '/abenteurer', isPublicEntry: true },
       { text: 'Lore', link: '/lore' },
+      { text: 'Karte', link: '/karte' },
     ],
   },
   {
@@ -26,7 +27,7 @@ export const sidebar: CustomSidebarItem[] = [
       { text: 'Regionen', link: '/regionen' },
       { text: 'Völker', link: '/völker' },
       { text: 'Orte', link: '/orte' },
-      { text: 'NPC', link: '/npc' },
+      { text: 'NPCs', link: '/npc' },
       { text: 'Klassen', link: '/klassen' },
     ],
   },
