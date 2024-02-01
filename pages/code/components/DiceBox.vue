@@ -4,6 +4,7 @@ import { showTime } from '../variables/constants';
 
 const dieRig = ref('');
 const rollBtn = ref<HTMLButtonElement | null>(null);
+const die = ref<HTMLDivElement | null>(null);
 
 // set configurations when invoking the class
 onMounted(async () => {
@@ -17,7 +18,7 @@ onMounted(async () => {
     },
     light_intensity: 1,
     gravity_multiplier: 500,
-    baseScale: 150,
+    baseScale: getDieSize(),
     strength: 2,
   });
 
@@ -38,6 +39,12 @@ onMounted(async () => {
 const getRndInteger = (min: number, max: number) => Math.floor(Math.random() * (max - min + 1)) + min;
 
 const getRandomDieNumber = (result?: string) => `1d20@${result ?? getRndInteger(1, 20)}`;
+
+function getDieSize() {
+  if (!die.value) return;
+  const width = die.value.getBoundingClientRect().width;
+  return width / 4;
+}
 </script>
 
 <template>
@@ -57,7 +64,7 @@ const getRandomDieNumber = (result?: string) => `1d20@${result ?? getRndInteger(
     </button>
   </div>
   <div class="die-wrapper">
-    <div id="die"></div>
+    <div id="die" ref="die"></div>
   </div>
 </template>
 
