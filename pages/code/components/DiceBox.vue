@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { ref, onMounted } from 'vue';
+import { showTime } from '../variables/constants';
 
 const dieRig = ref('');
 const rollBtn = ref<HTMLButtonElement | null>(null);
@@ -41,6 +42,7 @@ const getRandomDieNumber = (result?: string) => `1d20@${result ?? getRndInteger(
 
 <template>
   <input
+    v-if="!showTime"
     v-model="dieRig"
     class="rig-input"
     type="text"
