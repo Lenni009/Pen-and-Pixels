@@ -1,50 +1,56 @@
 <script setup lang="ts">
 import DiceBox from '@3d-dice/dice-box-threejs';
-import { ref } from 'vue';
+import { ref, onMounted } from 'vue';
 
 const dieRig = ref('');
+const rollBtn = ref<HTMLButtonElement | null>(null);
 
 // set configurations when invoking the class
-const Box = new DiceBox('#die', {
-  theme_customColorset: {
-    background: '#55d12f',
-    foreground: '#ffffff',
-    texture: 'marble', // marble | ice
-    material: 'plastic', // metal | glass | plastic | wood
-  },
-  light_intensity: 1,
-  gravity_multiplier: 500,
-  baseScale: 150,
-  strength: 2,
+onMounted(() => {
+  const Box = new DiceBox('#die', {
+    theme_customColorset: {
+      background: '#55d12f',
+      foreground: '#ffffff',
+      texture: 'marble', // marble | ice
+      material: 'plastic', // metal | glass | plastic | wood
+    },
+    light_intensity: 1,
+    gravity_multiplier: 500,
+    baseScale: 150,
+    strength: 2,
+  });
+
+  Box.initialize()
+    .then(() => {
+      // give code sandbox a chance to load up
+      setTimeout(() => {
+        Box.roll(getRandomDieNumber(dieRig.value));
+      }, 1000);
+    })
+    .catch((e) => console.error(e));
+
+  rollBtn.value?.addEventListener('click', () => {
+    Box.roll(getRandomDieNumber(dieRig.value));
+  });
 });
 
-Box.initialize()
-  .then(() => {
-    // give code sandbox a chance to load up
-    setTimeout(() => {
-      Box.roll(getRandomDieNumber(dieRig.value));
-    }, 1000);
-  })
-  .catch((e) => console.error(e));
-
-const rollBtn = document.getElementById('rollBtn');
-rollBtn?.addEventListener('click', () => {
-  Box.roll(getRandomDieNumber(dieRig.value));
-});
-
-function getRndInteger(min: number, max: number) {
-  return Math.floor(Math.random() * (max - min + 1)) + min;
-}
+const getRndInteger = (min: number, max: number) => Math.floor(Math.random() * (max - min + 1)) + min;
 
 const getRandomDieNumber = (result?: string) => `1d20@${result ?? getRndInteger(1, 20)}`;
 </script>
 
 <template>
   <input
-    type="text"
     v-model="dieRig"
+    class="rig-input"
+    type="text"
   />
-  <button id="rollBtn">Roll Again</button>
+  <button
+    ref="rollBtn"
+    class="roll-button"
+  >
+    Roll Again
+  </button>
   <div class="dice-box">
     <div class="die-wrapper">
       <div id="die"></div>
@@ -53,23 +59,21 @@ const getRandomDieNumber = (result?: string) => `1d20@${result ?? getRndInteger(
 </template>
 
 <style scoped lang="scss">
-#rollBtn {
-  position: relative;
-  cursor: pointer;
-  z-index: 2;
+.rig-input,
+.roll-button {
+  padding: 0.25rem;
+  background-color: antiquewhite;
+  color: black;
+  border: 1px solid black;
 }
 
 .dice-box {
-  display: flex;
-  justify-content: center;
-  align-items: center;
 
   .die-wrapper {
     display: flex;
     justify-content: center;
     align-items: center;
     background-image: url('/Dice-box-sample_2_square_fill.png');
-    border: 2px solid red;
     width: 800px;
     height: 800px;
     background-size: cover;
