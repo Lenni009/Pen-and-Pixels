@@ -128,7 +128,7 @@ function getDieSize() {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url('/images/Dice-box-sample_2_square_fill.png');
+  background-image: url('/images/Dice-box-sample_2_square_fill.webp');
   max-width: 800px;
   background-size: cover;
   aspect-ratio: 1 / 1;
