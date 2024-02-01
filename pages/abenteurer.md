@@ -1,12 +1,9 @@
 <script setup lang="ts">
   import CharacterSheet from './code/components/CharacterSheet.vue';
-  import { isShowTime } from './code/variables/constants';
   import { schurke, barde } from './characterSheetData';
 </script>
 
 # Geschichte der Abenteuerer bisher
-
-<div v-if="!isShowTime">
 
 ## Was bisher geschah?
 
@@ -18,7 +15,6 @@ Nach weiten Wegen und vielen großen und kleinen Ablenkungen konnten die drei re
 Leider war der Magier ihrer Gruppe zu sehr verletzt und der Barbar und Schurke entschieden sich dazu, ihn zurückzulassen, um ihre eigene Haut zu retten. Der Horror in seinen Augen, dass seine Kameraden ihn in Stich lassen, hatte einen bleibenden negativen Effekt auf die Überlebenden. Vor allem seine letzten Worte hallten in ihren Köpfen: **“Lasst mich nicht in Stich, ihr Narren.”**
 
 Zurzeit befinden sich die gerade so am Leben erhaltenen Abenteuer in der Schenke der “Frau Bogi”. Nur noch zu zweit versuchen der Barbar **Fridericus Rotbart** und der Schurke **Morzan Schattenläufer** neuen Mut zu sammeln, um die Welt ein weiteres Mal vor den Drachen zu beschützen.
-</div>
 
 ## Die Abenteurer
 
