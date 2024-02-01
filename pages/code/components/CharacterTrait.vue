@@ -2,6 +2,7 @@
 import { getBonusPoints } from '../logic/math';
 import type { CharacterTrait } from '../types/characterSheet';
 import { computed } from 'vue';
+import { diceSides } from '../variables/constants';
 
 interface Props {
   type: string;
@@ -25,10 +26,16 @@ const bonus = computed(() => getBonusPoints(props.data));
       </tr>
       <tr v-for="ability in data">
         <td>{{ ability.property }}</td>
-        <td>{{ ability.amount }}</td>
+        <td :class="{ 'background-red': ability.amount > diceSides }">{{ ability.amount }}</td>
         <td>{{ bonus }}</td>
         <td>{{ ability.amount + bonus }}</td>
       </tr>
     </table>
   </div>
 </template>
+
+<style scoped>
+.background-red {
+  background-color: red;
+}
+</style>
