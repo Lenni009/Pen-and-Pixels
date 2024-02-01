@@ -121,7 +121,7 @@ const getRandomDieNumber = (result?: string) => `1d20@${result ?? getRndInteger(
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url('/Dice-box-sample_2_square_fill.png');
+  background-image: url('/images/Dice-box-sample_2_square_fill.png');
   max-width: 800px;
   background-size: cover;
   aspect-ratio: 1 / 1;
