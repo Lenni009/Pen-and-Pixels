@@ -36,6 +36,7 @@ export const sidebar: CustomSidebarItem[] = [
       { text: 'Waffen', link: '/waffen' },
       { text: 'Items', link: '/items' },
       { text: 'Gegner', link: '/gegner' },
+      { text: 'Würfel', link: '/würfel' },
     ],
   },
 ];
