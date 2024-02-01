@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref, onMounted } from 'vue';
+import { ref, onMounted, nextTick } from 'vue';
 import { showTime } from '../variables/constants';
 
 const dieRig = ref('');
@@ -24,9 +24,9 @@ onMounted(async () => {
   Box.initialize()
     .then(() => {
       // give code sandbox a chance to load up
-      setTimeout(() => {
+      nextTick(() => {
         Box.roll(getRandomDieNumber(dieRig.value));
-      }, 1000);
+      });
     })
     .catch((e) => console.error(e));
 
@@ -127,7 +127,11 @@ const getRandomDieNumber = (result?: string) => `1d20@${result ?? getRndInteger(
   aspect-ratio: 1 / 1;
 
   #die {
-    max-width: 650px;
+    width: 80%;
+    height: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
 }
 </style>
