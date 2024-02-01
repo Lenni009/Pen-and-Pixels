@@ -1,12 +1,12 @@
 <script setup lang="ts">
-import DiceBox from '@3d-dice/dice-box-threejs';
 import { ref, onMounted } from 'vue';
 
 const dieRig = ref('');
 const rollBtn = ref<HTMLButtonElement | null>(null);
 
 // set configurations when invoking the class
-onMounted(() => {
+onMounted(async () => {
+  const { default: DiceBox } = await import('@3d-dice/dice-box-threejs');
   const Box = new DiceBox('#die', {
     theme_customColorset: {
       background: '#55d12f',
@@ -51,10 +51,9 @@ const getRandomDieNumber = (result?: string) => `1d20@${result ?? getRndInteger(
   >
     Roll Again
   </button>
-  <div class="dice-box">
-    <div class="die-wrapper">
-      <div id="die"></div>
-    </div>
+
+  <div class="die-wrapper">
+    <div id="die"></div>
   </div>
 </template>
 
@@ -67,21 +66,18 @@ const getRandomDieNumber = (result?: string) => `1d20@${result ?? getRndInteger(
   border: 1px solid black;
 }
 
-.dice-box {
+.die-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url('/Dice-box-sample_2_square_fill.png');
+  width: 800px;
+  height: 800px;
+  background-size: cover;
 
-  .die-wrapper {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-image: url('/Dice-box-sample_2_square_fill.png');
-    width: 800px;
-    height: 800px;
-    background-size: cover;
-
-    #die {
-      width: 650px;
-      height: 620px;
-    }
+  #die {
+    width: 650px;
+    height: 620px;
   }
 }
 </style>
