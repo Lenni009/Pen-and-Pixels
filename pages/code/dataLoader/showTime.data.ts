@@ -7,12 +7,14 @@ export interface Data {
 }
 
 declare const data: Data;
-export { data };
+
+const env = loadEnv('', process.cwd());
+const showTime = env.VITE_SHOWTIME === 'true';
+
+export { data, showTime };
 
 export default defineLoader({
   load(): Data {
-    const env = loadEnv('', process.cwd());
-    const showTime = env.VITE_SHOWTIME === 'true';
     return {
       showTime,
     };

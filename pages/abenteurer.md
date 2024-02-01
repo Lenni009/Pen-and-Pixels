@@ -1,13 +1,15 @@
 <script setup lang="ts">
   import CharacterSheet from './code/components/CharacterSheet.vue';
-  import { data } from './code/variables/showTime.data';
+  import { showTime } from './code/variables/constants';
   import { schurke, barde } from './characterSheetData';
 </script>
 
 # Geschichte der Abenteuerer bisher
 
-<div v-if="!data.showTime">
+<div v-if="!showTime">
+
 ## Was bisher geschah?
+
 Unsere vier tapferen Abenteurer, ein Barbar, ein Schurke, ein Barde und ein Zauberer, trafen einst in einem kleinen Dorf am Rande zwischen Midgard und Fellheim aufeinander. Sie alle wurden dorthin gesandt, um für ihren jeweiligen Vorgesetzten ihres Volkes Nachforschungen durchzuführen um komische und merkwürdige Ereignisse zur ergründen. Schnell wurde ihnen klar, dass sich um schwarze Magie handelt, die droht, die Welt zu zerstören. Warum jene Person oder Gruppe dies tut, ist ihnen noch nicht bekannt. Sie kennen nur ihre Aufgabe: Haltet die Bedrohung auf und rettet die Welt.
 
 So schlugen sich die tapferen Abenteurer durch harte Quests, schwere Kämpfen und mussten das eine oder andere Mal mit dem Schicksal um ihr Glück würfeln.
