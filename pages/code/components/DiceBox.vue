@@ -73,6 +73,7 @@ function getDieSize() {
   --border-radius: 5px;
   --outline-color: rgb(135, 211, 236);
   display: flex;
+  flex-wrap: wrap;
   border-color: var(--vp-c-text-1);
   gap: 0.5rem;
   margin-block-end: 0.5rem;
