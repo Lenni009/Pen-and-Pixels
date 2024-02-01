@@ -1,7 +1,7 @@
 import type { DefaultTheme } from 'vitepress';
-import { showTime } from '../../pages/code/variables/env';
+import { data } from '../../pages/code/dataLoader/showTime.data';
 
-export const nav: DefaultTheme.NavItem[] | undefined = showTime
+export const nav: DefaultTheme.NavItem[] | undefined = data.showTime
   ? undefined
   : [
       { text: 'Wiki', link: '/intro' },

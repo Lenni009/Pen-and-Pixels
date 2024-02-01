@@ -1,10 +1,12 @@
 <script setup lang="ts">
   import CharacterSheet from './code/components/CharacterSheet.vue';
+  import { data } from './code/variables/showTime.data';
   import { schurke, barde } from './characterSheetData';
 </script>
 
 # Geschichte der Abenteuerer bisher
 
+<div v-if="!data.showTime">
 ## Was bisher geschah?
 Unsere vier tapferen Abenteurer, ein Barbar, ein Schurke, ein Barde und ein Zauberer, trafen einst in einem kleinen Dorf am Rande zwischen Midgard und Fellheim aufeinander. Sie alle wurden dorthin gesandt, um für ihren jeweiligen Vorgesetzten ihres Volkes Nachforschungen durchzuführen um komische und merkwürdige Ereignisse zur ergründen. Schnell wurde ihnen klar, dass sich um schwarze Magie handelt, die droht, die Welt zu zerstören. Warum jene Person oder Gruppe dies tut, ist ihnen noch nicht bekannt. Sie kennen nur ihre Aufgabe: Haltet die Bedrohung auf und rettet die Welt.
 
@@ -14,7 +16,7 @@ Nach weiten Wegen und vielen großen und kleinen Ablenkungen konnten die drei re
 Leider war der Magier ihrer Gruppe zu sehr verletzt und der Barbar und Schurke entschieden sich dazu, ihn zurückzulassen, um ihre eigene Haut zu retten. Der Horror in seinen Augen, dass seine Kameraden ihn in Stich lassen, hatte einen bleibenden negativen Effekt auf die Überlebenden. Vor allem seine letzten Worte hallten in ihren Köpfen: **“Lasst mich nicht in Stich, ihr Narren.”**
 
 Zurzeit befinden sich die gerade so am Leben erhaltenen Abenteuer in der Schenke der “Frau Bogi”. Nur noch zu zweit versuchen der Barbar **Fridericus Rotbart** und der Schurke **Morzan Schattenläufer** neuen Mut zu sammeln, um die Welt ein weiteres Mal vor den Drachen zu beschützen.
-
+</div>
 
 ## Die Abenteurer
 
