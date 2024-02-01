@@ -1,4 +1,4 @@
-import { HeadConfig } from 'vitepress';
+import { HeadConfig, withBase } from 'vitepress';
 
 export const head: HeadConfig[] = [
   ['meta', { name: 'theme-color', content: '#a8b1ff' }],
@@ -6,7 +6,7 @@ export const head: HeadConfig[] = [
     'meta',
     {
       name: 'msapplication-config',
-      content: '/Studioprojekt2024/icons/browserconfig.xml',
+      content: withBase('/icons/browserconfig.xml'),
     },
   ],
   ['meta', { name: 'msapplication-TileColor', content: '#a8b1ff' }],
@@ -14,17 +14,17 @@ export const head: HeadConfig[] = [
     'link',
     {
       rel: 'mask-icon',
-      href: '/Studioprojekt2024/icons/safari-pinned-tab.svg',
+      href: withBase('/icons/safari-pinned-tab.svg'),
       color: '#a8b1ff',
     },
   ],
-  ['link', { rel: 'manifest', href: '/Studioprojekt2024/icons/site.webmanifest' }],
+  ['link', { rel: 'manifest', href: withBase('/icons/site.webmanifest') }],
   [
     'link',
     {
       rel: 'icon',
       sizes: '180x180',
-      href: '/Studioprojekt2024/icons/apple-touch-icon.png',
+      href: withBase('/icons/apple-touch-icon.png'),
     },
   ],
   [
@@ -33,7 +33,7 @@ export const head: HeadConfig[] = [
       rel: 'icon',
       type: 'image/png',
       sizes: '32x32',
-      href: '/Studioprojekt2024/icons/favicon-32x32.png',
+      href: withBase('/icons/favicon-32x32.png'),
     },
   ],
   [
@@ -42,8 +42,8 @@ export const head: HeadConfig[] = [
       rel: 'icon',
       type: 'image/png',
       sizes: '16x16',
-      href: '/Studioprojekt2024/icons/favicon-16x16.png',
+      href: withBase('/icons/favicon-16x16.png'),
     },
   ],
-  ['link', { rel: 'shortcut icon', href: '/Studioprojekt2024/icons/favicon.ico' }],
+  ['link', { rel: 'shortcut icon', href: withBase('/icons/favicon.ico') }],
 ];
