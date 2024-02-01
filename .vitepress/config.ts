@@ -1,4 +1,4 @@
-import { showTime } from '../pages/code/dataLoader/showTime.data';
+import { isShowTime } from '../pages/code/dataLoader/showTime.data';
 import { nav } from './configs/nav';
 import { head } from './configs/head';
 import { sidebar } from './configs/transformSidebar';
@@ -46,7 +46,7 @@ export default defineConfig({
   },
 
   transformPageData(pageData) {
-    if (!showTime || !pageData?.frontmatter?.hero?.actions?.[1]) return;
+    if (!isShowTime || !pageData?.frontmatter?.hero?.actions?.[1]) return;
     pageData.frontmatter.hero.actions.pop();
     const wikiLinkSectionIndex = rawSidebar.findIndex((item) => item.items?.some((subItem) => subItem.isPublicEntry));
     if (wikiLinkSectionIndex === -1) return;

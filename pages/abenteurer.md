@@ -1,12 +1,12 @@
 <script setup lang="ts">
   import CharacterSheet from './code/components/CharacterSheet.vue';
-  import { showTime } from './code/variables/constants';
+  import { isShowTime } from './code/variables/constants';
   import { schurke, barde } from './characterSheetData';
 </script>
 
 # Geschichte der Abenteuerer bisher
 
-<div v-if="!showTime">
+<div v-if="!isShowTime">
 
 ## Was bisher geschah?
 

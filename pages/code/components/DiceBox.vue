@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { ref, onMounted, nextTick } from 'vue';
-import { showTime } from '../variables/constants';
+import { isShowTime } from '../variables/constants';
 
 const dieRig = ref('');
 const rollBtn = ref<HTMLButtonElement | null>(null);
@@ -50,7 +50,7 @@ function getDieSize() {
 <template>
   <div class="die-control">
     <input
-      v-if="!showTime"
+      v-if="!isShowTime"
       v-model="dieRig"
       class="rig-input"
       type="text"

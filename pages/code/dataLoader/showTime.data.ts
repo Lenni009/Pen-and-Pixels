@@ -3,20 +3,20 @@ import { loadEnv } from 'vitepress';
 import { defineLoader } from 'vitepress';
 
 export interface Data {
-  showTime: boolean;
+  isShowTime: boolean;
 }
 
 declare const data: Data;
 
 const env = loadEnv('', process.cwd());
-const showTime = env.VITE_SHOWTIME === 'true';
+const isShowTime = env.VITE_SHOWTIME === 'true';
 
-export { data, showTime };
+export { data, isShowTime };
 
 export default defineLoader({
   load(): Data {
     return {
-      showTime,
+      isShowTime,
     };
   },
 });

@@ -1,13 +1,13 @@
 import { DefaultTheme } from 'vitepress';
 import { sidebar } from '../sidebar';
-import { showTime } from '../../pages/code/dataLoader/showTime.data';
+import { isShowTime } from '../../pages/code/dataLoader/showTime.data';
 import { CustomSidebarItem } from '../../pages/code/types/customSidebar';
 
 function processItems(items: CustomSidebarItem[]): DefaultTheme.SidebarItem[] {
   const result: DefaultTheme.SidebarItem[] = [];
 
   for (const item of items) {
-    if (showTime && item.isInternal) continue;
+    if (isShowTime && item.isInternal) continue;
     delete item.isInternal;
 
     if (item.items) item.items = processItems(item.items);

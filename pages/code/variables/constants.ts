@@ -4,4 +4,4 @@ export const maxPoints = 80;
 
 export const diceSides = 20;
 
-export const showTime = data.showTime;
+export const isShowTime = data.isShowTime;
