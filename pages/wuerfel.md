@@ -7,6 +7,4 @@ import DiceBox from './code/components/DiceBox.vue';
 
 # Würfel
 
-Nutze diesen Würfel um zu würfeln:
-
 <DiceBox />

@@ -41,31 +41,80 @@ const getRandomDieNumber = (result?: string) => `1d20@${result ?? getRndInteger(
 </script>
 
 <template>
-  <input
-    v-if="!showTime"
-    v-model="dieRig"
-    class="rig-input"
-    type="text"
-  />
-  <button
-    ref="rollBtn"
-    class="roll-button"
-  >
-    Roll Again
-  </button>
-
+  <div class="die-control">
+    <input
+      v-if="!showTime"
+      v-model="dieRig"
+      class="rig-input"
+      type="text"
+      placeholder="Gewünschtes Ergebnis"
+    />
+    <button
+      ref="rollBtn"
+      class="roll-button"
+    >
+      Würfeln
+    </button>
+  </div>
   <div class="die-wrapper">
     <div id="die"></div>
   </div>
 </template>
 
 <style scoped lang="scss">
-.rig-input,
-.roll-button {
-  padding: 0.25rem;
-  background-color: antiquewhite;
-  color: black;
-  border: 1px solid black;
+.die-control {
+  --border-radius: 5px;
+  --outline-color: rgb(135, 211, 236);
+  display: flex;
+  border-color: var(--vp-c-text-1);
+  gap: 0.5rem;
+  margin-block-end: 0.5rem;
+  margin-block-start: 1rem;
+
+  & * {
+    font-family: inherit;
+    font-size: inherit;
+  }
+
+  input {
+    border: 1px solid;
+    border-radius: var(--border-radius);
+    padding: 0.25rem;
+    padding-inline: 0.5rem;
+
+    &:hover {
+      outline: 1px solid var(--outline-color);
+    }
+  }
+
+  input {
+    &:focus,
+    &:focus-visible {
+      outline: 2px solid var(--outline-color);
+    }
+  }
+
+  button {
+    padding: 1rem;
+    border: 1px solid;
+    border-color: var(--vp-c-text-1);
+    border-radius: var(--border-radius);
+    transition: background-color 0.2s ease;
+
+    &:hover {
+      background-color: lightgrey;
+    }
+  }
+}
+
+.dark .die-control {
+  input {
+    background-color: #2b2a33;
+  }
+
+  button:hover {
+    background-color: rgb(66, 66, 66);
+  }
 }
 
 .die-wrapper {
@@ -73,13 +122,12 @@ const getRandomDieNumber = (result?: string) => `1d20@${result ?? getRndInteger(
   justify-content: center;
   align-items: center;
   background-image: url('/Dice-box-sample_2_square_fill.png');
-  width: 800px;
-  height: 800px;
+  max-width: 800px;
   background-size: cover;
+  aspect-ratio: 1 / 1;
 
   #die {
-    width: 650px;
-    height: 620px;
+    max-width: 650px;
   }
 }
 </style>
