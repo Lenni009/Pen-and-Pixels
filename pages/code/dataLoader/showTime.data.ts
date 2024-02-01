@@ -1,5 +1,4 @@
 import { loadEnv } from 'vitepress';
-
 import { defineLoader } from 'vitepress';
 
 export interface Data {
