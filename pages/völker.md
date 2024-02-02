@@ -3,7 +3,7 @@
 ## Spielbar
 
 ### Menschen
-Die Menschen leben auf Midgard. Einst unter dem Großkönig vereint, leben sie nun in einzelne Klans zerstritten und im ständigen Konflikt. Kultur ist ähnlich wie Mitteleuropa 10. bis 15. Jahrhundert
+Die Menschen leben auf Midgard. Einst unter dem Großkönig vereint, leben sie nun in einzelne Klans zerstritten und im ständigen Konflikt. Ihre Kultur ist mit der Kultur Mitteleuropas vom 10. bis zum 15. Jahrhundert vergleichbar.
 ![image](/images/Mensch.jpg)
 
 ### Walküre
