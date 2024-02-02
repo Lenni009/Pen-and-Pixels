@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { ref, onMounted, nextTick } from 'vue';
-import { isShowTime } from '../variables/constants';
+import { diceSides, isShowTime } from '../variables/constants';
 
 const dieRig = ref('');
 const rollBtn = ref<HTMLButtonElement | null>(null);
@@ -38,7 +38,7 @@ onMounted(async () => {
 
 const getRndInteger = (min: number, max: number) => Math.floor(Math.random() * (max - min + 1)) + min;
 
-const getRandomDieNumber = (result?: string) => `1d20@${result ?? getRndInteger(1, 20)}`;
+const getRandomDieNumber = (result?: string) => `1d${diceSides}@${result ?? getRndInteger(1, 20)}`;
 
 function getDieSize() {
   if (!die.value) return;
