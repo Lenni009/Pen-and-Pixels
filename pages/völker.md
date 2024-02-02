@@ -3,11 +3,11 @@
 ## Spielbar
 
 ### Menschen
-Die Menschen leben auf Midgard. Einst unter dem Großkönig vereint, leben sie nun in einzelne Klans zerstritten und im ständigen Konflikt. Kultur ähnlich wie Mitteleuropa 10. bis 15. Jahrhundert
+Die Menschen leben auf Midgard. Einst unter dem Großkönig vereint, leben sie nun in einzelne Klans zerstritten und im ständigen Konflikt. Kultur ist ähnlich wie Mitteleuropa 10. bis 15. Jahrhundert
 ![image](/images/Mensch.jpg)
 
 ### Walküre
-Die Walküren sind von den Göttern erschaffen und dienen ihnen ohne Wiederworte. Als Schlacht- und Schildjungferfügen fügen sie sich dem Willen der legendären Helden aus längst vergessener Zeit. 
+Die Walküren sind von den Göttern erschaffen und dienen ihnen ohne Wiederworte. Als Schlacht- und Schildjungferfügen fügen sie sich dem Willen der legendären Helden aus längst vergessener Zeit.
 ![image](/images/Walküren.jpg)
 
 ### Elben
@@ -25,7 +25,7 @@ Die Wiedergänger sind Wesen, welche nach ihrem Tod keine Ruhe gefunden haben. I
 ## Nicht-Spielbar
 
 ### Homo Oeconomicus
-Der Homo Oeconomicus ist ein ganz besonderes Wesen. Mit den Aussehen eines Menschen, der Intiligenz eines Elben, der Stärke einer Walküre und der Fleißheit eines Zwergen, bildet er die Synthese aller zivilisierten Völker auf Gaia. Dank des Blutgedächtnis, kann er auf das esoterisches Wissen seiner vielen bereits verstorbenen Verwanten zurückgreifen und ist immer bestrebt danach jenes wissen zu erweitern. Dabei haben sie das Handwerk des Händlertums für sich entdeckt und reisen so durch ganz Gaia um ihre großtes Bedürfniss zu erfüllen - Die Nutzenmaximirung. Besonders auffällig ist dabei ihre ausgeprägtes rationalles Denken und kaltes und gefühlloses Auftreten. 
+Der Homo Oeconomicus ist ein ganz besonderes Wesen. Mit den Aussehen eines Menschen, der Intiligenz eines Elben, der Stärke einer Walküre und der Fleißheit eines Zwergen, bildet er die Synthese aller zivilisierten Völker auf Gaia. Dank des Blutgedächtnis, kann er auf das esoterisches Wissen seiner vielen bereits verstorbenen Verwanten zurückgreifen und ist immer bestrebt danach jenes wissen zu erweitern. Dabei haben sie das Handwerk des Händlertums für sich entdeckt und reisen so durch ganz Gaia um ihre großtes Bedürfniss zu erfüllen - Die Nutzenmaximirung. Besonders auffällig ist dabei ihre ausgeprägtes rationalles Denken und kaltes und gefühlloses Auftreten.
 ![image](/images/HomoOeconomicus1.jpg)
 
 ### Riesen
