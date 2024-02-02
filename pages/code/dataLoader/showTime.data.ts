@@ -1,5 +1,4 @@
-import { loadEnv } from 'vitepress';
-import { defineLoader } from 'vitepress';
+import { loadEnv, defineLoader } from 'vitepress';
 
 export interface Data {
   isShowTime: boolean;
