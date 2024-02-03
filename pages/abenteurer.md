@@ -18,7 +18,7 @@ Zurzeit befinden sich die gerade so am Leben erhaltenen Abenteuer in der Schenke
 
 ## Die Abenteurer
 
-### Der Barbar
+### Der Berserker
 <CharacterSheet :data="berserker" />
 
 ### Der Schurke
@@ -28,8 +28,4 @@ Zurzeit befinden sich die gerade so am Leben erhaltenen Abenteuer in der Schenke
 <CharacterSheet :data="barde" />
 
 ### Der Magier
-- **Name:**
-- **Volk:**
-- **Alter:**
-- **Geschlecht:**
-- **Geschichte:**
+
