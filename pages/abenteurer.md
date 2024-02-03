@@ -19,7 +19,7 @@ Zurzeit befinden sich die gerade so am Leben erhaltenen Abenteuer in der Schenke
 ## Die Abenteurer
 
 ### Der Barbar
-- **Name:** Fridericus Rotbart
+- **Name:** Fridericus Knochenbrecher
 - **Volk:** Zwerg
 - **Alter:** 262
 - **Geschlecht:** Männlich
