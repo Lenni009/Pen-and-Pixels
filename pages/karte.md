@@ -2,4 +2,4 @@
 
 Hier ist die Karte der Spielwelt:
 
-<!--![Karte der Spielwelt](/images/karte.jpg)-->
+![Karte der Spielwelt](/images/karte.jpg)
