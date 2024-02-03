@@ -53,18 +53,21 @@ function getDieSize() {
       v-if="!isShowTime"
       v-model="dieRig"
       class="rig-input"
-      type="text"
       placeholder="Gewünschtes Ergebnis"
+      type="text"
     />
     <button
-      ref="rollBtn"
       class="roll-button"
+      ref="rollBtn"
     >
       Würfeln
     </button>
   </div>
   <div class="die-wrapper">
-    <div id="die" ref="die"></div>
+    <div
+      id="die"
+      ref="die"
+    ></div>
   </div>
 </template>
 
@@ -89,16 +92,15 @@ function getDieSize() {
     border-radius: var(--border-radius);
     padding: 0.25rem;
     padding-inline: 0.5rem;
+    outline: 0 solid var(--outline-color);
 
     &:hover {
-      outline: 1px solid var(--outline-color);
+      outline-width: 1px;
     }
-  }
 
-  input {
     &:focus,
     &:focus-visible {
-      outline: 2px solid var(--outline-color);
+      outline-width: 2px;
     }
   }
 
