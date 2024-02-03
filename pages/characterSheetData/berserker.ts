@@ -61,7 +61,7 @@ const inventar: CharacterTrait[] = [];
 
 export const berserker: CharacterSheet = {
   name: 'Fridericus Knochenbrecher',
-  image: '/images/barbar.jpg',
+  image: '/images/berserker.jpg',
   volk: 'Zwerg',
   alter: 262,
   lebensPunkte: 100,
