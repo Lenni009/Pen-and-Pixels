@@ -1,7 +1,7 @@
 # Klassen
 
-## Barbar
-Barbaren sind wilde Krieger, die härteste Schläge mit ihren mächtigen Waffen austeilen. Sie greifen Feind um Feind an und sind bis zu einem gewissen Grad resistent gegen die Schmerzen, die ihnen ihre Feinde zufügen.
+## Berserker
+Berserker sind wilde Krieger, die die härtesten Schlägen mit ihren mächtigen Waffen austeilen. Sie greifen Feind um Feind an und sind bis zu einem gewissen Grad resistent gegen die Schmerzen, die ihnen ihre Feinde zufügen.
 ![image](/images/barbar.jpg)
 
 ## Schurke
