@@ -10,7 +10,6 @@
   "dependencies": {
     "@3d-dice/dice-box-threejs": "^0.0.12",
     "md-editor-v3": "^4.11.0",
-    "typescript": "^5.3.3",
     "vitepress": "^1.0.0-rc.40"
   },
   "devDependencies": {

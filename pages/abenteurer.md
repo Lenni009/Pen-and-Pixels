@@ -1,6 +1,6 @@
 <script setup lang="ts">
   import CharacterSheet from './code/components/CharacterSheet.vue';
-  import { schurke, barde } from './characterSheetData';
+  import { schurke, barde, berserker } from './characterSheetData';
 </script>
 
 # Geschichte der Abenteuerer bisher

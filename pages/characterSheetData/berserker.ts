@@ -59,7 +59,7 @@ const soziales: CharacterTrait[] = [
 
 const inventar: CharacterTrait[] = [];
 
-export const barde: CharacterSheet = {
+export const berserker: CharacterSheet = {
   name: 'Fridericus Knochenbrecher',
   image: '/images/barbar.jpg',
   volk: 'Zwerg',
