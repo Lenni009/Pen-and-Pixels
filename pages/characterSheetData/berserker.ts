@@ -2,41 +2,41 @@ import type { CharacterSheet, CharacterTrait } from '../code/types/characterShee
 
 const handeln: CharacterTrait[] = [
   {
-    property: 'Faustkampf',
+    property: 'Fähigkeit',
     amount: 1,
   },
   {
-    property: 'Instrument spielen',
+    property: 'Fähigkeit',
     amount: 10,
   },
   {
-    property: 'Singen',
+    property: 'Fähigkeit',
     amount: 1,
   },
   {
-    property: 'Flüchten',
+    property: 'Fähigkeit',
     amount: 5,
   },
 ];
 
 const wissen: CharacterTrait[] = [
   {
-    property: 'Völkerkunde',
+    property: 'Fähigkeit',
     amount: 3,
   },
   {
-    property: 'Wahrnehmung',
+    property: 'Fähigkeit',
     amount: 5,
   },
 ];
 
 const soziales: CharacterTrait[] = [
   {
-    property: 'Überzeugen',
+    property: 'Fähigkeit',
     amount: 15,
   },
   {
-    property: 'Bardische Inspiration',
+    property: 'Fähigkeit',
     amount: 12,
   },
   {
@@ -44,15 +44,15 @@ const soziales: CharacterTrait[] = [
     amount: 4,
   },
   {
-    property: 'Feilschen',
+    property: 'Fähigkeit',
     amount: 9,
   },
   {
-    property: 'Lügen',
+    property: 'Fähigkeit',
     amount: 7,
   },
   {
-    property: 'Menschenkenntnis',
+    property: 'Fähigkeit',
     amount: 8,
   },
 ];
@@ -60,14 +60,14 @@ const soziales: CharacterTrait[] = [
 const inventar: CharacterTrait[] = [];
 
 export const barde: CharacterSheet = {
-  name: 'Harald Scheißgesang',
-  image: '/images/barde.jpg',
-  volk: 'Elbe',
-  alter: 1025.5,
+  name: 'Fridericus Knochenbrecher',
+  image: '/images/barbar.jpg',
+  volk: 'Zwerg',
+  alter: 262,
   lebensPunkte: 100,
-  statur: 'Elbenhaft',
-  beruf: 'Barde',
-  anmerkungen: 'Zauberspruch: Der braune Ton',
+  statur: 'Zwergenhaft',
+  beruf: 'Berserker',
+  anmerkungen: '',
   handeln,
   wissen,
   soziales,
