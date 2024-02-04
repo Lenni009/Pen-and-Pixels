@@ -59,7 +59,7 @@ const soziales: CharacterTrait[] = [
 
 const inventar: CharacterTrait[] = [];
 
-export const barde: CharacterSheet = {
+const characterData: CharacterSheet = {
   name: 'Harald Scheißgesang',
   image: '/images/barde.jpg',
   volk: 'Elbe',
@@ -73,3 +73,5 @@ export const barde: CharacterSheet = {
   soziales,
   inventar,
 };
+
+export default characterData;

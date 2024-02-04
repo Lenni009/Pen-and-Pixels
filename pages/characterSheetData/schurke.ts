@@ -60,7 +60,7 @@ const inventar: CharacterTrait[] = [
   }
 ];
 
-export const schurke: CharacterSheet = {
+const characterData: CharacterSheet = {
   name: 'Morzan Schattenläufer',
   image: '/images/schurke.jpg',
   volk: 'Wiedergänger (Mensch)',
@@ -74,3 +74,5 @@ export const schurke: CharacterSheet = {
   soziales,
   inventar,
 };
+
+export default characterData;
