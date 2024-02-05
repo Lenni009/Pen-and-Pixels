@@ -13,7 +13,7 @@
     "vitepress": "^1.0.0-rc.40"
   },
   "devDependencies": {
-    "prettier": "^3.2.4",
+    "prettier": "^3.2.5",
     "sass": "^1.70.0"
   }
 }
