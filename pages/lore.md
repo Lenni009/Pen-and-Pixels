@@ -2,8 +2,8 @@
 
 ## Der Große Drachenkrieg
 
-Vor etlichen Äonen war die Welt wie man sie kannte fast verloren. Eine Gruppe von Drachen unter der Führung von *Akatosh der Weltenvernichter* reiste aus den unbekannten Gebieten hinter dem Gebirge Fellheims in die Lande und versuchten den Weltenbaum zu zerstören. Bewusst der Gefahr vereinten sich alle Völker das erste mal überhaupt und setzten alles daran, die Drachen aufzuhalten - Eine vergebliches Unterfangen. Der Kampf kostete vielen ihre Heimat und noch mehr ihr wertvolles Leben. Der Kampf schien scheinbar verloren zu sein und viele akzeptierten ihr Schicksal, aber eine Gruppe Helden setzte alles daran das Unvermeidliche aufzuhalten. Eines Tages, geleitet durch einen *mysteriösen grauen Eremit*, erlangten sie das verlore und mächtige arkane Wissen über die Runen und fanden so einen Weg die Gefahr durch die Drachen im letzen Moment aufzuhalten. Durch einen kraftvollen Zauberspruch konnten die heutzutage legendären Helden die Seelen der Drachen in sich einfangen und ihre Wiedergeburt für immer verhindern - das aber zu einem hohen Preis. Mit dem Aufsammeln der Drachenseele wurden auch sie immer mehr zu einem Drachen, bis ihr weltlicher Körper dieser Kraft nicht mehr stand hielt. Sie opferten ihr Leben für alle. Seitdem leuchtet es in der Krone des Weltenbaumes. Der Sage nach wanderten die nun als Drachenblut bekannten Götter nach Drakengard, der Heimat der Götter in der Baumkrone Gaias und fanden ihre letzte Ruhe in den Hallen von Sovngarde.
-Der graue Eremit verschwand ins Unbekannte und bis heute weiß niemand wer er war. Viele Glauben, dass er die Manifestierung von Gaias sei. Andere denken, er sei ein Gott gewesen. Schlussendlich bleibt er - wie der Weltenbaum selbst - ein vielleicht nie gelöstes Rätsel. Heutzutage ist dieses Ereignis bekannt als der Große Drachenkrieg.
+Vor etlichen Äonen war die Welt wie man sie kannte fast verloren. Eine Gruppe von Drachen unter der Führung von *Akatosh der Weltenvernichter* reiste aus den unbekannten Gebieten hinter dem Gebirge Fellheims in die Lande und versuchten den Weltenbaum zu zerstören. Bewusst der Gefahr vereinten sich alle Völker das erste mal überhaupt und setzten alles daran, die Drachen aufzuhalten - Eine vergebliches Unterfangen. Der Kampf kostete vielen ihre Heimat und noch mehr ihr wertvolles Leben. Der Kampf schien scheinbar verloren zu sein und viele akzeptierten ihr Schicksal, aber eine Gruppe Helden setzte alles daran das Unvermeidliche aufzuhalten. Eines Tages, geleitet durch einen *mysteriösen grauen Eremit*, erlangten sie das verlore und mächtige arkane Wissen über die Runen und fanden so einen Weg die Gefahr durch die Drachen im letzen Moment aufzuhalten. Durch einen kraftvollen Zauberspruch konnten die heutzutage legendären Helden die Seelen der Drachen in sich einfangen und ihre Wiedergeburt für immer verhindern - das aber zu einem hohen Preis. Mit dem Aufsammeln der Drachenseele wurden auch sie immer mehr zu einem Drachen, bis ihr weltlicher Körper dieser Kraft nicht mehr stand hielt. Sie opferten ihr Leben für alle. Seitdem leuchtet es in der Krone des Weltenbaumes. Der Sage nach wanderten die nun als Drachenblut bekannten Götter nach Drakengard, der Heimat der Götter in der Baumkrone Gaias und fanden ihre letzte Ruhe in den Hallen von Sovngarde.<br>
+Der graue Eremit verschwand ins Unbekannte und bis heute weiß niemand, wer er war. Viele Glauben, dass er die Manifestierung von Gaias sei. Andere denken, er sei ein Gott gewesen. Schlussendlich bleibt er - wie der Weltenbaum selbst - ein vielleicht nie gelöstes Rätsel. Heutzutage ist dieses Ereignis bekannt als der Große Drachenkrieg.
 
 ## Der Krieg um Fellheim (Riesen-Zwergen-Krieg)
 Nach dem Vorfall in den Minen von Gimlé gab es Krieg zwischen den Riesen und Zwergen. Dieser Konflikt war so gravierend, dass Fellheim nur noch ein unwirkliches Ödland ist. Nur noch in den Minen der Zwerge und den Städten der Riesen kann man Überleben. Außerhalb hat man kaum eine Chance.
@@ -38,7 +38,10 @@ Nach dem Ende des Großen Drachenkrieges erschienen vor auf dem Aschehaufen der 
 Das Wiedergänger-Problem beschäftigt die Völker, vor allem die Menschen, schon seit Äonen. Stirbt ein Wesen mit großen Ambitionen, so kann es passieren, dass seine Seele in der Nachwelt keine Ruhe findet und ist somit ihn seinen verwesenden Körper bis zur Erfüllung seiner Bestimmung gefangen. Ist ihr Wille aber zu schwach oder der Geist vorher gebroch, so wandern sie ziellos durch die Lande. Ist ihr Wille sowie Geist aber ungebrochen, so erlangen sie ihr Bewusstsein zurück und können ihren Zielen, Träumen oder Bestimmungen nachgehen.
 
 ## Runen, die magische Sprache auf Gaia
-Nachdem der graue Eremit die magische Sprache der Runen nach Gaia brachte, befassten sich viele Gelehrte mit der neugewonnenen Macht. Über die Jahrhunderte hin wurden viele Zaubersprüche ergründet und das Wissen über Generationen weiter gegeben.                                                                             Es ergaben sie sieben Magiespezialisierung:
+Nachdem der graue Eremit die magische Sprache der Runen nach Gaia brachte, befassten sich viele Gelehrte mit der neugewonnenen Macht. Über die Jahrhunderte hin wurden viele Zaubersprüche ergründet und das Wissen über Generationen weiter gegeben.
+
+Es ergaben sich sieben Magiespezialisierung:
+
 1. Pyromantie (die Macht des Feuers)
 2. Cryomantie (Macht des Eises)
 3. Nekromantie (Totenbeschwörung)
@@ -55,22 +58,22 @@ In ganz Gaia geht ein Gerücht rum. Sichtungen eines noch unbekannten Volkes lä
 Manche wollen einfach die Welt brennen sehen - So auch die Apokalyptiker, eine geheime und gefährliche Sekte. Niemand kennt die Ursprünge jener Gruppe, jedoch weiß man ihre Ziele - die Vernichtung der bekannten Welt und der transzendental Übergangen der Völker zum Nichts. Das erste mal, dass die Sekte in die Öffentlichkeit getreten ist, war als der Wanderprediger Antiochus der Weise in den Überresten der verbrannten und verkommenden Hauptstadt seine ersten Predigten an hielt. Sein Aussagen von ketzerischer Natur thematisierten das Todbewusstsein sowie das Nichts als ultimatives Ziel der Schöpfung. Schnell konnte er ein loyales Gefolge um sich herrum versammeln und so wurden auch die Völker allmählich aufmerksam auf den Wanderprediger. Er wurde verhaftet und verhört. Dabei kam raus, dass er nicht der "Erfinder" dieser Ideen sei, sonder er einige Schriften namens "Die Bücher des Schreckens und der Sehnsucht" in einem längstvergessenen Tempelruine gefunden habe, in den alle ketzerischen Predigten, sowie die Philosophie hinter dem Todbewusstsein aufgeschrieben wurde. Er wurde zum Tode verurteilt und wurde mit seiner Schrift verbrannt. Über die Zeit hinweg wurden jedoch immer wieder neue Kopien jener Schrift gefunden. Heute sind die Anhänger jenes Kultes als Apokalyptiker und werden für fast alle schlechten Ereignise als schuldig befunden. Sie gelten als die größte Gefahr in ganz Gaia.
 ![image](/images/kult1.jpg)
 
-Habt ihr Mut, o meine Brüder? 
-Die Zeichen sind überall 
-Manche haben es nicht kommen  - Andere weigerten sich zu sehen.
-Ich kann es im spüren – Ein kribbeln in der Luft - Im Herzschlag der Erde 
-Und ich kann sagen, dass der Sturm kommt wird 
-Ein Sturm - ganz auf mich zu 
+Habt ihr Mut, o meine Brüder?<br>
+Die Zeichen sind überall<br>
+Manche haben es nicht kommen  - Andere weigerten sich zu sehen.<br>
+Ich kann es im spüren – Ein kribbeln in der Luft - Im Herzschlag der Erde<br>
+Und ich kann sagen, dass der Sturm kommt wird<br>
+Ein Sturm - ganz auf mich zu
 
 ![image](/images/kult2.jpg)
 
-Wie würde man Ruin messen? Wie beurteilen man den Sturz? 
-Wie würden man Sünden trennen, wenn „alle“ das gleiche Zeichen tragen? 
-In dieser heiligen Wüste herrscht Stille, im Sand flackern verlorene Hoffnungen 
-Heimgesucht von Unholden, die versuchen, den Geist/Pneuma zu verderben und das Fleisch/Sarx zu jagen. 
-Der graue Prinz wird gekrönt, Seelenverirrung 
-Un-Person, Un-Einheit, im Leerlauf Null 
-Mit goldenen Nägeln schneidet es durch kaltes Fleisch, um ein eigenes Gesicht zu formen. Gebrochene Scherben vergessener Träume ersetzen den eigenen Riss 
-Das ewige Feuer brennt hoch und gewaltig über den Gebeinen der Gerechten
-Während Brüder aufsteigen und Brüder fallen, ist es kaum zu übersehen, dass sie sich in den tiefsten Abgründen der Verzweiflung befinden 
-Alles verlieren und nichts bereuen 
+Wie würde man Ruin messen? Wie beurteilen man den Sturz?<br>
+Wie würden man Sünden trennen, wenn „alle“ das gleiche Zeichen tragen?<br>
+In dieser heiligen Wüste herrscht Stille, im Sand flackern verlorene Hoffnungen<br>
+Heimgesucht von Unholden, die versuchen, den Geist/Pneuma zu verderben und das Fleisch/Sarx zu jagen.<br>
+Der graue Prinz wird gekrönt, Seelenverirrung<br>
+Un-Person, Un-Einheit, im Leerlauf Null<br>
+Mit goldenen Nägeln schneidet es durch kaltes Fleisch, um ein eigenes Gesicht zu formen. Gebrochene Scherben vergessener Träume ersetzen den eigenen Riss<br>
+Das ewige Feuer brennt hoch und gewaltig über den Gebeinen der Gerechten<br>
+Während Brüder aufsteigen und Brüder fallen, ist es kaum zu übersehen, dass sie sich in den tiefsten Abgründen der Verzweiflung befinden<br>
+Alles verlieren und nichts bereuen
