@@ -54,4 +54,23 @@ In ganz Gaia geht ein Gerücht rum. Sichtungen eines noch unbekannten Volkes lä
 ## Die Apokalyptiker
 Manche wollen einfach die Welt brennen sehen - So auch die Apokalyptiker, eine geheime und gefährliche Sekte. Niemand kennt die Ursprünge jener Gruppe, jedoch weiß man ihre Ziele - die Vernichtung der bekannten Welt und der transzendental Übergangen der Völker zum Nichts. Das erste mal, dass die Sekte in die Öffentlichkeit getreten ist, war als der Wanderprediger Antiochus der Weise in den Überresten der verbrannten und verkommenden Hauptstadt seine ersten Predigten an hielt. Sein Aussagen von ketzerischer Natur thematisierten das Todbewusstsein sowie das Nichts als ultimatives Ziel der Schöpfung. Schnell konnte er ein loyales Gefolge um sich herrum versammeln und so wurden auch die Völker allmählich aufmerksam auf den Wanderprediger. Er wurde verhaftet und verhört. Dabei kam raus, dass er nicht der "Erfinder" dieser Ideen sei, sonder er einige Schriften namens "Die Bücher des Schreckens und der Sehnsucht" in einem längstvergessenen Tempelruine gefunden habe, in den alle ketzerischen Predigten, sowie die Philosophie hinter dem Todbewusstsein aufgeschrieben wurde. Er wurde zum Tode verurteilt und wurde mit seiner Schrift verbrannt. Über die Zeit hinweg wurden jedoch immer wieder neue Kopien jener Schrift gefunden. Heute sind die Anhänger jenes Kultes als Apokalyptiker und werden für fast alle schlechten Ereignise als schuldig befunden. Sie gelten als die größte Gefahr in ganz Gaia.
 ![image](/images/kult1.jpg)
+
+Habt ihr Mut, o meine Brüder? 
+Die Zeichen sind überall 
+Manche haben es nicht kommen  - Andere weigerten sich zu sehen.
+Ich kann es im spüren – Ein kribbeln in der Luft - Im Herzschlag der Erde 
+Und ich kann sagen, dass der Sturm kommt wird 
+Ein Sturm - ganz auf mich zu 
+
 ![image](/images/kult2.jpg)
+
+Wie würde man Ruin messen? Wie beurteilen man den Sturz? 
+Wie würden man Sünden trennen, wenn „alle“ das gleiche Zeichen tragen? 
+In dieser heiligen Wüste herrscht Stille, im Sand flackern verlorene Hoffnungen 
+Heimgesucht von Unholden, die versuchen, den Geist/Pneuma zu verderben und das Fleisch/Sarx zu jagen. 
+Der graue Prinz wird gekrönt, Seelenverirrung 
+Un-Person, Un-Einheit, im Leerlauf Null 
+Mit goldenen Nägeln schneidet es durch kaltes Fleisch, um ein eigenes Gesicht zu formen. Gebrochene Scherben vergessener Träume ersetzen den eigenen Riss 
+Das ewige Feuer brennt hoch und gewaltig über den Gebeinen der Gerechten
+Während Brüder aufsteigen und Brüder fallen, ist es kaum zu übersehen, dass sie sich in den tiefsten Abgründen der Verzweiflung befinden 
+Alles verlieren und nichts bereuen 
