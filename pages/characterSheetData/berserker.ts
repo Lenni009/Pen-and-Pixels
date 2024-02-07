@@ -49,7 +49,7 @@ const soziales: CharacterTrait[] = [
   },
   {
     property: 'Menschenkenntnis',
-    amount: 5,
+    amount: 3,
   },
   {
     property: 'Beeindrucken',
@@ -57,7 +57,7 @@ const soziales: CharacterTrait[] = [
   },
   {
     property: 'Zechen',
-    amount: 12,
+    amount: 14,
   },
 
 ];
