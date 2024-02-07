@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as a,V as n}from"./chunks/framework.Ei0LEMpG.js";const m=JSON.parse('{"title":"Gegner","description":"","frontmatter":{},"headers":[],"relativePath":"gegner.md","filePath":"gegner.md"}'),t={name:"gegner.md"},o=n("",5),s=[o];function i(l,h,d,_,c,g){return a(),r("div",null,s)}const f=e(t,[["render",i]]);export{m as __pageData,f as default};
