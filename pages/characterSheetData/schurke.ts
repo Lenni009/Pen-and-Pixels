@@ -69,7 +69,7 @@ const soziales: CharacterTrait[] = [
   },
   {
     property: 'Manipulieren',
-    amount: 1,
+    amount: 5,
   },
 ];
 
