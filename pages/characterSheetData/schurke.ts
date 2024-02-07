@@ -3,7 +3,7 @@ import type { CharacterSheet, CharacterTrait } from '../code/types/characterShee
 const handeln: CharacterTrait[] = [
   {
     property: 'Taschendiebstahl',
-    amount: 11,
+    amount: 10,
   },
   {
     property: 'Schleichen',
@@ -23,7 +23,7 @@ const handeln: CharacterTrait[] = [
   },
   {
     property: 'Hieb-/Stichwaffen',
-    amount: 16,
+    amount: 15,
   },
   {
     property: 'Ausweichen',
@@ -65,7 +65,7 @@ const soziales: CharacterTrait[] = [
   },
   {
     property: 'Lügen',
-    amount: 11,
+    amount: 10,
   },
 ];
 
