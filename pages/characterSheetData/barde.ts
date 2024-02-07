@@ -88,7 +88,7 @@ const characterData: CharacterSheet = reactive({
   lebensPunkte: 100,
   statur: 'Elbenhaft',
   beruf: 'Barde',
-  gesinnung: '',
+  gesinnung: 'Chaotic Neutral',
   anmerkungen: '/Zauberspruch: Der braune Ton',
   handeln,
   wissen,
