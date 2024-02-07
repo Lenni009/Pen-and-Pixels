@@ -2,59 +2,56 @@ import type { CharacterSheet, CharacterTrait } from '../code/types/characterShee
 
 const handeln: CharacterTrait[] = [
   {
-    property: 'Fähigkeit',
+    property: 'Schlagen',
     amount: 1,
   },
   {
-    property: 'Fähigkeit',
-    amount: 10,
-  },
-  {
-    property: 'Fähigkeit',
+    property: 'Zweihänder',
     amount: 1,
   },
   {
-    property: 'Fähigkeit',
-    amount: 5,
+    property: 'Heben',
+    amount: 1,
+  },
+  {
+    property: 'Treten',
+    amount: 1,
+  },
+  {
+    property: 'Treten',
+    amount: 1,
+  },
+   {
+    property: 'Angeln',
+    amount: 1,
   },
 ];
 
 const wissen: CharacterTrait[] = [
   {
-    property: 'Fähigkeit',
+    property: 'Völkerkunde',
     amount: 3,
   },
   {
-    property: 'Fähigkeit',
+    property: 'Spuren lesen',
     amount: 5,
   },
 ];
 
 const soziales: CharacterTrait[] = [
   {
-    property: 'Fähigkeit',
-    amount: 15,
+    property: 'Lügen',
+    amount: 1,
   },
   {
-    property: 'Fähigkeit',
-    amount: 12,
+    property: 'Menschenkenntnis',
+    amount: 1,
   },
   {
-    property: 'Bezirzen',
-    amount: 4,
+    property: 'Beeindrucken',
+    amount: 1,
   },
-  {
-    property: 'Fähigkeit',
-    amount: 9,
-  },
-  {
-    property: 'Fähigkeit',
-    amount: 7,
-  },
-  {
-    property: 'Fähigkeit',
-    amount: 8,
-  },
+
 ];
 
 const inventar: CharacterTrait[] = [];
