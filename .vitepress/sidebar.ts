@@ -29,7 +29,7 @@ export const sidebar: CustomSidebarItem[] = [
       { text: 'Orte', link: '/orte' },
       { text: 'NPCs', link: '/npc' },
       { text: 'Klassen', link: '/klassen' },
-      { text: 'Gesinnung', link: '/Gesinnung' },
+      { text: 'Gesinnung', link: '/gesinnung' },
     ],
   },
   {
