@@ -2,10 +2,8 @@
 
 | Lawful Good  |   Lawful Neutral   | Chaotic Neutral |
 |  |  | | 
-| ------------- | ------------ | ------------- | 
 |  |  | | 
 |  |  | | 
-
 |  |  | | 
 |  |  | | 
 
