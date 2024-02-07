@@ -1,6 +1,7 @@
 import type { CharacterSheet, CharacterTrait } from '../code/types/characterSheet';
+import { reactive } from 'vue';
 
-const handeln: CharacterTrait[] = [
+const handeln: CharacterTrait[] = reactive([
   {
     property: 'Faustkampf',
     amount: 1,
@@ -17,9 +18,9 @@ const handeln: CharacterTrait[] = [
     property: 'Flüchten',
     amount: 1,
   },
-];
+]);
 
-const wissen: CharacterTrait[] = [
+const wissen: CharacterTrait[] = reactive([
   {
     property: 'Völkerkunde',
     amount: 3,
@@ -36,9 +37,9 @@ const wissen: CharacterTrait[] = [
     property: 'Fauna',
     amount: 2,
   },
-];
+]);
 
-const soziales: CharacterTrait[] = [
+const soziales: CharacterTrait[] = reactive([
   {
     property: 'Überzeugen',
     amount: 12,
@@ -75,11 +76,11 @@ const soziales: CharacterTrait[] = [
     property: 'Humor',
     amount: 5,
   },
-];
+]);
 
-const inventar: CharacterTrait[] = [];
+const inventar: CharacterTrait[] = reactive([]);
 
-const characterData: CharacterSheet = {
+const characterData: CharacterSheet = reactive({
   name: 'Harald Scheißgesang',
   image: '/images/barde.jpg',
   volk: 'Elbe',
@@ -93,6 +94,6 @@ const characterData: CharacterSheet = {
   wissen,
   soziales,
   inventar,
-};
+});
 
 export default characterData;

@@ -1,6 +1,7 @@
 import type { CharacterSheet, CharacterTrait } from '../code/types/characterSheet';
+import { reactive } from 'vue';
 
-const handeln: CharacterTrait[] = [
+const handeln: CharacterTrait[] = reactive([
   {
     property: 'Schlagen',
     amount: 9,
@@ -21,13 +22,13 @@ const handeln: CharacterTrait[] = [
     property: 'Jagen',
     amount: 10,
   },
-   {
+  {
     property: 'Angeln',
     amount: 8,
   },
-];
+]);
 
-const wissen: CharacterTrait[] = [
+const wissen: CharacterTrait[] = reactive([
   {
     property: 'Völkerkunde',
     amount: 6,
@@ -40,9 +41,9 @@ const wissen: CharacterTrait[] = [
     property: 'Wahrnehmung',
     amount: 5,
   },
-];
+]);
 
-const soziales: CharacterTrait[] = [
+const soziales: CharacterTrait[] = reactive([
   {
     property: 'Lügen',
     amount: 2,
@@ -59,12 +60,11 @@ const soziales: CharacterTrait[] = [
     property: 'Zechen',
     amount: 14,
   },
+]);
 
-];
+const inventar: CharacterTrait[] = reactive([]);
 
-const inventar: CharacterTrait[] = [];
-
-const characterData: CharacterSheet = {
+const characterData: CharacterSheet = reactive({
   name: 'Fridericus Knochenbrecher',
   image: '/images/berserker.jpg',
   volk: 'Zwerg',
@@ -73,11 +73,12 @@ const characterData: CharacterSheet = {
   statur: 'Zwergenhaft',
   beruf: 'Berserker',
   gesinnung: '',
-  anmerkungen: 'Geistig eingeschränkt, "Die Knochenbrecher" ist der wohl bekannteste und auch ruhmreichste Zwergen-Klan in ganz Gaia. Aus ihrer Linie sprangen mächtige Krieger sowie weise Gelehrte hervor. Auch der jüngste Spross, Fridericus Knochenbrecher, hat den Kampfesmut seiner Vorfahren geerbt - leider jedoch nicht die Intelligenz. Die braucht er aber nicht, denn sein treuer "Hammer der Gerechtigkeit" zerschlägt jedes Problem in 1000 Stücke. Nachdem das Klanoberhaupt von einer vermeintlichen Bedrohung in den Randgebieten erfahren hat, entsand er, vielleicht nicht ganz von der Gefahr überzeugt, seinen jüngsten Sohn. So begann das Abenteuer des Fridericus Knochenbrecher.',
+  anmerkungen:
+    'Geistig eingeschränkt, "Die Knochenbrecher" ist der wohl bekannteste und auch ruhmreichste Zwergen-Klan in ganz Gaia. Aus ihrer Linie sprangen mächtige Krieger sowie weise Gelehrte hervor. Auch der jüngste Spross, Fridericus Knochenbrecher, hat den Kampfesmut seiner Vorfahren geerbt - leider jedoch nicht die Intelligenz. Die braucht er aber nicht, denn sein treuer "Hammer der Gerechtigkeit" zerschlägt jedes Problem in 1000 Stücke. Nachdem das Klanoberhaupt von einer vermeintlichen Bedrohung in den Randgebieten erfahren hat, entsand er, vielleicht nicht ganz von der Gefahr überzeugt, seinen jüngsten Sohn. So begann das Abenteuer des Fridericus Knochenbrecher.',
   handeln,
   wissen,
   soziales,
   inventar,
-};
+});
 
 export default characterData;

@@ -1,6 +1,7 @@
 import type { CharacterSheet, CharacterTrait } from '../code/types/characterSheet';
+import { reactive } from 'vue';
 
-const handeln: CharacterTrait[] = [
+const handeln: CharacterTrait[] = reactive([
   {
     property: 'Taschendiebstahl',
     amount: 10,
@@ -33,9 +34,9 @@ const handeln: CharacterTrait[] = [
     property: 'Schloss knacken',
     amount: 9,
   },
-];
+]);
 
-const wissen: CharacterTrait[] = [
+const wissen: CharacterTrait[] = reactive([
   {
     property: 'Fallen legen',
     amount: 3,
@@ -56,9 +57,9 @@ const wissen: CharacterTrait[] = [
     property: 'Fauna',
     amount: 5,
   },
-];
+]);
 
-const soziales: CharacterTrait[] = [
+const soziales: CharacterTrait[] = reactive([
   {
     property: 'Betören',
     amount: 1,
@@ -71,16 +72,16 @@ const soziales: CharacterTrait[] = [
     property: 'Manipulieren',
     amount: 5,
   },
-];
+]);
 
-const inventar: CharacterTrait[] = [
+const inventar: CharacterTrait[] = reactive([
   {
     property: 'Kurzschwert',
-    amount: 2
-  }
-];
+    amount: 2,
+  },
+]);
 
-const characterData: CharacterSheet = {
+const characterData: CharacterSheet = reactive({
   name: 'Morzan Schattenläufer',
   image: '/images/schurke.jpg',
   volk: 'Wiedergänger (Mensch)',
@@ -94,6 +95,6 @@ const characterData: CharacterSheet = {
   wissen,
   soziales,
   inventar,
-};
+});
 
 export default characterData;
