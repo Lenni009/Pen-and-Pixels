@@ -18,7 +18,7 @@ const handeln: CharacterTrait[] = [
     amount: 1,
   },
   {
-    property: 'Treten',
+    property: 'Jagen',
     amount: 1,
   },
    {
