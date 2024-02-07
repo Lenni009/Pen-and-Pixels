@@ -33,7 +33,7 @@ const wissen: CharacterTrait[] = [
 const soziales: CharacterTrait[] = [
   {
     property: 'Überzeugen',
-    amount: 15,
+    amount: 12,
   },
   {
     property: 'Bardische Inspiration',
