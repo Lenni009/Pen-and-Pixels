@@ -57,7 +57,7 @@ const soziales: CharacterTrait[] = [
   },
   {
     property: 'Zechen',
-    amount: 13,
+    amount: 12,
   },
 
 ];
