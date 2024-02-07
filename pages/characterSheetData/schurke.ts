@@ -23,7 +23,7 @@ const handeln: CharacterTrait[] = [
   },
   {
     property: 'Hieb-/Stichwaffen',
-    amount: 15,
+    amount: 12,
   },
   {
     property: 'Ausweichen',
@@ -42,7 +42,7 @@ const wissen: CharacterTrait[] = [
   },
   {
     property: 'Arkanes Wissen',
-    amount: 9,
+    amount: 2,
   },
   {
     property: 'Wahrnehmung',
@@ -50,11 +50,11 @@ const wissen: CharacterTrait[] = [
   },
   {
     property: 'Flora',
-    amount: 9,
+    amount: 5,
   },
   {
     property: 'Fauna',
-    amount: 9,
+    amount: 5,
   },
 ];
 
