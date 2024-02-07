@@ -73,7 +73,7 @@ const soziales: CharacterTrait[] = [
   },
   {
     property: 'Humor',
-    amount: 1,
+    amount: 5,
   },
 ];
 
