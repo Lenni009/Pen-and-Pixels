@@ -63,6 +63,7 @@ const hasTooLittlePoints = computed(() => totalPoints.value < maxPoints);
           :alter
           :lebens-punkte
           :statur
+          :gesinnung
         />
       </table>
     </div>

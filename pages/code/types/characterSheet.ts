@@ -8,6 +8,7 @@ export interface CharacterBasics {
   alter: number;
   lebensPunkte: number;
   statur: string;
+  gesinnung: string;
 }
 
 export interface CharacterSheet extends CharacterBasics {
