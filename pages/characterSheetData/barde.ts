@@ -28,6 +28,14 @@ const wissen: CharacterTrait[] = [
     property: 'Wahrnehmung',
     amount: 5,
   },
+  {
+    property: 'Flora',
+    amount: 2,
+  },
+  {
+    property: 'Fauna',
+    amount: 2,
+  },
 ];
 
 const soziales: CharacterTrait[] = [
