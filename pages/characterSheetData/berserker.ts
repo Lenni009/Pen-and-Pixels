@@ -72,7 +72,7 @@ const characterData: CharacterSheet = {
   lebensPunkte: 100,
   statur: 'Zwergenhaft',
   beruf: 'Berserker',
-  anmerkungen: '',
+  anmerkungen: 'Geistig eingeschränkt',
   handeln,
   wissen,
   soziales,
