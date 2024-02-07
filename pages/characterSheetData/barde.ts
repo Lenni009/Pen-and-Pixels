@@ -55,6 +55,14 @@ const soziales: CharacterTrait[] = [
     property: 'Menschenkenntnis',
     amount: 8,
   },
+  {
+    property: 'Beeindrucken',
+    amount: 9,
+  },
+  {
+    property: 'Beruhigen',
+    amount: 9,
+  },
 ];
 
 const inventar: CharacterTrait[] = [];
