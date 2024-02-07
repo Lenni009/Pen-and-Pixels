@@ -13,8 +13,21 @@ const props = defineProps<{
   data: CharacterSheet;
 }>();
 
-const { name, volk, alter, lebensPunkte, statur, gesinnung, beruf, handeln, wissen, soziales, inventar, anmerkungen, image } =
-  toRefs(props.data);
+const {
+  name,
+  volk,
+  alter,
+  lebensPunkte,
+  statur,
+  gesinnung,
+  beruf,
+  handeln,
+  wissen,
+  soziales,
+  inventar,
+  anmerkungen,
+  image,
+} = toRefs(props.data);
 
 const characterData = {
   avatar: withBase(image.value),
