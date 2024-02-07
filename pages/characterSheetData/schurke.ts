@@ -40,6 +40,10 @@ const wissen: CharacterTrait[] = [
     property: 'Arkanes Wissen',
     amount: 9,
   },
+  {
+    property: 'Wahrnehmung',
+    amount: 9,
+  },
 ];
 
 const soziales: CharacterTrait[] = [
