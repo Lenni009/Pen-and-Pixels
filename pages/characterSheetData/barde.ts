@@ -71,6 +71,10 @@ const soziales: CharacterTrait[] = [
     property: 'Beruhigen',
     amount: 9,
   },
+  {
+    property: 'Humor',
+    amount: 1,
+  },
 ];
 
 const inventar: CharacterTrait[] = [];
