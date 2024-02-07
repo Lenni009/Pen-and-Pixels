@@ -29,6 +29,10 @@ const handeln: CharacterTrait[] = [
     property: 'Ausweichen',
     amount: 6,
   },
+  {
+    property: 'Schloss knacken',
+    amount: 9,
+  },
 ];
 
 const wissen: CharacterTrait[] = [
@@ -42,6 +46,14 @@ const wissen: CharacterTrait[] = [
   },
   {
     property: 'Wahrnehmung',
+    amount: 9,
+  },
+  {
+    property: 'Flora',
+    amount: 9,
+  },
+  {
+    property: 'Fauna',
     amount: 9,
   },
 ];
