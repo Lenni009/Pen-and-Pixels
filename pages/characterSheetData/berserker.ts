@@ -36,6 +36,10 @@ const wissen: CharacterTrait[] = [
     property: 'Spuren lesen',
     amount: 5,
   },
+  {
+    property: 'Wahrnehmung',
+    amount: 9,
+  },
 ];
 
 const soziales: CharacterTrait[] = [
