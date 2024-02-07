@@ -88,7 +88,7 @@ const characterData: CharacterSheet = {
   lebensPunkte: 100,
   statur: 'Groß',
   beruf: 'Schurke',
-  anmerkungen: '',
+  anmerkungen: 'Lustmolch',
   handeln,
   wissen,
   soziales,
