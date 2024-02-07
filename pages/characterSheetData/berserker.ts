@@ -3,34 +3,34 @@ import type { CharacterSheet, CharacterTrait } from '../code/types/characterShee
 const handeln: CharacterTrait[] = [
   {
     property: 'Schlagen',
-    amount: 1,
+    amount: 10,
   },
   {
     property: 'Zweihänder',
-    amount: 1,
+    amount: 10,
   },
   {
     property: 'Heben',
-    amount: 1,
+    amount: 10,
   },
   {
     property: 'Treten',
-    amount: 1,
+    amount: 10,
   },
   {
     property: 'Jagen',
-    amount: 1,
+    amount: 10,
   },
    {
     property: 'Angeln',
-    amount: 1,
+    amount: 10,
   },
 ];
 
 const wissen: CharacterTrait[] = [
   {
     property: 'Völkerkunde',
-    amount: 3,
+    amount: 5,
   },
   {
     property: 'Spuren lesen',
@@ -41,15 +41,15 @@ const wissen: CharacterTrait[] = [
 const soziales: CharacterTrait[] = [
   {
     property: 'Lügen',
-    amount: 1,
+    amount: 5,
   },
   {
     property: 'Menschenkenntnis',
-    amount: 1,
+    amount: 5,
   },
   {
     property: 'Beeindrucken',
-    amount: 1,
+    amount: 5,
   },
 
 ];
