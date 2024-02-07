@@ -1,4 +1,4 @@
-#Gesinnung
+# Gesinnung
 
 | Lawful Good  |   Lawful Neutral   | Chaotic Neutral |
 |  |  | | 
