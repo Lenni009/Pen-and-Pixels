@@ -77,3 +77,7 @@ Mit goldenen Nägeln schneidet es durch kaltes Fleisch, um ein eigenes Gesicht z
 Das ewige Feuer brennt hoch und gewaltig über den Gebeinen der Gerechten<br>
 Während Brüder aufsteigen und Brüder fallen, ist es kaum zu übersehen, dass sie sich in den tiefsten Abgründen der Verzweiflung befinden<br>
 Alles verlieren und nichts bereuen
+
+## Der ominöse Fährmann 
+
+![image](/images/Fährmann.jpg)
