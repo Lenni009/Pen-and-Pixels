@@ -12,3 +12,6 @@ Ein kurzer Überblick über dich wichtigsten Orte im Abenteuer und in der Lore.
 ## Tempel
 
 ## Gräber
+
+## Landschaft
+### Lichtung der unerschütterlichen Hoffnung
