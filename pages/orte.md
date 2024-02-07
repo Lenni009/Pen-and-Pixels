@@ -3,6 +3,7 @@ Ein kurzer Überblick über dich wichtigsten Orte im Abenteuer und in der Lore.
 
 ## Dörfer
 ### Krähenberg
+![image](/images/Krähenberg.jfif)
 ## Städte
 ### Hermannsburg 
 ## Burgen
