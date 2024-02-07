@@ -67,6 +67,10 @@ const soziales: CharacterTrait[] = [
     property: 'Lügen',
     amount: 10,
   },
+  {
+    property: 'Manipulieren',
+    amount: 1,
+  },
 ];
 
 const inventar: CharacterTrait[] = [
