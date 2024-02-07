@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as r,V as a}from"./chunks/framework.Ei0LEMpG.js";const b=JSON.parse('{"title":"Items","description":"","frontmatter":{},"headers":[],"relativePath":"items.md","filePath":"items.md"}'),n={name:"items.md"},i=a("",2),s=[i];function d(l,c,m,o,h,_){return r(),e("div",null,s)}const u=t(n,[["render",d]]);export{b as __pageData,u as default};
