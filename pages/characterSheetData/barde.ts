@@ -87,7 +87,7 @@ const characterData: CharacterSheet = {
   lebensPunkte: 100,
   statur: 'Elbenhaft',
   beruf: 'Barde',
-  anmerkungen: 'Zauberspruch: Der braune Ton',
+  anmerkungen: '/Zauberspruch: Der braune Ton',
   handeln,
   wissen,
   soziales,
