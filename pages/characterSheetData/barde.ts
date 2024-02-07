@@ -15,7 +15,7 @@ const handeln: CharacterTrait[] = [
   },
   {
     property: 'Flüchten',
-    amount: 5,
+    amount: 1,
   },
 ];
 
