@@ -89,7 +89,7 @@ const characterData: CharacterSheet = reactive({
   lebensPunkte: 100,
   statur: 'Groß',
   beruf: 'Schurke',
-  gesinnung: 'Neutral Bad',
+  gesinnung: 'Chaotic Good',
   anmerkungen: 'Lustmolch',
   handeln,
   wissen,
