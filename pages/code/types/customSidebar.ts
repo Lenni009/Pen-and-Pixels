@@ -1,4 +1,4 @@
-import { DefaultTheme } from "vitepress";
+import { DefaultTheme } from 'vitepress';
 
 export interface CustomSidebarItem extends DefaultTheme.SidebarItem {
   isInternal?: boolean;
