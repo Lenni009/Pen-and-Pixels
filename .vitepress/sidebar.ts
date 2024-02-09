@@ -10,6 +10,7 @@ export const sidebar: CustomSidebarItem[] = [
     items: [
       { text: 'Disclaimer', link: '/intro' },
       { text: 'Seite erstellen', link: '/erstellen' },
+      { text: 'Videos', link: '/videos' },
     ],
   },
   {
