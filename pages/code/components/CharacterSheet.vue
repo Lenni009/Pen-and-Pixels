@@ -43,6 +43,8 @@ const totalPoints = computed(() => {
 
 const hasTooManyPoints = computed(() => totalPoints.value > maxPoints);
 const hasTooLittlePoints = computed(() => totalPoints.value < maxPoints);
+
+const addInfoParagraphs = anmerkungen.value.split('\n');
 </script>
 
 <template>
@@ -97,7 +99,7 @@ const hasTooLittlePoints = computed(() => totalPoints.value < maxPoints);
     <CharacterInventory :data="inventar" />
     <div>
       <h4>Zusätzliche Informationen</h4>
-      <p>{{ anmerkungen }}</p>
+      <p v-for="paragraph in addInfoParagraphs">{{ paragraph }}</p>
     </div>
   </div>
 </template>
