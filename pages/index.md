@@ -14,6 +14,6 @@ hero:
       text: Seite erstellen
       link: /erstellen
   image:
-    src: /images/studioprojekt-logo.png
+    src: /images/studioprojekt-logo.webp
     alt: Logo
 ---
