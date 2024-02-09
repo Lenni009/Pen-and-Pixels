@@ -90,7 +90,7 @@ const characterData: CharacterSheet = reactive({
   statur: 'Groß',
   beruf: 'Schurke',
   gesinnung: 'Chaotic Good',
-  anmerkungen: 'Lustmolch',
+  anmerkungen: 'Lustmolch/Kleptomane/Bonze',
   handeln,
   wissen,
   soziales,
