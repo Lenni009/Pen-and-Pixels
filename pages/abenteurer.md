@@ -28,4 +28,4 @@ Zurzeit befinden sich die gerade so am Leben erhaltenen Abenteuer in der Schenke
 <CharacterSheet :data="barde" />
 
 ### Der Magier
-
+Name: Amgmar Nazaroth
