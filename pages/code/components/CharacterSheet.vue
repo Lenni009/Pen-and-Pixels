@@ -69,17 +69,21 @@ const addInfoParagraphs = computed(() => anmerkungen.value.split('\n').filter(Bo
     <div>
       <h4>Grundlagen</h4>
       <table>
-        <tr>
-          <th>Eigenschaft</th>
-          <th>Wert</th>
-        </tr>
-        <CharacterBasicStats
-          :volk
-          :alter
-          :lebens-punkte
-          :statur
-          :gesinnung
-        />
+        <thead>
+          <tr>
+            <th>Eigenschaft</th>
+            <th>Wert</th>
+          </tr>
+        </thead>
+        <tbody>
+          <CharacterBasicStats
+            :volk
+            :alter
+            :lebens-punkte
+            :statur
+            :gesinnung
+          />
+        </tbody>
       </table>
     </div>
     <div class="character-traits">

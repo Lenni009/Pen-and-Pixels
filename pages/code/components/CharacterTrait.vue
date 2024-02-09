@@ -18,18 +18,22 @@ const bonus = computed(() => getBonusPoints(props.data));
   <div>
     <h4>{{ type }} (+{{ bonus }})</h4>
     <table>
-      <tr>
-        <th>Eigenschaft</th>
-        <th>Wert</th>
-        <th>Bonus</th>
-        <th>Gesamt</th>
-      </tr>
-      <tr v-for="ability in data">
-        <td>{{ ability.property }}</td>
-        <td :class="{ 'background-red': ability.amount > diceSides }">{{ ability.amount }}</td>
-        <td>{{ bonus }}</td>
-        <td>{{ ability.amount + bonus }}</td>
-      </tr>
+      <thead>
+        <tr>
+          <th>Eigenschaft</th>
+          <th>Wert</th>
+          <th>Bonus</th>
+          <th>Gesamt</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr v-for="ability in data">
+          <td>{{ ability.property }}</td>
+          <td :class="{ 'background-red': ability.amount > diceSides }">{{ ability.amount }}</td>
+          <td>{{ bonus }}</td>
+          <td>{{ ability.amount + bonus }}</td>
+        </tr>
+      </tbody>
     </table>
   </div>
 </template>
