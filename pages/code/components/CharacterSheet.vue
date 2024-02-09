@@ -44,7 +44,7 @@ const totalPoints = computed(() => {
 const hasTooManyPoints = computed(() => totalPoints.value > maxPoints);
 const hasTooLittlePoints = computed(() => totalPoints.value < maxPoints);
 
-const addInfoParagraphs = computed(() => anmerkungen.value.split('\n'));
+const addInfoParagraphs = anmerkungen.value.split('\n');
 </script>
 
 <template>
