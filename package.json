@@ -10,8 +10,7 @@
   "dependencies": {
     "@3d-dice/dice-box-threejs": "^0.0.12",
     "md-editor-v3": "^4.11.2",
-    "vitepress": "^1.0.0-rc.41",
-    "vue3-youtube": "^0.1.9"
+    "vitepress": "^1.0.0-rc.41"
   },
   "devDependencies": {
     "prettier": "^3.2.5",
