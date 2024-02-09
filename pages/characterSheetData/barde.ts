@@ -89,7 +89,7 @@ const characterData: CharacterSheet = reactive({
   statur: 'Elbenhaft',
   beruf: 'Barde',
   gesinnung: 'Chaotic Neutral',
-  anmerkungen: 'Schizophrene\Zauberspruch: Der braune Ton',
+  anmerkungen: 'Schizophrene\nZauberspruch: Der braune Ton',
   handeln,
   wissen,
   soziales,
