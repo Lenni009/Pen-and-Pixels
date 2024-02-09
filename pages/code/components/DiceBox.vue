@@ -13,7 +13,6 @@ onMounted(async () => {
     theme_customColorset: {
       background: '#55d12f',
       foreground: '#ffffff',
-      texture: 'marble', // marble | ice
       material: 'plastic', // metal | glass | plastic | wood
     },
     light_intensity: 1,
