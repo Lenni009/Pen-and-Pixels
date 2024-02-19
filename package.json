@@ -10,7 +10,7 @@
   "dependencies": {
     "@3d-dice/dice-box-threejs": "^0.0.12",
     "md-editor-v3": "^4.11.2",
-    "vitepress": "^1.0.0-rc.42"
+    "vitepress": "^1.0.0-rc.44"
   },
   "devDependencies": {
     "prettier": "^3.2.5",
