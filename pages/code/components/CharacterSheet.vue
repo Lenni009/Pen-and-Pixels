@@ -43,8 +43,6 @@ const totalPoints = computed(() => {
 
 const hasTooManyPoints = computed(() => totalPoints.value > maxPoints);
 const hasTooLittlePoints = computed(() => totalPoints.value < maxPoints);
-
-const addInfoParagraphs = computed(() => anmerkungen.value.split('\n').filter(Boolean));
 </script>
 
 <template>
@@ -103,7 +101,7 @@ const addInfoParagraphs = computed(() => anmerkungen.value.split('\n').filter(Bo
     <CharacterInventory :data="inventar" />
     <div>
       <h4>Zusätzliche Informationen</h4>
-      <p v-for="paragraph in addInfoParagraphs">{{ paragraph }}</p>
+      <p class="additional-info">{{ anmerkungen }}</p>
     </div>
   </div>
 </template>
@@ -126,6 +124,10 @@ const addInfoParagraphs = computed(() => anmerkungen.value.split('\n').filter(Bo
     display: flex;
     flex-wrap: wrap;
     gap: 0 1rem;
+  }
+
+  .additional-info {
+    white-space: pre-line;
   }
 }
 </style>
