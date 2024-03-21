@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { fixCapitalisation } from '../logic/typing';
-import { CharacterBasics } from '../types/characterSheet';
+import type { CharacterBasics } from '../types/characterSheet';
 
 const props = defineProps<CharacterBasics>();
 

@@ -3,7 +3,7 @@
   "type": "module",
   "scripts": {
     "dev": "vitepress dev",
-    "build": "vitepress build",
+    "build": "vue-tsc && vitepress build",
     "preview": "vitepress preview",
     "format": "prettier --write ."
   },
@@ -13,7 +13,9 @@
     "vitepress": "^1.0.0-rc.45"
   },
   "devDependencies": {
+    "@types/node": "^20.11.30",
     "prettier": "^3.2.5",
-    "sass": "^1.72.0"
+    "sass": "^1.72.0",
+    "vue-tsc": "^2.0.7"
   }
 }

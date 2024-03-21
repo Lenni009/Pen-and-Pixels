@@ -1,4 +1,4 @@
-import { CharacterTrait } from '../types/characterSheet';
+import type { CharacterTrait } from '../types/characterSheet';
 
 export const addStats = (statArray: number[]): number =>
   statArray.reduce((lastResult, currentValue) => lastResult + currentValue, 0);

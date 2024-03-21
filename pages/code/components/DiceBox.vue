@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { ref, onMounted, nextTick } from 'vue';
 import { diceSides, isShowTime } from '../variables/constants';
+import '../threejs.d.ts';
 
 const dieRig = ref('');
 const rollBtn = ref<HTMLButtonElement | null>(null);
@@ -28,7 +29,7 @@ onMounted(async () => {
         Box.roll(getRandomDieNumber(dieRig.value));
       });
     })
-    .catch((e) => console.error(e));
+    .catch((e: Error) => console.error(e));
 
   rollBtn.value?.addEventListener('click', () => {
     Box.roll(getRandomDieNumber(dieRig.value));
