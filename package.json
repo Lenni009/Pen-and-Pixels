@@ -13,7 +13,7 @@
     "vitepress": "^1.0.0-rc.45"
   },
   "devDependencies": {
-    "@types/node": "^20.11.30",
+    "@types/node": "^20.12.2",
     "prettier": "^3.2.5",
     "sass": "^1.72.0",
     "vue-tsc": "^2.0.7"
