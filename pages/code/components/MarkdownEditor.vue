@@ -19,15 +19,17 @@ function downloadFile() {
 </script>
 
 <template>
-  <MdEditor
-    v-model="pageContent"
-    :noUploadImg="true"
-    :theme="theme"
-    class="editor"
-    language="en-US"
-    previewTheme="vuepress"
-    @onSave="downloadFile"
-  />
+  <ClientOnly>
+    <MdEditor
+      v-model="pageContent"
+      :noUploadImg="true"
+      :theme="theme"
+      class="editor"
+      language="en-US"
+      previewTheme="vuepress"
+      @onSave="downloadFile"
+    />
+  </ClientOnly>
 </template>
 
 <style scoped>
