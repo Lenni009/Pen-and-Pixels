@@ -46,4 +46,13 @@ export const head: HeadConfig[] = [
     },
   ],
   ['link', { rel: 'shortcut icon', href: '/Studioprojekt2024/icons/favicon.ico' }],
+  ['meta', { name: 'application-name', content: 'Studioprojekt 2024' }],
+  [
+    'meta',
+    {
+      name: 'keywords',
+      content:
+        'Studioprojekt, 2024, Leipzig, Gutenbergschule, Guts, Gutenbergschule Leipzig, ME21b, Pen & Pixels, Legende von Gutenberg, Studioproduktion, Live',
+    },
+  ],
 ];
