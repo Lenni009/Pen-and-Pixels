@@ -19,7 +19,7 @@ const handeln: CharacterTrait[] = reactive([
 const wissen: CharacterTrait[] = reactive([
   {
     property: 'Magisches Wissen',
-    amount: 15,
+    amount: 12,
   },
   {
     property: 'Pyromantie',
@@ -70,7 +70,7 @@ const soziales: CharacterTrait[] = reactive([
   },
   {
     property: 'Lehren',
-    amount: 2,
+    amount: 5,
   },
 ]);
 
