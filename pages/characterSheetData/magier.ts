@@ -4,65 +4,73 @@ import { reactive } from 'vue';
 const handeln: CharacterTrait[] = reactive([
   {
     property: 'Schlagen',
-    amount: 0,
+    amount: 4,
+  },
+  {
+    property: 'Faustkampf',
+    amount: 3,
+  },
+  {
+    property: 'Treten',
+    amount: 3,
   },
 ]);
 
 const wissen: CharacterTrait[] = reactive([
   {
     property: 'Magisches Wissen',
-    amount: 0,
+    amount: 15,
   },
   {
     property: 'Pyromantie',
-    amount: 0,
+    amount: 10,
   },
   {
     property: 'Kryomantie',
-    amount: 0,
+    amount: 10,
   },
   {
     property: 'Nekromantie',
-    amount: 0,
+    amount: 10,
   },
   {
     property: 'Hydromantie',
-    amount: 0,
+    amount: 10,
   },
   {
     property: 'Aeropmantie',
-    amount: 0,
+    amount: 10,
   },
   {
     property: 'Geomantie',
-    amount: 0,
+    amount: 10,
   },
   {
     property: 'Polymorph',
-    amount: 0,
+    amount: 5,
   },
 ]);
 
 const soziales: CharacterTrait[] = reactive([
   {
     property: 'Menschenkenntnis',
-    amount: 0,
+    amount: 3,
   },
   {
     property: 'Feilschen',
-    amount: 0,
+    amount: 1,
   },
   {
     property: 'Überzeugen',
-    amount: 0,
+    amount: 2,
   },
   {
     property: 'Beeindrucken',
-    amount: 0,
+    amount: 2,
   },
   {
     property: 'Lehren',
-    amount: 0,
+    amount: 2,
   },
 ]);
 
