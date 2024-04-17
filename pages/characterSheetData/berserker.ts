@@ -64,7 +64,7 @@ const soziales: CharacterTrait[] = reactive([
 
 const inventar: CharacterTrait[] = reactive([
   {
-    property: '"Bello"- der Hammer, 
+    property: '"Bello"- der Hammer',
     amount: 1
   } 
 ]);
