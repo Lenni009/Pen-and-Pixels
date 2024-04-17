@@ -62,7 +62,12 @@ const soziales: CharacterTrait[] = reactive([
   },
 ]);
 
-const inventar: CharacterTrait[] = reactive([]);
+const inventar: CharacterTrait[] = reactive([
+  {
+    property: '"Bello"- der Hammer, 
+    amount: 1
+  } 
+]);
 
 const characterData: CharacterSheet = reactive({
   name: 'Fridericus Knochenbrecher',
