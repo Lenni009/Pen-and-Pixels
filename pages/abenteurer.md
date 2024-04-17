@@ -1,6 +1,6 @@
 <script setup lang="ts">
   import CharacterSheet from './code/components/CharacterSheet.vue';
-  import { schurke, barde, berserker } from './characterSheetData';
+  import { schurke, barde, berserker, magier } from './characterSheetData';
 </script>
 
 # Geschichte der Abenteuerer bisher
@@ -28,4 +28,4 @@ Zurzeit befinden sich die gerade so am Leben erhaltenen Abenteuer in der Schenke
 <CharacterSheet :data="barde" />
 
 ### Der Magier
-Name: Amgmar Nazaroth
+<CharacterSheet :data="magier" />
