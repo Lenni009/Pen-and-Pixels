@@ -9,7 +9,7 @@ import { defineConfig } from 'vitepress';
 export default defineConfig({
   title: 'Legende von Gutenberg',
   description: 'Wiki für das Studioprojekt der ME21b',
-  base: '/Studioprojekt2024/',
+  // base: '/Studioprojekt2024/',
   srcDir: 'pages',
   cleanUrls: true,
   lang: 'de-DE',
