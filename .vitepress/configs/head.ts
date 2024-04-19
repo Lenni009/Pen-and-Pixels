@@ -1,7 +1,7 @@
 import { HeadConfig } from 'vitepress';
 
 export const head: HeadConfig[] = [
-  ['meta', { name: 'theme-color', content: '#a8b1ff' }],
+  ['meta', { name: 'theme-color', content: '#ffffff' }],
   [
     'meta',
     {
@@ -22,7 +22,7 @@ export const head: HeadConfig[] = [
   [
     'link',
     {
-      rel: 'icon',
+      rel: 'apple-touch-icon',
       sizes: '180x180',
       href: '/icons/apple-touch-icon.png',
     },
@@ -46,7 +46,8 @@ export const head: HeadConfig[] = [
     },
   ],
   ['link', { rel: 'shortcut icon', href: '/icons/favicon.ico' }],
-  ['meta', { name: 'application-name', content: 'Studioprojekt 2024' }],
+  ['meta', { name: 'application-name', content: 'Legende von Gutenberg' }],
+  ['meta', { name: 'apple-mobile-web-app-title', content: 'Legende von Gutenberg' }],
   [
     'meta',
     {
