@@ -47,7 +47,11 @@ export default defineConfig({
 
   transformPageData(pageData) {
     if (!isShowTime || !pageData?.frontmatter?.hero?.actions?.[1]) return;
-    pageData.frontmatter.hero.actions.pop();
+    pageData.frontmatter.hero.actions[1] = {
+      theme: 'alt',
+      text: 'Stream',
+      link: '/stream',
+    };
     const wikiLinkSectionIndex = rawSidebar.findIndex((item) => item.items?.some((subItem) => subItem.isPublicEntry));
     if (wikiLinkSectionIndex === -1) return;
     const wikiLink = rawSidebar[wikiLinkSectionIndex].items?.find((item) => item.isPublicEntry)?.link;
