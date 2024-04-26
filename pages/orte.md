@@ -16,4 +16,4 @@ Ein kurzer Überblick über dich wichtigsten Orte im Abenteuer und in der Lore.
 ## Landschaft
 ### Lichtung der unerschütterlichen Hoffnung
 ![image](/images/Lichtung_Ort.jfif)
-### Wald 
+### Wald der ewigen Diesigkeit 
