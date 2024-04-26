@@ -7,11 +7,13 @@ prev: false
 ---
 <script setup lang="ts">
 import YouTube from 'vue3-youtube'
+const youtubeLink = '';
 </script>
 
 # Livestream
 
-<YouTube src="https://youtu.be/EzWJqc4YWlc" class="youtube" />
+<YouTube v-if="youtubeLink" :src="youtubeLink" class="youtube" />
+<p v-else>Momentan ist der Stream noch nicht verfügbar. Schau später wieder vorbei!</p>
 
 ## Show-Zeiten
 
