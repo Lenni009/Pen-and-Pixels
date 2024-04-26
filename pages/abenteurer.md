@@ -5,7 +5,7 @@
 
 # Geschichte der Abenteuerer bisher
 
-## Was bisher geschah?
+## Was bisher geschah
 
 Unsere vier tapferen Abenteurer, der Berserker **Fridericus Rotbart**, der Schurke **Morzan Schattenläufer**, der Barde **Harald Scheißgesang** und ein Zauberer, trafen einst in einem kleinen Dorf am Rande zwischen Midgard und Fellheim aufeinander. Sie alle wurden dorthin gesandt, um für ihren jeweiligen Vorgesetzten ihres Volkes Nachforschungen durchzuführen um komische und merkwürdige Ereignisse zur ergründen. Schnell wurde ihnen klar, dass sich um schwarze Magie handelt, die droht, die Welt zu zerstören. Warum jene Person oder Gruppe dies tut, ist ihnen noch nicht bekannt. Sie kennen nur ihre Aufgabe: Haltet die Bedrohung auf und rettet die Welt.
 
