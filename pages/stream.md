@@ -13,7 +13,7 @@ const youtubeLink = '';
 # Livestream
 
 <YouTube v-if="youtubeLink" :src="youtubeLink" class="youtube" />
-<p v-else>Momentan ist der Stream noch nicht verfügbar. Schau später wieder vorbei!</p>
+<p v-else>Momentan ist der Stream noch nicht verfügbar. Schau später wieder vorbei oder <a href="https://www.youtube.com/@penandpixels" target="_blank" rel="noopener noreferrer">abonniere unseren Kanal</a>!</p>
 
 ## Show-Zeiten
 
