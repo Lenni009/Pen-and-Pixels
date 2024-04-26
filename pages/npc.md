@@ -8,4 +8,4 @@
 | Herr Meyer    | Alchemeyer | Mensch | mischt Zaubertränke am Mischpult, "bisschen hiervon, ein paar Höhen, Mitten ein wenig raus, Kompressor drüber und zum Schluss die Effekte", Werbung für Zaubertrank     |
 | Herr Gottlieb |      |          |     |
 | Melina        | Mellis Beauty Schloss | Elb  | Bodenständig, setzt auf bewussten Einsatz von Produkten, Ökologische Produkte, dezent > übertrieben, Werbung für Hautcreme   |
-| Gregor        | der graue Unbekannte | Mensch | Keine Infos woher und warum, Anspielung an Gandalf / Odin |
+| Gregor        | der graue Unbekannte | Mensch | Keine Infos |
