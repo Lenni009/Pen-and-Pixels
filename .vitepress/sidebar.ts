@@ -6,6 +6,9 @@ import { CustomSidebarItem } from '../pages/code/types/customSidebar';
 // isPublicEntry: wenn "true", wird dieser Link das Ziel des "Wiki" Links auf der Startseite. Falls es öfter verwendet wird, wird der erste für den Link verwendet
 export const sidebar: CustomSidebarItem[] = [
   {
+    items: [{ text: 'Pen & Pixels', link: '/pen-pixels' }],
+  },
+  {
     isInternal: true,
     items: [
       { text: 'Disclaimer', link: '/intro' },

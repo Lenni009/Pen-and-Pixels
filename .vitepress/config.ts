@@ -3,7 +3,7 @@ import { nav } from './configs/nav';
 import { head } from './configs/head';
 import { sidebar } from './configs/transformSidebar';
 import { sidebar as rawSidebar } from './sidebar';
-import { defineConfig } from 'vitepress';
+import { defineConfig, type PageData } from 'vitepress';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -45,7 +45,7 @@ export default defineConfig({
     socialLinks: [{ icon: 'github', link: 'https://github.com/Lenni009/Studioprojekt2024' }],
   },
 
-  transformPageData(pageData) {
+  transformPageData(pageData: PageData) {
     if (!isShowTime || !pageData?.frontmatter?.hero?.actions?.[1]) return;
     pageData.frontmatter.hero.actions[1] = {
       theme: 'alt',
