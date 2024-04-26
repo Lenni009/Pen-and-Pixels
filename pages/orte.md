@@ -9,11 +9,11 @@ Ein kurzer Überblick über dich wichtigsten Orte im Abenteuer und in der Lore.
 ## Burgen
 ### Drachenburg
 ## Ruinen
-### Die Ruine am Waldesrand
-## Tempel
-
-## Gräber
-
+### Der alte Wachturm aus vergangenen Kriegen
+### Die Kirchenruine
+## See
+### Der verfluchte See Kerlaugar
 ## Landschaft
 ### Lichtung der unerschütterlichen Hoffnung
 ![image](/images/Lichtung_Ort.jfif)
+### Wald 
