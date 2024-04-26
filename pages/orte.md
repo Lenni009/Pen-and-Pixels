@@ -4,7 +4,7 @@ Ein kurzer Überblick über dich wichtigsten Orte im Abenteuer und in der Lore.
 ## Dörfer
 ### Krähenberg
 ![image](/images/Krähenberg.jfif)
-Das Dorf Krähenberg liegt in der Nähe des verfluchten Sees und ist eines der letzten Orte in der Region, wo einigermaßen zivilisierte Zustände herrschen.
+Das Dorf Krähenberg liegt in der Nähe des verfluchten Sees Kerlaugar und ist der letzte Orte rund um den See, wo einigermaßen zivilisierte Zustände herrschen.
 
 Das Dorf selbst hat schon bessere Tage gesehen. Mit seinen einfachen Häusern und den veralteten und heruntergekommenen Verteidigungsanlagen merkt man den beschaulichen Dörfchen schnell an, dass es ständiger der Gefahr ausgesetzt ist. Auch die vergangenen Kriege haben ihre Spuren hinterlassen. Somit herrscht in Krähenberg eine eher triste Atmosphäre aus.
 
