@@ -1,1 +1,0 @@
-import{_ as e,c as a,o as r,a6 as n,ar as t,as as i}from"./chunks/framework.DAcecqtn.js";const _=JSON.parse('{"title":"Orte in Gaia","description":"","frontmatter":{},"headers":[],"relativePath":"orte.md","filePath":"orte.md"}'),h={name:"orte.md"},l=n("",18),o=[l];function d(u,c,s,g,b,f){return r(),a("div",null,o)}const q=e(h,[["render",d]]);export{_ as __pageData,q as default};
