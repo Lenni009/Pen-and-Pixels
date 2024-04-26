@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as r,a6 as a}from"./chunks/framework.DAcecqtn.js";const u=JSON.parse('{"title":"Items","description":"","frontmatter":{},"headers":[],"relativePath":"items.md","filePath":"items.md"}'),n={name:"items.md"},i=a("",2),s=[i];function d(c,l,m,o,h,_){return r(),e("div",null,s)}const b=t(n,[["render",d]]);export{u as __pageData,b as default};
