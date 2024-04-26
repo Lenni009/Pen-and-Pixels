@@ -30,7 +30,7 @@ export const sidebar: CustomSidebarItem[] = [
       { text: 'Regionen', link: '/regionen' },
       { text: 'Völker', link: '/völker' },
       { text: 'Orte', link: '/orte' },
-      { text: 'NPCs', link: '/npc' },
+      { text: 'NPCs', link: '/npc', isInternal: true },
       { text: 'Klassen', link: '/klassen' },
       { text: 'Gesinnung', link: '/gesinnung' },
     ],
