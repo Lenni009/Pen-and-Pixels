@@ -79,7 +79,7 @@ const characterData: CharacterSheet = reactive({
   beruf: 'Berserker',
   gesinnung: 'Lawful Bad',
   anmerkungen:
-    'Geistig eingeschränkt/Alkoholabhänig (vor allem Bier), Die Knochenbrecher sind der wohl bekannteste und auch ruhmreichste Zwergen-Klan in ganz Gaia. Aus ihrer Linie sprangen mächtige Krieger sowie weise Gelehrte hervor. Auch der jüngste Spross, Fridericus Knochenbrecher, hat den Kampfesmut seiner Vorfahren geerbt - leider jedoch nicht die Intelligenz. Die braucht er aber nicht, denn sein treuer Kriegshammer "Willensbrecher" zerschlägt jedes Problem in 1000 Stücke. Nachdem das Klanoberhaupt von einer vermeintlichen Bedrohung in den Randgebieten erfahren hat, entsand er, vielleicht nicht ganz von der Gefahr überzeugt, seinen jüngsten Sohn. So begann das Abenteuer des Fridericus Knochenbrecher.',
+    'Geistig eingeschränkt/Alkoholabhänig (vor allem Bier), Die Knochenbrecher sind der wohl bekannteste und auch ruhmreichste Zwergen-Klan in ganz Gaia. Aus ihrer Linie sprangen mächtige Krieger sowie weise Gelehrte hervor. Auch der jüngste Spross, Fridericus Knochenbrecher, hat den Kampfesmut seiner Vorfahren geerbt - leider jedoch nicht die Intelligenz. Die braucht er aber nicht, denn sein treuer Kriegshammer "Bello" zerschlägt jedes Problem in 1000 Stücke. Nachdem das Klanoberhaupt von einer vermeintlichen Bedrohung in den Randgebieten erfahren hat, entsand er, vielleicht nicht ganz von der Gefahr überzeugt, seinen jüngsten Sohn. So begann das Abenteuer des Fridericus Knochenbrecher.',
   handeln,
   wissen,
   soziales,
