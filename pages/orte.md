@@ -18,7 +18,7 @@ Die Hermannsburg war die ehmalige Hauptstadt des Großkönigreiches von Midgard,
 ## Ruinen
 ### Der alte Wachturm aus vergangenen Kriegen
 ![image](/images/Wachturm.jpg)
-Überall in ganz Gaia verteilt kann man die Überreste von alten Wachtürmen finden. Während des großen Drachenkrieges sollten sie die gefährlichen Bestien erspähen und die Bewohner wahnen. Heutzutage sind sie im besten Fall verlassen, jedoch könnten Banden oder schlimmeres die Turmruinen bewohnen. 
+Überall in ganz Gaia verteilt kann man die Überreste von alten Wachtürmen finden. Während des großen Drachenkrieges sollten sie die gefährlichen Bestien erspähen und die Bewohner warnen. Heutzutage sind sie im besten Fall verlassen, jedoch könnten Banden oder schlimmeres die Turmruinen bewohnen.
 ### Die Kirchenruine
 ![image](/images/Kirchenruine.jpg)
 Auch die verlassenen Kirchenruinen sind Überreste des vergangenen Krieges. Damals galten sie als Ort der Tugend. Heutzutage behergen sie jedoch dunkle und bösartige Mächte.
