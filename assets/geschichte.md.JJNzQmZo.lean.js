@@ -1,1 +1,0 @@
-import{_ as e,c as n,o as r,a6 as i}from"./chunks/framework.awMyoXLb.js";const p=JSON.parse('{"title":"Geschichte","description":"","frontmatter":{},"headers":[],"relativePath":"geschichte.md","filePath":"geschichte.md"}'),t={name:"geschichte.md"},a=i("",53),s=[a];function d(h,u,l,c,o,g){return r(),n("div",null,s)}const f=e(t,[["render",d]]);export{p as __pageData,f as default};

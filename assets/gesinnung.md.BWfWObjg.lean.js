@@ -1,0 +1,1 @@
+import{_ as e,c as n,o as a,a6 as r}from"./chunks/framework.D8CYwXzN.js";const f=JSON.parse('{"title":"Gesinnung","description":"","frontmatter":{},"headers":[],"relativePath":"gesinnung.md","filePath":"gesinnung.md"}'),i={name:"gesinnung.md"},t=r("",19),s=[t];function o(l,h,d,u,c,g){return a(),n("div",null,s)}const m=e(i,[["render",o]]);export{f as __pageData,m as default};
