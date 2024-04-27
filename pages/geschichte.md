@@ -1,9 +1,11 @@
 # Geschichte
 
-## Was passieren wird!
+## Was passieren wird
+
 Es folgt die grobe Story im Fließtext. PS: Die Story kann noch überarbeitet werden!!!!
 
 ## Taverne
+
 Die Gruppe, die mittlerweile nur noch aus zwei Charakteren besteht, erwacht erholt nach ihrer bisherigen, langen Reise in der Taverne (Stadtname). Trotz des guten Schlafes unter einem festen Dach, nagt ihr jüngster Verlust, das Zurücklassen ihres Magiers, an ihnen.
 Zum Frühstück trotten beide runter in den Wirtsraum, der trotz der frühen Uhrzeit schon gut gefüllt ist. Auf dem Speiseplan steht Suppe. Der Schurke geht rüber zu der Theke und spricht die temperamentvolle Tavernenwirtin an.
 
@@ -13,7 +15,7 @@ Während des Gespräches ruft die Wirtin laut in den Raum zur Ordnung und gelege
 
 Der Schurke hätte gerne für beide ein warmes Frühstück, obwohl ihre Geldvorräte langsam eng werden. Er lässt seinen Charme spielen. (Würfelwurf - Fehlschlag) Eher ungeschickt pöbelnd als charmant versucht Spieler 1 einen Verhandlungs-/Flirtversuch, um kostenlose Suppe (und ein Bier für seinen Freund) abzustauben. Die Wirtin ist von dem Versuch alles andere als begeistert und baut sich vor ihm auf. Sie verfällt in eine Hasstirade über die Unverschämtheit auf ihrem Grund und Boden und dem Unwillen der jetzigen Generation über gerechte Bezahlung und so weiter. Spieler 1 wird immer kleiner und bezahlt widerwillig die Suppe (und das Bier) mit dem restlichen Gold, dass die Spieler besitzen.
 
- Noch während sich die Wirtin in einen Rausch redet, setzt der GM als NPC (der graue Unbekannte) von hinten ein. Spieler 1 geht mit 2 Schalen (und einem Bier) zurück an den Tisch. Spieler 2 (am Tisch) ist amüsiert über den gescheiterten Versuch.
+Noch während sich die Wirtin in einen Rausch redet, setzt der GM als NPC (der graue Unbekannte) von hinten ein. Spieler 1 geht mit 2 Schalen (und einem Bier) zurück an den Tisch. Spieler 2 (am Tisch) ist amüsiert über den gescheiterten Versuch.
 
 (Dialog – Spieler 1 & 2 und NPC “Grauer Unbekannter” [Gregor mit Hut?] )
 
