@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as r,a6 as t}from"./chunks/framework.DK966-jg.js";const m=JSON.parse('{"title":"Waffen","description":"","frontmatter":{},"headers":[],"relativePath":"waffen.md","filePath":"waffen.md"}'),n={name:"waffen.md"},o=t("",11),h=[o];function i(l,f,s,d,c,u){return r(),e("div",null,h)}const _=a(n,[["render",i]]);export{m as __pageData,_ as default};
