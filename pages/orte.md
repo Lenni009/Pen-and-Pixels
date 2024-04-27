@@ -26,4 +26,4 @@ Krähenberg verfügt über eine stagnierende Wirtschaft. Die Tierzucht und der d
 ### Lichtung der unerschütterlichen Hoffnung
 ![image](/images/Lichtung_Ort.jfif)
 ### Wald der ewigen Diesigkeit
-![image](/images/Wald der ewigen Diesigkeit.jpg)
+![image](/images/Wald.jpg)
