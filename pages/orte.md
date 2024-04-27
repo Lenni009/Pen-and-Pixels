@@ -14,8 +14,6 @@ Krähenberg verfügt über eine stagnierende Wirtschaft. Die Tierzucht und der d
 ## Burgen
 ### Hermannsburg
 ![image](/images/Hermannsburg.jpg)
-### Drachenburg
-![image](/images/Drachenburg.jpg)
 ## Ruinen
 ### Der alte Wachturm aus vergangenen Kriegen
 ![image](/images/Wachturm.jpg)
