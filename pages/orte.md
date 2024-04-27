@@ -12,14 +12,20 @@ Die Hauptattraktion ist die Taverne der Frau Bogi, die vor 29 Jahren erbaut und 
 
 Krähenberg verfügt über eine stagnierende Wirtschaft. Die Tierzucht und der doch recht fruchtbare Ackerbau rund um das Dorf sind die einzigen Möglichkeiten damit, dass Krähenberg überleben kann.
 ## Burgen
-### Hermannsburg 
+### Hermannsburg
+![image](/images/Hermannsburg.jpg)
 ### Drachenburg
+![image](/images/Drachenburg.jpg)
 ## Ruinen
 ### Der alte Wachturm aus vergangenen Kriegen
+![image](/images/Wachturm.jpg)
 ### Die Kirchenruine
+![image](/images/Kirchenruine.jpg)
 ## See
 ### Der verfluchte See Kerlaugar
+![image](/images/Kerlaugar.jpg)
 ## Landschaft
 ### Lichtung der unerschütterlichen Hoffnung
 ![image](/images/Lichtung_Ort.jfif)
-### Wald der ewigen Diesigkeit 
+### Wald der ewigen Diesigkeit
+![image](/images/Wald der ewigen Diesigkeit.jpg)
