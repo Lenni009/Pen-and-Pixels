@@ -14,6 +14,7 @@ Krähenberg verfügt über eine stagnierende Wirtschaft. Die Tierzucht und der d
 ## Burgen
 ### Hermannsburg
 ![image](/images/Hermannsburg.jpg)
+Die Hermannsburg war die ehmalige Hauptstadt des Großkönigreiches von Midgard, jedoch wurde sie während des Großen Drachenkrieg komplett vernichtet. Bis heute ist die Burg selbst, aber auch das Gebiet rundherum unbewohnbar.
 ## Ruinen
 ### Der alte Wachturm aus vergangenen Kriegen
 ![image](/images/Wachturm.jpg)
@@ -22,8 +23,10 @@ Krähenberg verfügt über eine stagnierende Wirtschaft. Die Tierzucht und der d
 ## See
 ### Der verfluchte See Kerlaugar
 ![image](/images/Kerlaugar.jpg)
+Der Kerlaugar gilt als größter See in ganz Gaia. Ihn zum Umrunden dauert mehrere Wochen bishin zu Monaten. Am Rande des Ufers gibt es jedoch Stege, die zu bestimmten Tageszeiten von einem ominösen und wortkargen Fährmann mit seinem alten und vermoderten Boot angefahren wird. Für 2 Gold fährt er jeden über die Gewässer. Dieser gilt nicht nur als schnellster, sondern auch als sicherster Weg, um den See zu überwinden. Natürlich gab es auch spitzfindige Halunken, die auf eigene Gefahr und ohne die Hilfe des Fährmannes den See überqueren wollten - Bis heute fehlt von ihnen jedoch jede Spure. Manche Zeugen meinten jedoch, dass die naiven "Seemänner" von einem dicken Nebel umhüllt wurden, bevor sie verschwanden. Der Legende nach irren die Seefahrer für alle Ewigkeit auf dem See immer der Suche nach dem nächsten Ufer.
 ## Landschaft
 ### Lichtung der unerschütterlichen Hoffnung
 ![image](/images/Lichtung_Ort.jfif)
 ### Wald der ewigen Diesigkeit
 ![image](/images/Wald.jpg)
+Der Wald der ewigen Diesigkeit bekommt sein Namen durch den ständigen Nebel der in umgibt. Viele Anwohner der Region meiden ihn, da er viele Gefahren verbirgt. Neben Räuberbanden und wilden Raubtieren, soll es wohl auch monstöse Ungehäuer den Wald durchstreifen.
