@@ -11,10 +11,8 @@ Das Dorf selbst hat schon bessere Tage gesehen. Mit seinen einfachen Häusern un
 Die Hauptattraktion ist die Taverne der Frau Bogi, die vor 29 Jahren erbaut und von der Wirten höchstpersönlich entworfen wurde.
 
 Krähenberg verfügt über eine stagnierende Wirtschaft. Die Tierzucht und der doch recht fruchtbare Ackerbau rund um das Dorf sind die einzigen Möglichkeiten damit, dass Krähenberg überleben kann.
-
-## Städte
-### Hermannsburg 
 ## Burgen
+### Hermannsburg 
 ### Drachenburg
 ## Ruinen
 ### Der alte Wachturm aus vergangenen Kriegen
