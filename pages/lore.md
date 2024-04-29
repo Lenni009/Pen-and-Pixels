@@ -103,6 +103,6 @@ Eldric der Bösartige, auch bekannt als *der Hexenmeister* ist, die treibe Kraft
 
 ## Emogalf 
 
-Wenn die Helden der Neuzeit in Schwierigkeiten stecken, dann erscheint er wie aus dem Nichts und leitet sie auf den richtigen Weg - Emogalf. Manche halten ihne für den unbekannten grauen Eremit, der schon einst die Helden von damals zum Sieg gegen die Drachen leitete, andere halten ihn für einen nervenden, alten Nichtsnutz, aber egal wie man über ihn denkt ... er weist einen immer auf den richtigen Weg. :)
+Wenn die Helden der Neuzeit in Schwierigkeiten stecken, dann erscheint er wie aus dem Nichts und leitet sie auf den richtigen Weg - Emogalf. Manche halten ihn für den unbekannten grauen Eremit, der schon einst die Helden von damals zum Sieg gegen die Drachen leitete, andere halten ihn für einen nervenden alten Nichtsnutz, aber egal wie man über ihn denkt ... er weist einen immer auf den richtigen Weg. :)
 
 ![image](/images/emogalf.jpg)
