@@ -8,7 +8,7 @@ Berserker sind wilde Krieger, die die härtesten Schläge mit ihren mächtigen W
 
 ## Schurke
 
-Ein fairer Kampf ist im Wortschatz des Schurken nicht enthalten. Schurken sind im Kampf deshalb so erfolgreich, weil sie jeden Trick der ihnen zur Verfügung steht nutzen, um den Feind zu täuschen, irrezuführen oder in einen Hinterhalt zu locken. Sie setzen alle ihre mannigfaltigen Fähigkeiten ein, um einen Vorteil im Kampf zu erhalten. Ob dieser darin besteht, dem Gegner einen Schatz vor der Nase weg zuschnappen oder man zur Seite springt, um einen Angriff zu vereiteln, ist dabei unerheblich. Schurken sind Überlebenskünstler und sich nie zu schade die Finger schmutzig zu machen, wenn ihnen dies den Tag vergolden würde.
+Ein fairer Kampf ist im Wortschatz des Schurken nicht enthalten. Schurken sind im Kampf deshalb so erfolgreich, weil sie jeden Trick der ihnen zur Verfügung steht nutzen, um den Feind zu täuschen, irrezuführen oder in einen Hinterhalt zu locken. Sie setzen alle ihre mannigfaltigen Fähigkeiten ein, um einen Vorteil im Kampf zu erhalten. Ob dieser darin besteht, dem Gegner einen Schatz vor der Nase wegzuschnappen oder man zur Seite springt, um einen Angriff zu vereiteln, ist dabei unerheblich. Schurken sind Überlebenskünstler und sich nie zu schade die Finger schmutzig zu machen, wenn ihnen dies den Tag vergolden würde.
 
 ![image](/images/schurke.jpg)
 
