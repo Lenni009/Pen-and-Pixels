@@ -6,13 +6,13 @@ Ein kurzer Überblick über dich wichtigsten Orte im Abenteuer und in der Lore.
 
 ### Krähenberg
 
-Das Dorf Krähenberg liegt in der Nähe des verfluchten Sees Kerlaugar und ist der letzte Orte rund um den See, wo einigermaßen zivilisierte Zustände herrschen.
+Das Dorf Krähenberg liegt in der Nähe des verfluchten Sees Kerlaugar und ist der letzte Ort rund um den See, an dem einigermaßen zivilisierte Zustände herrschen.
 
-Das Dorf selbst hat schon bessere Tage gesehen. Mit seinen einfachen Häusern und den veralteten und heruntergekommenen Verteidigungsanlagen merkt man den beschaulichen Dörfchen schnell an, dass es ständiger der Gefahr ausgesetzt ist. Auch die vergangenen Kriege haben ihre Spuren hinterlassen. Somit herrscht in Krähenberg eine eher triste Atmosphäre aus.
+Das Dorf selbst hat schon bessere Tage gesehen. Mit seinen einfachen Häusern und den veralteten und heruntergekommenen Verteidigungsanlagen merkt man dem beschaulichen Dörfchen schnell an, dass es ständiger Gefahr ausgesetzt ist. Auch die vergangenen Kriege haben ihre Spuren hinterlassen. Somit herrscht in Krähenberg eine eher triste Atmosphäre.
 
-Die Hauptattraktion ist die Taverne der Frau Bogi, die vor 29 Jahren erbaut und von der Wirten höchstpersönlich entworfen wurde.
+Die Hauptattraktion ist die Taverne der Frau Bogi, die vor 29 Jahren erbaut und von der Wirtin höchstpersönlich entworfen wurde.
 
-Krähenberg verfügt über eine stagnierende Wirtschaft. Die Tierzucht und der doch recht fruchtbare Ackerbau rund um das Dorf sind die einzigen Möglichkeiten damit, dass Krähenberg überleben kann.
+Krähenberg verfügt über eine stagnierende Wirtschaft. Die Tierzucht und der doch recht fruchtbare Ackerbau rund um das Dorf sind die einzigen Möglichkeiten für Krähenberg zu überleben.
 
 ![image](/images/Krähenberg.jfif)
 
@@ -20,7 +20,7 @@ Krähenberg verfügt über eine stagnierende Wirtschaft. Die Tierzucht und der d
 
 ### Hermannsburg
 
-Die Hermannsburg war die ehmalige Hauptstadt des Großkönigreiches von Midgard, jedoch wurde sie während des Großen Drachenkrieg komplett vernichtet. Bis heute ist die Burg selbst, aber auch das Gebiet rundherum unbewohnbar.
+Die Hermannsburg war die ehmalige Hauptstadt des Großkönigreiches von Midgard, jedoch wurde sie während des Großen Drachenkriegs komplett vernichtet. Bis heute ist die Burg selbst, aber auch das Gebiet rundherum unbewohnbar.
 
 ![image](/images/Hermannsburg.jpg)
 
@@ -34,7 +34,7 @@ Die Hermannsburg war die ehmalige Hauptstadt des Großkönigreiches von Midgard,
 
 ### Die Kirchenruine
 
-Auch die verlassenen Kirchenruinen sind Überreste des vergangenen Krieges. Damals galten sie als Ort der Tugend. Heutzutage behergen sie jedoch dunkle und bösartige Mächte.
+Auch die verlassenen Kirchenruinen sind Überreste des vergangenen Krieges. Damals galten sie als Ort der Tugend. Heutzutage beherbergen sie jedoch dunkle und bösartige Mächte.
 
 ![image](/images/Kirchenruine.jpg)
 
@@ -42,7 +42,7 @@ Auch die verlassenen Kirchenruinen sind Überreste des vergangenen Krieges. Dama
 
 ### Der verfluchte See Kerlaugar
 
-Der Kerlaugar gilt als größter See in ganz Gaia. Ihn zum Umrunden dauert mehrere Wochen bishin zu Monaten. Am Rande des Ufers gibt es jedoch Stege, die zu bestimmten Tageszeiten von einem ominösen und wortkargen Fährmann mit seinem alten und vermoderten Boot angefahren wird. Für 2 Gold fährt er jeden über die Gewässer. Dieser gilt nicht nur als schnellster, sondern auch als sicherster Weg, um den See zu überwinden. Natürlich gab es auch spitzfindige Halunken, die auf eigene Gefahr und ohne die Hilfe des Fährmannes den See überqueren wollten - Bis heute fehlt von ihnen jedoch jede Spure. Manche Zeugen meinten jedoch, dass die naiven "Seemänner" von einem dicken Nebel umhüllt wurden, bevor sie verschwanden. Der Legende nach irren die Seefahrer für alle Ewigkeit auf dem See immer der Suche nach dem nächsten Ufer.
+Der Kerlaugar gilt als größter See in ganz Gaia. Ihn zum Umrunden dauert mehrere Wochen bis hin zu Monaten. Am Rande des Ufers gibt es jedoch Stege, die zu bestimmten Tageszeiten von einem ominösen und wortkargen Fährmann mit seinem alten und vermoderten Boot angefahren werden. Für 2 Gold fährt er jeden über die Gewässer. Er gilt nicht nur als schnellster, sondern auch als sicherster Weg, den See zu überwinden. Natürlich gab es auch spitzfindige Halunken, die auf eigene Gefahr und ohne die Hilfe des Fährmannes den See überqueren wollten - Bis heute fehlt von ihnen jedoch jede Spur. Manche Zeugen meinten jedoch, dass die naiven "Seemänner" von einem dicken Nebel umhüllt wurden, bevor sie verschwanden. Der Legende nach irren die Seefahrer für alle Ewigkeit auf dem See, immer auf der Suche nach dem nächsten Ufer.
 
 ![image](/images/Kerlaugar.jpg)
 
@@ -54,6 +54,6 @@ Der Kerlaugar gilt als größter See in ganz Gaia. Ihn zum Umrunden dauert mehre
 
 ### Wald der ewigen Diesigkeit
 
-Der Wald der ewigen Diesigkeit bekommt sein Namen durch den ständigen Nebel der in umgibt. Viele Anwohner der Region meiden ihn, da er viele Gefahren verbirgt. Neben Räuberbanden und wilden Raubtieren, soll es wohl auch monstöse Ungehäuer den Wald durchstreifen.
+Der Wald der ewigen Diesigkeit hat seinen Namen vom ständigen Nebel der ihn umgibt. Viele Anwohner der Region meiden ihn, da er viele Gefahren verbirgt. Neben Räuberbanden und wilden Raubtieren sollen wohl auch monströse Ungeheuer den Wald durchstreifen.
 
 ![image](/images/Wald.jpg)
