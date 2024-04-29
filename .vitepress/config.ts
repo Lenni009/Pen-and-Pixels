@@ -42,7 +42,10 @@ export default defineConfig({
     nav,
     sidebar,
 
-    socialLinks: [{ icon: 'github', link: 'https://github.com/Lenni009/Studioprojekt2024' }],
+    socialLinks: [
+      { icon: 'youtube', link: 'https://www.youtube.com/channel/UCxkzCKNR0yo_jg7KnfN_HGA' },
+      { icon: 'github', link: 'https://github.com/Lenni009/Studioprojekt2024' },
+    ],
   },
 
   transformPageData(pageData: PageData) {
