@@ -2,7 +2,7 @@
 
 ## Gaia, der Weltenbaum
 
-Gaia, der Weltenbaum, ist die Verkörperung der Schöpfung als Gesamtes: räumlich, zeitlich und inhaltlich. Als Weltachse verbindet er die drei Ebenen Himmel, Mittelwelt und Unterwelt. Die bekannte Welt reicht nur bis zum Gebirge in Fellheim, und die Schöpfung besteht nur so lange, wie er besteht. Jedoch bleibt der Baum immer noch ein Mysterium. Ein ganzes Leben reicht für die zahlreichen Gelehrten aber nicht aus, um das Geheimnis des Baumes zu entschlüsseln.
+Gaia, der Weltenbaum, ist die Verkörperung der Schöpfung als Gesamtes: räumlich, zeitlich und inhaltlich. Als Weltachse verbindet er die drei Ebenen Himmel, Mittelwelt und Unterwelt. Die bekannte Welt reicht nur bis zum Gebirge in Fellheim, und die Schöpfung besteht nur so lange, wie er besteht. Jedoch bleibt der Baum immer noch ein Mysterium. Ein ganzes Leben reicht für die zahlreichen Gelehrten nicht aus, um das Geheimnis des Baumes zu entschlüsseln.
 
 ![Visualisierung des Weltenbaumes](/images/yggdrasil.jpg "Visualisierung des Weltenbaumes")
 
@@ -14,7 +14,7 @@ Der Wohnort der Menschen in der Mitte der Welt.
 
 ## Sovngarde, Heimat der Götter
 
-Der letzte Ruheort der Götter. Sovngarde liegt in der Krone des Weltenbaum. Nachdem die legendären Helden der verschiedenen Völker vor vielen Äonen ihre weltlichen Körper für den Erhalt des Baumes opferten und die Drachenbedrohung durch das Aufnehmen derer Seelen beendete, fanden sie in den ruhmreichen Hallen von Sovngarde in der Krone des Baumes ihre letzte Ruhe und leben jetzt dort mit ihrem Drachenblut.
+Der letzte Ruheort der Götter. Sovngarde liegt in der Krone des Weltenbaums. Nachdem die legendären Helden der verschiedenen Völker vor vielen Äonen ihre weltlichen Körper für den Erhalt des Baumes opferten und die Drachenbedrohung durch das Aufnehmen derer Seelen beendete, fanden sie in den ruhmreichen Hallen von Sovngarde in der Krone des Baumes ihre letzte Ruhe und leben jetzt dort mit ihrem Drachenblut.
 
 ## Skogenheim, *die Waldwelt*, Reich der Elfen
 
@@ -33,7 +33,7 @@ Helheim, auch Hel genannt, ist ein sandiges und vulkanisches Gebiet hinter Fellh
 
 ![image](/images/Hel.jpg)
 
-Nilfheim ist ein eisiges Gebiet hinter Fellheim im Norden voller dunkler Energie und Gefahren. Vor allem die im Volksmund sogenannten Polarlichter/Aurora Borealis lassen nur Schlimmes erahnen.
+Nilfheim ist ein eisiges Gebiet voller dunkler Energie und Gefahren hinter Fellheim im Norden. Vor allem die im Volksmund sogenannten Polarlichter/Aurora Borealis lassen nur Schlimmes erahnen.
 
 ![image](/images/Nilfheim.jpg)
 
