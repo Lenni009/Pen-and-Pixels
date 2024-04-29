@@ -93,7 +93,7 @@ Alles verlieren und nichts bereuen
 
 Der Kerlaugar gilt als größter See in ganz Gaia. Ihn zum Umrunden dauert mehrere Wochen bishin zu Monaten. Am Rande des Ufers gibt es jedoch Stege, die zu bestimmten Tageszeiten von einem ominösen und wortkargen Fährmann mit seinem alten und vermoderten Boot angefahren wird. Für 2 Gold fährt er jeden über die Gewässer. Dieser gilt nicht nur als schnellster, sondern auch als sicherster Weg, um den See zu überwinden. Natürlich gab es auch spitzfindige Halunken, die auf eigene Gefahr und ohne die Hilfe des Fährmannes den See überqueren wollten - Bis heute fehlt von ihnen jedoch jede Spure. Manche Zeugen meinten jedoch, dass die naiven "Seemänner" von einem dicken Nebel umhüllt wurden, bevor sie verschwanden. Der Legende nach irren die Seefahrer für alle Ewigkeit auf dem See immer der Suche nach dem nächsten Ufer.
 
-![image](/images/Fährmann.jpg)
+![image](/images/1Fährmann.jpg)
 
 ## Eldric der Bösartige
 
@@ -102,5 +102,7 @@ Eldric der Bösartige, auch bekannt als *der Hexenmeister* ist, die treibe Kraft
 ![image](/images/Hexenmeister.jpg)
 
 ## Emogalf 
+
+Wenn die Helden der Neuzeit in Schwierigkeiten stecken, dann erscheint er wie aus dem Nichts und leitet sie auf den richtigen Weg - Emogalf. Manche halten ihne für den unbekannten grauen Eremit, der schon einst die Helden von damals zum Sieg gegen die Drachen leitete, andere halten ihn für einen nervenden, alten Nichtsnutz, aber egal wie man über ihn denkt ... er weist einen immer auf den richtigen Weg. :)
 
 ![image](/images/emogalf.jpg)
