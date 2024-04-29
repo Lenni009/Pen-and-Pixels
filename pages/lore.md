@@ -100,3 +100,7 @@ Der Kerlaugar gilt als größter See in ganz Gaia. Ihn zum Umrunden dauert mehre
 Eldric der Bösartige, auch bekannt als *der Hexenmeister* ist, die treibe Kraft hinter allem Bösen in ganz Gaia. Viel ist über ihn nicht bekannt. Es scheint jedoch, dass er nach dem Ableben des Wanderprediger Antiochus die Macht über den Kult der Apokalyptiker übernommen hat. Sein einziges Ziel ist es, die Welt in ewige Dunkelheit zu stürzen, um der oberste Herrscher der Welt zu werden. Durch ketzerische Rituale begann Eldric, die toten Drachen zu erwecken und nutzte ihre immense Macht, um Chaos und Zerstörung zu verbreiten. Er glaubt, dass er durch das Erwecken der alten Drachen sein Ziel erreichen kann, alles zu zerstören und eine neue Welt nach seinem Vorbild zu erschaffen.
 
 ![image](/images/Hexenmeister.jpg)
+
+## Emogalf 
+
+![image](/images/emogalf.jpg)
