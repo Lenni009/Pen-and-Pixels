@@ -7,7 +7,7 @@ prev: false
 ---
 <script setup lang="ts">
 import YouTube from 'vue3-youtube'
-const youtubeLink = '';
+const youtubeLink = 'https://youtube.com/live/qW16RFDy3Kc';
 </script>
 
 # Livestream
