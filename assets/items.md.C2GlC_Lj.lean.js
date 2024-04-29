@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as n,a6 as a}from"./chunks/framework.CuLITvPC.js";const u=JSON.parse('{"title":"Items","description":"","frontmatter":{},"headers":[],"relativePath":"items.md","filePath":"items.md"}'),r={name:"items.md"},i=a("",2),s=[i];function d(l,c,h,m,o,_){return n(),e("div",null,s)}const b=t(r,[["render",d]]);export{u as __pageData,b as default};
