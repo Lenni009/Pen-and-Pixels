@@ -11,7 +11,7 @@ hero:
       text: Wiki
       link: /wiki/
     - theme: alt
-      text: Videos
+      text: Sendung
       link: /sendung/stream
   image:
     src: /images/studioprojekt-logo.webp
