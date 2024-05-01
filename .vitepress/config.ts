@@ -1,9 +1,8 @@
-import { isShowTime } from '../pages/code/dataLoader/showTime.data';
 import { nav } from './configs/nav';
 import { head } from './configs/head';
-import { sidebar } from './configs/transformSidebar';
-import { sidebar as rawSidebar } from './sidebar';
-import { defineConfig, type PageData } from 'vitepress';
+import { wikiSidebar } from './configs/wikiSidebar';
+import { showSidebar } from './configs/showSidebar';
+import { defineConfig } from 'vitepress';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -18,7 +17,6 @@ export default defineConfig({
       lazyLoading: true,
     },
   },
-  head,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     docFooter: {
@@ -26,7 +24,7 @@ export default defineConfig({
       next: 'Nächste Seite',
     },
     outline: {
-      level: [2, 3],
+      level: [2, 3], // NoSonar this says to include h2 and h3 headings in the TOC
       label: 'Auf dieser Seite',
     },
     darkModeSwitchLabel: 'Aussehen',
@@ -39,25 +37,17 @@ export default defineConfig({
       provider: 'local',
     },
 
-    nav,
-    sidebar,
+    sidebar: {
+      '/wiki/': wikiSidebar,
+      '/sendung/': showSidebar,
+    },
 
     socialLinks: [
       { icon: 'youtube', link: 'https://www.youtube.com/channel/UCxkzCKNR0yo_jg7KnfN_HGA' },
       { icon: 'github', link: 'https://github.com/Lenni009/Studioprojekt2024' },
     ],
-  },
 
-  transformPageData(pageData: PageData) {
-    if (!isShowTime || !pageData?.frontmatter?.hero?.actions?.[1]) return;
-    pageData.frontmatter.hero.actions[1] = {
-      theme: 'alt',
-      text: 'Stream',
-      link: '/stream',
-    };
-    const wikiLinkSectionIndex = rawSidebar.findIndex((item) => item.items?.some((subItem) => subItem.isPublicEntry));
-    if (wikiLinkSectionIndex === -1) return;
-    const wikiLink = rawSidebar[wikiLinkSectionIndex].items?.find((item) => item.isPublicEntry)?.link;
-    if (wikiLink) pageData.frontmatter.hero.actions[0].link = wikiLink;
+    nav,
   },
+  head,
 });

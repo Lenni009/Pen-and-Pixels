@@ -9,10 +9,10 @@ hero:
   actions:
     - theme: brand
       text: Wiki
-      link: /intro
+      link: /wiki/
     - theme: alt
-      text: Seite erstellen
-      link: /erstellen
+      text: Videos
+      link: /sendung/stream
   image:
     src: /images/studioprojekt-logo.webp
     alt: Logo
