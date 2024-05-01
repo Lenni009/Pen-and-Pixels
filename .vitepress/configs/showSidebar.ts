@@ -4,7 +4,6 @@ import { DefaultTheme } from 'vitepress';
 // link: URL, unter der die Seite erreichbar ist. Muss mit dem Dateinamen der entsprechenden .md Datei übereinstimmen
 export const showSidebar: DefaultTheme.SidebarItem[] = [
   {
-    text: 'Sendung',
     base: '/sendung',
     items: [
       { text: 'Stream', link: '/stream' },
