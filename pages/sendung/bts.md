@@ -2,8 +2,9 @@
 aside: false
 ---
 <script setup lang="ts">
-// import { ref } from 'vue';
 import Gallery from '../code/components/Gallery.vue';
+
+// this is necessary because the glob import doesn't support variables
 const day1 = import.meta.glob('/assets/bts/tag1/*.webp', { eager: true, import: 'default' });
 const day2 = import.meta.glob('/assets/bts/tag2/*.webp', { eager: true, import: 'default' });
 const day3 = import.meta.glob('/assets/bts/tag3/*.webp', { eager: true, import: 'default' });
