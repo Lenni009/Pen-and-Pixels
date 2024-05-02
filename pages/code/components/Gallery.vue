@@ -29,6 +29,7 @@ const selected = ref(0);
         :src="items[selected]"
         alt="Behind the Scenes"
         class="main-img"
+        loading="lazy"
       />
     </div>
     <div class="gallery">
@@ -74,7 +75,7 @@ const selected = ref(0);
       padding: 0.5rem;
 
       &:hover {
-        background-color: color-mix(in srgb, var(--jump-btn-background) 80%, white)
+        background-color: color-mix(in srgb, var(--jump-btn-background) 80%, white);
       }
 
       &.next {
