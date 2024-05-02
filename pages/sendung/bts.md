@@ -29,6 +29,8 @@ const data = {
 
 ![Gruppenbild](/images/gruppenbild.webp)
 
+## Outtakes
+
 ## Tag 1
 
 <Gallery :items="data['day1']" />
