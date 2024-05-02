@@ -59,18 +59,23 @@ const selected = ref(0);
     position: relative;
 
     .jump-btn {
+      --jump-btn-background: #52525294;
       position: absolute;
       bottom: 50%;
       aspect-ratio: 1;
       font-size: large;
       left: 1rem;
       border-radius: 50%;
-      background-color: #52525294;
+      background-color: var(--jump-btn-background);
       color: white;
       display: flex;
       justify-content: center;
       align-items: center;
       padding: 0.5rem;
+
+      &:hover {
+        background-color: color-mix(in srgb, var(--jump-btn-background) 80%, white)
+      }
 
       &.next {
         right: 1rem;
@@ -81,6 +86,7 @@ const selected = ref(0);
     .main-img {
       width: auto;
       max-height: calc(100svh - 200px);
+      margin-inline: auto;
     }
   }
 
