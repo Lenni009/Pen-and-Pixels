@@ -8,7 +8,10 @@ const youtubeLink = 'https://youtube.com/live/qW16RFDy3Kc';
 
 # Livestream
 
-<YouTubeEmbed v-if="youtubeLink" :src="youtubeLink" class="youtube" />
+<YouTubeEmbed
+  v-if="youtubeLink"
+  :src="youtubeLink"
+/>
 <p v-else>Momentan ist der Stream nicht verfügbar. Schau später wieder vorbei oder <a href="https://www.youtube.com/@penandpixels" target="_blank" rel="noopener noreferrer">abonniere unseren Kanal</a>!</p>
 
 ## Show-Zeiten

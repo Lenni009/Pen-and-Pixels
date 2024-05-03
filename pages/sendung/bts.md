@@ -1,8 +1,10 @@
 ---
-aside: false
+aside: true
 ---
 <script setup lang="ts">
 import Gallery from '../code/components/Gallery.vue';
+import YouTubeEmbed from '../code/components/YouTubeEmbed.vue';
+
 
 // this is necessary because the glob import doesn't support variables
 const day1 = import.meta.glob('/assets/bts/tag1/*.webp', { eager: true, import: 'default' });
@@ -28,6 +30,8 @@ const data = {
 # Behind the Scenes
 
 ![Gruppenbild](/images/gruppenbild.webp)
+
+<YouTubeEmbed src="https://youtu.be/E72xLeEtLm8" />
 
 ## Tag 1
 

@@ -9,17 +9,17 @@ import YouTubeEmbed from '../code/components/YouTubeEmbed.vue';
 
 ## Master
 
-<YouTubeEmbed src="" />
+<YouTubeEmbed src="https://youtu.be/p6-cuQuGPSI" />
 
 ## Rohe Aufnahmen
 
 ### 1. Aufnahme
 
-<YouTubeEmbed src="" />
+<YouTubeEmbed src="https://youtu.be/flesdUaB7W4" />
 
 ### 2. Aufnahme
 
-<YouTubeEmbed src="" />
+<YouTubeEmbed src="https://youtu.be/CFnXdSMWDag" />
 
 ### 3. Aufnahme
 
@@ -27,4 +27,4 @@ import YouTubeEmbed from '../code/components/YouTubeEmbed.vue';
 Diese Aufzeichnung ist improvisiert.
 :::
 
-<YouTubeEmbed src="" />
+<YouTubeEmbed src="https://youtu.be/IsxHjBLFkGI" />
