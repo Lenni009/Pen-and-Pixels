@@ -1,9 +1,11 @@
 <script setup lang="ts">
-import { computed } from 'vue';
+import { computed, onMounted, ref } from 'vue';
 
 const props = defineProps<{
   src: string;
 }>();
+
+const title = ref('');
 
 const id = computed(() => {
   try {
@@ -17,14 +19,22 @@ const id = computed(() => {
   }
 });
 const link = computed(() => `https://www.youtube.com/embed/${id.value}`);
+
+onMounted(async () => {
+  const res = await fetch(`https://www.youtube.com/oembed?url=https://youtu.be/${id.value}`);
+  const jsonData: unknown = await res.json();
+  if (jsonData && typeof jsonData === 'object' && 'title' in jsonData && typeof jsonData.title === 'string')
+    title.value = jsonData.title;
+});
 </script>
 
 <template>
   <div class="youtube">
     <iframe
       :src="link"
-      frameborder="0"
+      :title
       loading="lazy"
+      allowfullscreen
     ></iframe>
   </div>
 </template>
@@ -37,6 +47,7 @@ const link = computed(() => `https://www.youtube.com/embed/${id.value}`);
   margin-block-start: 1rem;
 
   iframe {
+    border: none;
     width: auto !important;
     height: 100% !important;
     aspect-ratio: 16/9;
