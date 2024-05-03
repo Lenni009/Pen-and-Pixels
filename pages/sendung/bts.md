@@ -48,22 +48,22 @@ const data = {
 
 <Gallery :items="data['240207']" />
 
-## 16. Februar 2024
+## 16. April 2024
 
 <Gallery :items="data['240416']" />
 
-## 17. Februar 2024
+## 17. April 2024
 
 <Gallery :items="data['240417']" />
 
-## 22. Februar 2024
+## 22. April 2024
 
 <Gallery :items="data['240422']" />
 
-## 23. Februar 2024
+## 23. April 2024
 
 <Gallery :items="data['240423']" />
 
-## 30. Februar 2024
+## 30. April 2024
 
 <Gallery :items="data['240430']" />
