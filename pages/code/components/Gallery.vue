@@ -60,27 +60,21 @@ const selected = ref(0);
     position: relative;
 
     .jump-btn {
-      --jump-btn-background: #52525294;
       position: absolute;
-      bottom: 50%;
-      left: 1rem;
-      aspect-ratio: 1;
+      height: 100%;
       font-size: large;
-      border-radius: 50%;
-      background-color: var(--jump-btn-background);
       color: white;
       display: flex;
       justify-content: center;
       align-items: center;
-      padding: 0.5rem;
+      padding-inline: 0.5rem;
 
       &:hover {
-        background-color: color-mix(in srgb, var(--jump-btn-background) 80%, white);
+        background-color: #52525294;
       }
 
       &.next {
-        right: 1rem;
-        left: unset;
+        right: 0;
       }
     }
 
