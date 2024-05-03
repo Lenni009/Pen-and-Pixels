@@ -4,4 +4,4 @@ Die ME21b-Klasse der Mediengestalter Bild und Ton an der Gutenbergschule in Leip
 
 ## Pen & Paper
 
-Pen & Paper ist im Kern wie eine Art Videospiel, nur mit Papier und Stift statt mit Controller und PC. Die bekannteste Form von Pen & Paper ist Dungeons and Dragons (DnD). Die Spieler denken sich ihre Charaktere selbst aus und bestreiten dann gemeinsam Abenteuer in einer Fantasiewelt. Während der Abenteuer wird gewürfelt, ob bestimmte Aktionen funktionieren. Hierfür wird ein 20-seitiger Würfel verwendet. Die Aktion gelingt, wenn man unter dem jeweiligen benötigten Wert würfelt.
+[Pen & Paper](https://de.wikipedia.org/wiki/Pen-%26-Paper-Rollenspiel) ist im Kern wie eine Art Videospiel, nur mit Papier und Stift statt mit Controller und PC. Die bekannteste Form von Pen & Paper ist Dungeons and Dragons (DnD). Die Spieler denken sich ihre Charaktere selbst aus und bestreiten dann gemeinsam Abenteuer in einer Fantasiewelt. Während der Abenteuer wird gewürfelt, ob bestimmte Aktionen funktionieren. Hierfür wird ein 20-seitiger Würfel verwendet. Die Aktion gelingt, wenn man unter dem jeweiligen benötigten Wert würfelt.
