@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as a,a4 as n}from"./chunks/framework.BtD8NZpO.js";const m=JSON.parse('{"title":"Gegner","description":"","frontmatter":{},"headers":[],"relativePath":"wiki/gegner.md","filePath":"wiki/gegner.md"}'),t={name:"wiki/gegner.md"},i=n("",5),o=[i];function s(l,h,d,_,c,g){return a(),r("div",null,o)}const f=e(t,[["render",s]]);export{m as __pageData,f as default};

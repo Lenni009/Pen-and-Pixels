@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as r,a4 as t}from"./chunks/framework.avPINgVp.js";const m=JSON.parse('{"title":"Waffen","description":"","frontmatter":{},"headers":[],"relativePath":"wiki/waffen.md","filePath":"wiki/waffen.md"}'),n={name:"wiki/waffen.md"},o=t("",11),h=[o];function i(l,f,s,d,c,u){return r(),e("div",null,h)}const _=a(n,[["render",i]]);export{m as __pageData,_ as default};

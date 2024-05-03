@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as n,a4 as r}from"./chunks/framework.BtD8NZpO.js";const u=JSON.parse('{"title":"Items","description":"","frontmatter":{},"headers":[],"relativePath":"wiki/items.md","filePath":"wiki/items.md"}'),a={name:"wiki/items.md"},i=r("",2),s=[i];function d(l,c,h,m,o,_){return n(),e("div",null,s)}const b=t(a,[["render",d]]);export{u as __pageData,b as default};
