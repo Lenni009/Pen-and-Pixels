@@ -1,16 +1,32 @@
 <script setup lang="ts">
-import YouTube from 'vue3-youtube';
+import { computed } from 'vue';
 
-defineProps<{
+const props = defineProps<{
   src: string;
 }>();
+
+const id = computed(() => {
+  try {
+    const url = new URL(props.src);
+    const searchParams = new URLSearchParams(url.search);
+    const videoId = searchParams.get('v');
+    const lastUrlItem = url.pathname.split('/').filter(Boolean).at(-1);
+    return videoId ?? lastUrlItem ?? '';
+  } catch {
+    return '';
+  }
+});
+const link = computed(() => `https://www.youtube.com/embed/${id.value}`);
 </script>
 
 <template>
-  <YouTube
-    :src
-    class="youtube"
-  />
+  <div class="youtube">
+    <iframe
+      :src="link"
+      frameborder="0"
+      loading="lazy"
+    ></iframe>
+  </div>
 </template>
 
 <style scoped lang="scss">
@@ -20,7 +36,7 @@ defineProps<{
   aspect-ratio: 16/9;
   margin-block-start: 1rem;
 
-  :deep(iframe) {
+  iframe {
     width: auto !important;
     height: 100% !important;
     aspect-ratio: 16/9;
