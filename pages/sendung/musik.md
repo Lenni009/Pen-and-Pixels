@@ -5,8 +5,8 @@ import YouTubeEmbed from '../code/components/YouTubeEmbed.vue';
 
 ## Fährmann Theme
 
-<YouTubeEmbed src="" />
+<YouTubeEmbed src="https://youtu.be/0blEjxteEXU" />
 
 ## Barde Techno Remix
 
-<YouTubeEmbed src="" />
+<YouTubeEmbed src="https://youtu.be/M7vY7WDNO9w" />
