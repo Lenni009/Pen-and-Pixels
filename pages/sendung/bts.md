@@ -1,6 +1,3 @@
----
-aside: true
----
 <script setup lang="ts">
 import Gallery from '../code/components/Gallery.vue';
 import YouTubeEmbed from '../code/components/YouTubeEmbed.vue';

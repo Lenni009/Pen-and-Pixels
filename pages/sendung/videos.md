@@ -1,6 +1,3 @@
----
-aside: false
----
 <script setup lang="ts">
 import YouTubeEmbed from '../code/components/YouTubeEmbed.vue';
 </script>
