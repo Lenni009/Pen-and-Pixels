@@ -27,11 +27,11 @@ import YouTubeEmbed from '../code/components/YouTubeEmbed.vue';
 
 ## Werbungen
 
-### Gilde
+### Komm in die Gilde
 
 <YouTubeEmbed src="https://youtu.be/gpqr8ZaQehs" />
 
-### Trank
+### Zaubertrank
 
 <YouTubeEmbed src="https://youtu.be/ByMh9QIYbE0" />
 
