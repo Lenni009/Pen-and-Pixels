@@ -11,6 +11,7 @@ export const showSidebar: DefaultTheme.SidebarItem[] = [
       { text: 'Einspieler', link: '/clips' },
       { text: 'Musik', link: '/musik' },
       { text: 'Behind the Scenes', link: '/bts' },
+      { text: 'Credits', link: '/credits' },
     ],
   },
 ];
