@@ -106,7 +106,7 @@
 - Jakob Weber
 - David Fustermanns
 
-## Software Entwicklung & IT
+## Softwareentwicklung & IT
 
 - Lennart Yaguboglu
 
