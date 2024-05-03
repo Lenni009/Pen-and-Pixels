@@ -4,24 +4,26 @@ import YouTubeEmbed from '../code/components/YouTubeEmbed.vue';
 
 
 // this is necessary because the glob import doesn't support variables
-const day1 = import.meta.glob('/assets/bts/tag1/*.webp', { eager: true, import: 'default' });
-const day2 = import.meta.glob('/assets/bts/tag2/*.webp', { eager: true, import: 'default' });
-const day3 = import.meta.glob('/assets/bts/tag3/*.webp', { eager: true, import: 'default' });
-const day4 = import.meta.glob('/assets/bts/tag4/*.webp', { eager: true, import: 'default' });
-const day5 = import.meta.glob('/assets/bts/tag5/*.webp', { eager: true, import: 'default' });
-const day6 = import.meta.glob('/assets/bts/tag6/*.webp', { eager: true, import: 'default' });
-const day8 = import.meta.glob('/assets/bts/tag8/*.webp', { eager: true, import: 'default' });
-const day9 = import.meta.glob('/assets/bts/tag9/*.webp', { eager: true, import: 'default' });
+const bts240130 = import.meta.glob('/assets/bts/240130/*.webp', { eager: true, import: 'default' });
+const bts240131 = import.meta.glob('/assets/bts/240131/*.webp', { eager: true, import: 'default' });
+const bts240201 = import.meta.glob('/assets/bts/240201/*.webp', { eager: true, import: 'default' });
+const bts240207 = import.meta.glob('/assets/bts/240207/*.webp', { eager: true, import: 'default' });
+const bts240416 = import.meta.glob('/assets/bts/240416/*.webp', { eager: true, import: 'default' });
+const bts240417 = import.meta.glob('/assets/bts/240417/*.webp', { eager: true, import: 'default' });
+const bts240422 = import.meta.glob('/assets/bts/240422/*.webp', { eager: true, import: 'default' });
+const bts240423 = import.meta.glob('/assets/bts/240423/*.webp', { eager: true, import: 'default' });
+const bts240430 = import.meta.glob('/assets/bts/240430/*.webp', { eager: true, import: 'default' });
 
 const data = {
-  day1: Object.values(day1),
-  day2: Object.values(day2),
-  day3: Object.values(day3),
-  day4: Object.values(day4),
-  day5: Object.values(day5),
-  day6: Object.values(day6),
-  day8: Object.values(day8),
-  day9: Object.values(day9),
+  240130: Object.values(bts240130),
+  240131: Object.values(bts240131),
+  240201: Object.values(bts240201),
+  240207: Object.values(bts240207),
+  240416: Object.values(bts240416),
+  240417: Object.values(bts240417),
+  240422: Object.values(bts240422),
+  240423: Object.values(bts240423),
+  240430: Object.values(bts240430),
 }
 </script>
 # Behind the Scenes
@@ -30,34 +32,38 @@ const data = {
 
 <YouTubeEmbed src="https://youtu.be/E72xLeEtLm8" />
 
-## Tag 1
+## 30. Januar 2024
 
-<Gallery :items="data['day1']" />
+<Gallery :items="data['240130']" />
 
-## Tag 2
+## 31. Januar 2024
 
-<Gallery :items="data['day2']" />
+<Gallery :items="data['240131']" />
 
-## Tag 3
+## 1. Februar 2024
 
-<Gallery :items="data['day3']" />
+<Gallery :items="data['240201']" />
 
-## Tag 4
+## 7. Februar 2024
 
-<Gallery :items="data['day4']" />
+<Gallery :items="data['240207']" />
 
-## Tag 5
+## 16. Februar 2024
 
-<Gallery :items="data['day5']" />
+<Gallery :items="data['240416']" />
 
-## Tag 6
+## 17. Februar 2024
 
-<Gallery :items="data['day6']" />
+<Gallery :items="data['240417']" />
 
-## Tag 8
+## 22. Februar 2024
 
-<Gallery :items="data['day8']" />
+<Gallery :items="data['240422']" />
 
-## Tag 9
+## 23. Februar 2024
 
-<Gallery :items="data['day9']" />
+<Gallery :items="data['240423']" />
+
+## 30. Februar 2024
+
+<Gallery :items="data['240430']" />
