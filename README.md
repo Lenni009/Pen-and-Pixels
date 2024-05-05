@@ -1,6 +1,6 @@
 # Legende von Gutenberg
 
-Wiki für das Studioprojekt der ME21b.
+Webseite für das Studioprojekt der ME21b.
 
 This website uses the Vitepress package.
 
