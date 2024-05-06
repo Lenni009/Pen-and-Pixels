@@ -5,7 +5,7 @@ import YouTubeEmbed from '../code/components/YouTubeEmbed.vue';
 
 ## Szenische Einspieler
 
-### Intro + Recap
+### Intro & Recap
 
 <YouTubeEmbed src="https://youtu.be/n3B64dKBhD8" />
 
