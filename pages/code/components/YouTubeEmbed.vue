@@ -40,17 +40,11 @@ onMounted(async () => {
 </template>
 
 <style scoped lang="scss">
-.youtube {
-  width: 100% !important;
-  height: auto !important;
-  aspect-ratio: 16/9;
+.youtube,
+.youtube iframe {
   margin-block-start: 1rem;
-
-  iframe {
-    border: none;
-    width: auto !important;
-    height: 100% !important;
-    aspect-ratio: 16/9;
-  }
+  width: 100%;
+  aspect-ratio: 16/9;
+  border: none;
 }
 </style>
