@@ -1,4 +1,4 @@
-# Legende von Gutenberg
+# Pen & Pixels
 
 Webseite für das Studioprojekt der ME21b.
 

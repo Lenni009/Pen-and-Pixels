@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: Legende von Gutenberg
-  text: Ein Pen'n'Paper Abenteuer der ME21b
-  tagline: Webseite für das Studioprojekt der ME21b
+  name: Pen & Pixels
+  text: Die Legende von Gutenberg
+  tagline: Ein Pen & Paper Abenteuer der ME21b
   actions:
     - theme: brand
       text: Wiki

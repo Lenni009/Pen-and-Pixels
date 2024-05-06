@@ -46,8 +46,8 @@ export const head: HeadConfig[] = [
     },
   ],
   ['link', { rel: 'shortcut icon', href: '/icons/favicon.ico' }],
-  ['meta', { name: 'application-name', content: 'Legende von Gutenberg' }],
-  ['meta', { name: 'apple-mobile-web-app-title', content: 'Legende von Gutenberg' }],
+  ['meta', { name: 'application-name', content: 'Pen & Pixels' }],
+  ['meta', { name: 'apple-mobile-web-app-title', content: 'Pen & Pixels' }],
   [
     'meta',
     {
