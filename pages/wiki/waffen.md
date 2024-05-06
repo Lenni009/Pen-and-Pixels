@@ -2,20 +2,16 @@
 
 ## Nahkampf
 
-### Schwert
-
-### Axt
-
-### Speer
-
-### Dolch
+- Schwert
+- Axt
+- Speer
+- Dolch
 
 ## Fernkampf
 
-### Zauberstab
-
-### Bogen
+- Zauberstab
+- Bogen
 
 ## Andere Waffen
 
-### Instrumente
+- Instrumente
