@@ -43,7 +43,7 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'youtube', link: 'https://www.youtube.com/channel/UCxkzCKNR0yo_jg7KnfN_HGA' },
+      { icon: 'youtube', link: 'https://www.youtube.com/@penandpixels' },
       { icon: 'github', link: 'https://github.com/Lenni009/Studioprojekt2024' },
     ],
 
