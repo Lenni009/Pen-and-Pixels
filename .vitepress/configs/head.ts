@@ -53,7 +53,7 @@ export const head: HeadConfig[] = [
     {
       name: 'keywords',
       content:
-        'Studioprojekt, 2024, Leipzig, Gutenbergschule, Guts, Gutenbergschule Leipzig, ME21b, Pen & Pixels, Legende von Gutenberg, Studioproduktion, Live',
+        'Studioprojekt, 2024, Leipzig, Gutenbergschule, Guts, Gutenbergschule Leipzig, ME21b, Pen & Pixels, Pen and Pixels, Pen und Pixels, Legende von Gutenberg, Studioproduktion, Live',
     },
   ],
 ];
