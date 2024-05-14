@@ -9,13 +9,13 @@
   },
   "dependencies": {
     "@3d-dice/dice-box-threejs": "^0.0.12",
-    "md-editor-v3": "^4.13.5",
+    "md-editor-v3": "^4.14.1",
     "vitepress": "^1.1.4"
   },
   "devDependencies": {
-    "@types/node": "^20.12.10",
+    "@types/node": "^20.12.11",
     "prettier": "^3.2.5",
-    "sass": "^1.76.0",
-    "vue-tsc": "^2.0.16"
+    "sass": "^1.77.1",
+    "vue-tsc": "^2.0.17"
   }
 }
