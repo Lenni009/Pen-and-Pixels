@@ -1,1 +1,0 @@
-import{_ as e,c as n,o as i,a4 as r}from"./chunks/framework.C2-I83UU.js";const m=JSON.parse('{"title":"Über uns","description":"","frontmatter":{},"headers":[],"relativePath":"wiki/index.md","filePath":"wiki/index.md"}'),t={name:"wiki/index.md"},a=r("",4),s=[a];function d(o,u,l,p,h,b){return i(),n("div",null,s)}const _=e(t,[["render",d]]);export{m as __pageData,_ as default};
