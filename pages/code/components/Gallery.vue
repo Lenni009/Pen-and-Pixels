@@ -60,17 +60,18 @@ const selected = ref(0);
     position: relative;
 
     .jump-btn {
+      --btn-background: transparent;
       position: absolute;
       height: 100%;
       font-size: large;
-      color: white;
       display: flex;
       justify-content: center;
       align-items: center;
       padding-inline: 0.5rem;
 
       &:hover {
-        background-color: #52525294;
+        --btn-background: rgba(from lightgrey r g b / 0.5);
+        background-color: var(--btn-background);
       }
 
       &.next {
@@ -107,5 +108,9 @@ const selected = ref(0);
       }
     }
   }
+}
+
+.dark .jump-btn:hover {
+  --btn-background: rgba(from dimgrey r g b / 0.5) !important;
 }
 </style>
