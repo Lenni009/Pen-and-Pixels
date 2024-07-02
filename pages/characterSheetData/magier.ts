@@ -77,8 +77,8 @@ const soziales: CharacterTrait[] = reactive([
 const inventar: CharacterTrait[] = reactive([
   {
     property: 'Stab',
-    amount: 1
-  }
+    amount: 1,
+  },
 ]);
 
 const characterData: CharacterSheet = reactive({

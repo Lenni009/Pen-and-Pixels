@@ -2,7 +2,6 @@
 import Gallery from '../code/components/Gallery.vue';
 import YouTubeEmbed from '../code/components/YouTubeEmbed.vue';
 
-
 // this is necessary because the glob import doesn't support variables
 const bts240130 = import.meta.glob('/assets/bts/240130/*.webp', { eager: true, import: 'default' });
 const bts240131 = import.meta.glob('/assets/bts/240131/*.webp', { eager: true, import: 'default' });
