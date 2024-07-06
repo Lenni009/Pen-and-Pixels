@@ -17,6 +17,9 @@ export default defineConfig({
       lazyLoading: true,
     },
   },
+  sitemap: {
+    hostname: 'https://pen-pixels.de',
+  },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     docFooter: {
