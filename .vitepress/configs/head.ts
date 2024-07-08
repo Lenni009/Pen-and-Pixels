@@ -50,6 +50,10 @@ export const head: HeadConfig[] = [
   ['meta', { name: 'apple-mobile-web-app-title', content: 'Pen & Pixels' }],
   [
     'meta',
+    { name: 'description', content: 'Pen & Pixels: Die Legende von Gutenberg - Ein Pen & Paper Abenteuer der ME21b' },
+  ],
+  [
+    'meta',
     {
       name: 'keywords',
       content:
