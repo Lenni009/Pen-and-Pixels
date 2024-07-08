@@ -49,7 +49,6 @@ export const head: HeadConfig[] = [
   ['meta', { name: 'application-name', content: 'Pen & Pixels' }],
   ['meta', { name: 'apple-mobile-web-app-title', content: 'Pen & Pixels' }],
   ['meta', { property: 'og:image', content: '/icons/android-chrome-512x512.png' }],
-
   [
     'meta',
     { name: 'description', content: 'Pen & Pixels: Die Legende von Gutenberg - Ein Pen & Paper Abenteuer der ME21b' },
