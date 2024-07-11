@@ -1,4 +1,4 @@
-html {
+html:not(:has(.youtube)) {
   scrollbar-gutter: stable;
 }
 
