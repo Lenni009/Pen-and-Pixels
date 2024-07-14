@@ -38,7 +38,7 @@ onMounted(async () => {
 
 const getRndInteger = (min: number, max: number) => Math.floor(Math.random() * (max - min + 1)) + min;
 
-const getRandomDieNumber = (result?: string) => `1d${diceSides}@${result || getRndInteger(1, 20)}`;
+const getRandomDieNumber = (result?: string) => `1d${diceSides}@${result || getRndInteger(1, diceSides)}`;
 
 function getDieSize() {
   if (!die.value) return;
