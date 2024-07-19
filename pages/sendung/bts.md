@@ -31,6 +31,10 @@ const data = {
 
 <YouTubeEmbed src="https://youtu.be/E72xLeEtLm8" />
 
+::: info
+[Original Bilder & Videos](https://www.dropbox.com/scl/fo/ostuifigw8ng6jl1u4o1j/h?rlkey=myg2reajyeyqrq3r4xxrv1kz1&e=1)
+:::
+
 ## 30. Januar 2024
 
 <Gallery :items="data['240130']" />
