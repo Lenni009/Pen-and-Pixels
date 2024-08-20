@@ -16,14 +16,14 @@ const selected = ref(0);
         class="jump-btn back"
         @click="selected--"
       >
-        <
+        &lt;
       </button>
       <button
         v-if="selected !== items.length - 1"
         class="jump-btn next"
         @click="selected++"
       >
-        >
+        &gt;
       </button>
       <img
         :src="items[selected]"
