@@ -28,6 +28,7 @@
 - Alexander Smolak
 - Carsten Gottlieb
 - Dominic Hellwig
+- Frank Herrmann
 - Ilektra Bogner
 - Lennart Yaguboglu
 - Melina Peiter
