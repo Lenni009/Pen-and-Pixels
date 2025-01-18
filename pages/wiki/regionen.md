@@ -16,7 +16,7 @@ Der Wohnort der Menschen in der Mitte der Welt.
 
 Der letzte Ruheort der Götter. Sovngarde liegt in der Krone des Weltenbaums. Nachdem die legendären Helden der verschiedenen Völker vor vielen Äonen ihre weltlichen Körper für den Erhalt des Baumes opferten und die Drachenbedrohung durch das Aufnehmen derer Seelen beendete, fanden sie in den ruhmreichen Hallen von Sovngarde in der Krone des Baumes ihre letzte Ruhe und leben jetzt dort mit ihrem Drachenblut.
 
-## Skogenheim, *die Waldwelt*, Reich der Elfen
+## Skogenheim, *die Waldwelt*, Reich der Elben
 
 Ein endloser und mystischer Wald rund um den Stamm des Weltenbaums. Nur die Elben kennen sich hier aus.
 
