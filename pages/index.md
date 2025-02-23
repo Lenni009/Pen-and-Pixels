@@ -8,11 +8,11 @@ hero:
   tagline: Ein Pen & Paper Abenteuer der ME21b
   actions:
     - theme: brand
-      text: Wiki
-      link: /wiki/
-    - theme: alt
       text: Sendung
       link: /sendung/stream
+    - theme: alt
+      text: Wiki
+      link: /wiki/
   image:
     src: /images/studioprojekt-logo.webp
     alt: Logo

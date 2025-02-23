@@ -37,7 +37,7 @@ Du kannst Dateien auf zwei Wegen einreichen: Direkt über GitHub, oder über MS 
 
 Hierfür brauchst du einen [GitHub](https://github.com/) Account. Wenn du keinen hast, [erstelle einen](https://github.com/signup).
 
-Schreibe mir (Lennart) deinen Account Namen (über WhatsApp, Teams, etc.), damit ich dich als Mitbearbeiter zum [Repository](https://github.com/Lenni009/Studioprojekt2024) hinzufügen kann.
+Schreibe mir (Lennart) deinen Account Namen (über WhatsApp, Teams, etc.), damit ich dich als Mitbearbeiter zum [Repository](https://github.com/Lenni009/Pen-and-Pixels) hinzufügen kann.
 
 Wenn das getan ist, kannst du die Dateien wie folgt hochladen:
 
