@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@3d-dice/dice-box-threejs": "^0.0.12",
-    "md-editor-v3": "^5.4.5",
+    "md-editor-v3": "^5.5.0",
     "vitepress": "^1.6.3"
   },
   "devDependencies": {
