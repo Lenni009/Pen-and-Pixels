@@ -1,0 +1,1 @@
+import{_ as t,c as r,ag as n,o as d}from"./chunks/framework.XZ1U1TGR.js";const m=JSON.parse('{"title":"NPC Liste","description":"","frontmatter":{},"headers":[],"relativePath":"wiki/npc.md","filePath":"wiki/npc.md"}'),a={name:"wiki/npc.md"};function i(s,e,o,l,h,c){return d(),r("div",null,e[0]||(e[0]=[n("",2)]))}const b=t(a,[["render",i]]);export{m as __pageData,b as default};
